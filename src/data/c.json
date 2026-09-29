@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C-0001",
+    "level": "C",
+    "type": "definite_article",
+    "sentence": "Die Auswirkungen von ___ Klimakrise sind unumkehrbar.",
+    "options": ["der", "die", "das", "den", "dem", "des"],
+    "answer": "der",
+    "case": "Dativ",
+    "focus": "feminine definite article Dativ",
+    "explanation": "`von` + Dativ. `Klimakrise` is feminine, Dativ: `der`.",
+    "tags": ["dativ", "feminine", "preposition", "definite-article"]
+  },
+  {
+    "id": "C-0002",
+    "level": "C",
+    "type": "personal_pronoun",
+    "sentence": "Man sollte ___ nicht so leichtfertig behandeln. (das Problem)",
+    "options": ["es", "ihm", "ihn", "sie", "ihnen", "mir"],
+    "answer": "es",
+    "case": "Akkusativ",
+    "focus": "neuter personal pronoun",
+    "explanation": "`behandeln` + Akkusativ. `Problem` is neuter → `es`.",
+    "tags": ["akkusativ", "neuter", "personal-pronoun"]
+  },
+  {
+    "id": "C-0003",
+    "level": "C",
+    "type": "adjective_ending",
+    "sentence": "In ___ modernen Gesellschaften gibt es neue Herausforderungen.",
+    "options": ["-e", "-en", "-er", "-em", "-es", "-en (weak)"],
+    "answer": "-en",
+    "case": "Dativ",
+    "focus": "plural adjective ending with definite article",
+    "explanation": "`in` + Dativ (where). Plural Dativ: `den` + adjective `-en`.",
+    "tags": ["dativ", "plural", "adjective-ending", "preposition"]
+  },
+  {
+    "id": "C-0004",
+    "level": "C",
+    "type": "definite_article",
+    "sentence": "Obwohl ___ Regierung Maßnahmen ergriffen hat, bleibt die Lage angespannt.",
+    "options": ["der", "die", "das", "den", "dem", "des"],
+    "answer": "die",
+    "case": "Nominativ",
+    "focus": "feminine definite article Nominativ",
+    "explanation": "In the `Obwohl`-clause, the subject is in Nominativ. `Regierung` is feminine → `die`.",
+    "tags": ["nominativ", "feminine", "definite-article"]
+  },
+  {
+    "id": "C-0005",
+    "level": "C",
+    "type": "indefinite_article",
+    "sentence": "Es handelt sich um ___ komplexe Angelegenheit.",
+    "options": ["ein", "eine", "einem", "einen", "einer", "eines"],
+    "answer": "eine",
+    "case": "Akkusativ",
+    "focus": "feminine indefinite article",
+    "explanation": "`sich handeln um` + Akkusativ. `Angelegenheit` is feminine → `eine`.",
+    "tags": ["akkusativ", "feminine", "indefinite-article"]
+  },
+  {
+    "id": "C-0006",
+    "level": "C",
+    "type": "definite_article",
+    "sentence": "Aufgrund ___ neuen Studie wurden die Richtlinien geändert.",
+    "options": ["der", "die", "das", "den", "dem", "des"],
+    "answer": "der",
+    "case": "Genitiv",
+    "focus": "feminine definite article Genitiv",
+    "explanation": "`aufgrund` + Genitiv. `Studie` is feminine, Genitiv: `der`.",
+    "tags": ["genitiv", "feminine", "preposition", "definite-article"]
+  },
+  {
+    "id": "C-0007",
+    "level": "C",
+    "type": "personal_pronoun",
+    "sentence": "Wen betrifft ___? (das Gesetz)",
+    "options": ["es", "ihn", "ihm", "sie", "ihnen", "mir"],
+    "answer": "es",
+    "case": "Nominativ",
+    "focus": "neuter personal pronoun as subject",
+    "explanation": "Subject position → Nominativ. `Gesetz` is neuter → `es`.",
+    "tags": ["nominativ", "neuter", "personal-pronoun"]
+  },
+  {
+    "id": "C-0008",
+    "level": "C",
+    "type": "possessive",
+    "sentence": "Jeder muss ___ eigenen Beitrag leisten.",
+    "options": ["sein", "seine", "seinem", "seinen", "seiner", "seines"],
+    "answer": "seinen",
+    "case": "Akkusativ",
+    "focus": "masculine possessive Akkusativ",
+    "explanation": "`leisten` takes a direct object in Akkusativ. `Beitrag` is masculine → `seinen`.",
+    "tags": ["akkusativ", "masculine", "possessive"]
+  },
+  {
+    "id": "C-0009",
+    "level": "C",
+    "type": "adjective_ending",
+    "sentence": "Durch ___ fortschrittliche Technologie ändert sich die Arbeitswelt.",
+    "options": ["-e", "-en", "-er", "-em", "-es", "-e (weak)"],
+    "answer": "-e",
+    "case": "Akkusativ",
+    "focus": "feminine adjective ending with definite article",
+    "explanation": "`durch` + Akkusativ. `Technologie` is feminine, Akkusativ: `die` + adjective `-e`.",
+    "tags": ["akkusativ", "feminine", "adjective-ending", "preposition"]
+  },
+  {
+    "id": "C-0010",
+    "level": "C",
+    "type": "definite_article",
+    "sentence": "Unabhängig von ___ politischen Lage bleibt das Ziel bestehen.",
+    "options": ["der", "die", "das", "den", "dem", "des"],
+    "answer": "der",
+    "case": "Dativ",
+    "focus": "feminine definite article Dativ",
+    "explanation": "`unabhängig von` + Dativ. `Lage` is feminine, Dativ: `der`.",
+    "tags": ["dativ", "feminine", "preposition", "definite-article"]
+  }
+]
