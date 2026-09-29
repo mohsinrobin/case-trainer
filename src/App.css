@@ -195,6 +195,7 @@ body {
 }
 
 .counter {
+  white-space: nowrap;
   display: flex;
   align-items: baseline;
   gap: 4px;
@@ -257,8 +258,8 @@ body {
   padding: 20px 16px;
   overflow-y: auto;
   position: sticky;
-  top: 53px;
-  height: calc(100vh - 53px);
+  top: var(--topbar-h, 53px);
+  height: calc(100vh - var(--topbar-h, 53px));
 }
 
 .sidebar-title {
@@ -293,6 +294,24 @@ body {
   font-weight: 700;
   font-size: 11px;
   color: var(--text-muted);
+}
+
+/* pronoun table: tall on desktop, turned 90 degrees on phones */
+.pron-wide {
+  display: none;
+}
+
+.ref-table td.hl {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+}
+
+/* row / column that lead to the highlighted cell */
+.ref-table th.hl-axis,
+.ref-table td.hl-axis {
+  background: var(--accent-light);
+  color: var(--accent);
 }
 
 .case-label {
@@ -436,6 +455,7 @@ body {
   font-size: 14px;
   line-height: 1.7;
   color: var(--text-muted);
+  white-space: pre-line; /* explanations are multi-line step lists */
 }
 
 .explanation strong {
@@ -489,19 +509,55 @@ body {
     grid-template-rows: auto auto 1fr;
   }
 
+  /* Phones: only the table that belongs to the current exercise, short enough to stay visible */
   .sidebar {
     position: sticky;
-    top: 53px;
+    top: var(--topbar-h, 53px);
     height: auto;
-    max-height: 200px;
+    max-height: none;
     border-right: none;
     border-bottom: 1px solid var(--border);
-    padding: 14px 16px;
-    overflow-y: auto;
+    padding: 8px 12px 2px;
+    overflow: visible;
+    z-index: 40;
+  }
+
+  .ref-block {
+    display: none;
+  }
+
+  .ref-block.is-active {
+    display: block;
   }
 
   .sidebar-title {
-    margin-bottom: 8px;
+    margin-bottom: 4px;
+  }
+
+  .pron-tall {
+    display: none;
+  }
+
+  .pron-wide {
+    display: table;
+    table-layout: fixed;
+  }
+
+  .pron-wide th,
+  .pron-wide td {
+    padding: 3px 1px;
+    font-size: 10px;
+  }
+
+  /* the plural / formal column has the longest words (ihnen/Ihnen) */
+  .pron-wide th:last-child,
+  .pron-wide td:last-child {
+    width: 24%;
+  }
+
+  .pron-wide .case-label {
+    width: 34px;
+    padding-left: 4px !important;
   }
 
   .ref-table {

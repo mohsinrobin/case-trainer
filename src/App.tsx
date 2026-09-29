@@ -58,6 +58,18 @@ export default function App() {
     });
   }, [level, queue, idx]);
 
+
+  // The top bar can wrap on narrow phones; the sticky reference panel must start right below it.
+  useEffect(() => {
+    const bar = document.querySelector('.top-bar');
+    if (!(bar instanceof HTMLElement)) return;
+    const update = () => document.documentElement.style.setProperty('--topbar-h', `${bar.offsetHeight}px`);
+    update();
+    const ro = new ResizeObserver(update);
+    ro.observe(bar);
+    return () => ro.disconnect();
+  }, [level]);
+
   const current = queue[idx] ?? null;
   const total = queue.length;
   const solved = idx + (selectedAnswer !== null ? 1 : 0);
@@ -144,8 +156,10 @@ export default function App() {
 
       {/* Sidebar — reference tables */}
       <aside className="sidebar">
-        <div className="sidebar-title">Articles</div>
-        <ReferenceTables />
+        <ReferenceTables
+          active={current?.type === 'personal_pronoun' ? 'pronoun' : 'article'}
+          highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+        />
       </aside>
 
       {/* Main content */}
