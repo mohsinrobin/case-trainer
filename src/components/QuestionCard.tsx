@@ -17,7 +17,7 @@ export default function QuestionCard({ exercise, selectedAnswer, onSelect }: Pro
     <div className="question-card">
       <p className="sentence">
         {parts[0]}
-        <span className="blank">{answered ? exercise.answer : '___'}</span>
+        <span className={`blank${/\p{L}$/u.test(parts[0]) ? ' blank-suffix' : ''}`}>{answered ? exercise.answer : '___'}</span>
         {parts[1]}
       </p>
 

@@ -2,11 +2,13 @@ import { useState, useEffect, useCallback } from 'react';
 import type { ChunkGroup, Exercise } from './types';
 import ReferenceTables from './components/ReferenceTables';
 import ChunkList from './components/ChunkList';
+import AdjectiveTables from './components/AdjectiveTables';
 import QuestionCard from './components/QuestionCard';
 import aDataRaw from './data/a.json';
 import bDataRaw from './data/b.json';
 import cDataRaw from './data/c.json';
 import vpDataRaw from './data/vp.json';
+import adjDataRaw from './data/adj.json';
 import vpChunksRaw from './data/vp_chunks.json';
 
 const DATA: Record<string, Exercise[]> = {
@@ -14,6 +16,7 @@ const DATA: Record<string, Exercise[]> = {
   B: bDataRaw as Exercise[],
   C: cDataRaw as Exercise[],
   VP: vpDataRaw as Exercise[],
+  ADJ: adjDataRaw as Exercise[],
 };
 
 const CHUNK_GROUPS = vpChunksRaw as ChunkGroup[];
@@ -27,9 +30,9 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-type Level = 'A' | 'B' | 'C' | 'VP';
-const LEVELS: Level[] = ['A', 'B', 'C', 'VP'];
-const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P' };
+type Level = 'A' | 'B' | 'C' | 'VP' | 'ADJ';
+const LEVELS: Level[] = ['A', 'B', 'C', 'VP', 'ADJ'];
+const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P', ADJ: 'ADJ' };
 
 export default function App() {
   const [level, setLevel] = useState<Level | null>(null);
@@ -121,7 +124,7 @@ export default function App() {
           ))}
         </div>
         <p className="level-hint">
-          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks
+          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks · ADJ = adjective endings
         </p>
       </div>
     );
@@ -157,7 +160,7 @@ export default function App() {
             className={`random-btn ${random ? 'active' : ''}`}
             onClick={handleRandomToggle}
           >
-            🔀 Random
+            🔀 <span className="random-label">Random</span>
           </button>
         </div>
       </div>
@@ -166,6 +169,11 @@ export default function App() {
       <aside className="sidebar">
         {level === 'VP' ? (
           <ChunkList groups={CHUNK_GROUPS} highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
+        ) : level === 'ADJ' ? (
+          <AdjectiveTables
+            active={(current?.ref?.row.split(' ')[0] as 'weak' | 'mixed' | 'strong' | undefined) ?? 'weak'}
+            highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+          />
         ) : (
           <ReferenceTables
             active={current?.type === 'personal_pronoun' ? 'pronoun' : 'article'}
