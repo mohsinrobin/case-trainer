@@ -296,6 +296,59 @@ body {
   color: var(--text-muted);
 }
 
+/* ===================== VERB + PREPOSITION CHUNK LIST ===================== */
+.chunk-group {
+  margin-bottom: 14px;
+}
+
+.chunk-title {
+  display: inline-block;
+  margin-bottom: 6px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.chunk-title span {
+  font-weight: 600;
+}
+
+.chunk-title.hl-axis {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.chunk-verbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.chunk-verb {
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 12px;
+}
+
+.chunk-verb.hl {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 700;
+}
+
+.chunk-hint {
+  display: none;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
 /* pronoun table: tall on desktop, turned 90 degrees on phones */
 .pron-wide {
   display: none;
@@ -509,6 +562,35 @@ body {
     grid-template-rows: auto auto 1fr;
   }
 
+  /* Phones: only the chunk group of the answered verb (the full list would not fit) */
+  /* fixed height: the page must not jump when the group of the answered verb appears */
+  .chunk-list {
+    height: 150px;
+    overflow-y: auto;
+  }
+
+  .chunk-verbs {
+    gap: 3px;
+  }
+
+  .chunk-verb {
+    padding: 1px 7px;
+    font-size: 11px;
+  }
+
+  .chunk-group {
+    display: none;
+    margin-bottom: 4px;
+  }
+
+  .chunk-group.is-current {
+    display: block;
+  }
+
+  .chunk-hint {
+    display: block;
+  }
+
   /* Phones: only the table that belongs to the current exercise, short enough to stay visible */
   .sidebar {
     position: sticky;
@@ -605,6 +687,10 @@ body {
 
   .top-bar {
     padding: 10px 14px;
+  }
+
+  .mini-level-btn {
+    padding: 5px 10px;
   }
 
   .top-bar-title {

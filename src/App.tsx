@@ -1,16 +1,22 @@
 import { useState, useEffect, useCallback } from 'react';
-import type { Exercise } from './types';
+import type { ChunkGroup, Exercise } from './types';
 import ReferenceTables from './components/ReferenceTables';
+import ChunkList from './components/ChunkList';
 import QuestionCard from './components/QuestionCard';
 import aDataRaw from './data/a.json';
 import bDataRaw from './data/b.json';
 import cDataRaw from './data/c.json';
+import vpDataRaw from './data/vp.json';
+import vpChunksRaw from './data/vp_chunks.json';
 
 const DATA: Record<string, Exercise[]> = {
   A: aDataRaw as Exercise[],
   B: bDataRaw as Exercise[],
   C: cDataRaw as Exercise[],
+  VP: vpDataRaw as Exercise[],
 };
+
+const CHUNK_GROUPS = vpChunksRaw as ChunkGroup[];
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -21,7 +27,9 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-type Level = 'A' | 'B' | 'C';
+type Level = 'A' | 'B' | 'C' | 'VP';
+const LEVELS: Level[] = ['A', 'B', 'C', 'VP'];
+const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P' };
 
 export default function App() {
   const [level, setLevel] = useState<Level | null>(null);
@@ -106,14 +114,14 @@ export default function App() {
         <h1>German Case Practice</h1>
         <p className="tagline">Repetitive practice. No lessons. Just do.</p>
         <div className="level-buttons">
-          {(['A', 'B', 'C'] as Level[]).map((l) => (
+          {LEVELS.map((l) => (
             <button key={l} className="level-btn" onClick={() => setLevel(l)}>
-              {l}
+              {LEVEL_LABEL[l]}
             </button>
           ))}
         </div>
         <p className="level-hint">
-          A = everyday · B = workplace / travel · C = abstract / academic
+          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks
         </p>
       </div>
     );
@@ -127,13 +135,13 @@ export default function App() {
         <div className="top-bar-left">
           <span className="top-bar-title">Case Practice</span>
           <div className="level-switch">
-            {(['A', 'B', 'C'] as Level[]).map((l) => (
+            {LEVELS.map((l) => (
               <button
                 key={l}
                 className={`mini-level-btn ${level === l ? 'active' : ''}`}
                 onClick={() => setLevel(l)}
               >
-                {l}
+                {LEVEL_LABEL[l]}
               </button>
             ))}
           </div>
@@ -156,10 +164,14 @@ export default function App() {
 
       {/* Sidebar — reference tables */}
       <aside className="sidebar">
-        <ReferenceTables
-          active={current?.type === 'personal_pronoun' ? 'pronoun' : 'article'}
-          highlight={selectedAnswer !== null ? current?.ref ?? null : null}
-        />
+        {level === 'VP' ? (
+          <ChunkList groups={CHUNK_GROUPS} highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
+        ) : (
+          <ReferenceTables
+            active={current?.type === 'personal_pronoun' ? 'pronoun' : 'article'}
+            highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+          />
+        )}
       </aside>
 
       {/* Main content */}

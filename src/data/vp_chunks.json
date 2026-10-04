@@ -1,0 +1,861 @@
+[
+  {
+    "key": "an + Akk",
+    "prep": "an",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "denken",
+        "gloss": "to think of",
+        "level": "A"
+      },
+      {
+        "verb": "sich erinnern",
+        "gloss": "to remember",
+        "level": "B"
+      },
+      {
+        "verb": "erinnern",
+        "gloss": "to remind of",
+        "level": "B"
+      },
+      {
+        "verb": "sich gewöhnen",
+        "gloss": "to get used to",
+        "level": "B"
+      },
+      {
+        "verb": "glauben",
+        "gloss": "to believe in",
+        "level": "B"
+      },
+      {
+        "verb": "sich wenden",
+        "gloss": "to turn to, to contact",
+        "level": "B"
+      },
+      {
+        "verb": "sich anpassen",
+        "gloss": "to adapt to",
+        "level": "C"
+      },
+      {
+        "verb": "appellieren",
+        "gloss": "to appeal to",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "an + Dat",
+    "prep": "an",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "arbeiten",
+        "gloss": "to work on",
+        "level": "A"
+      },
+      {
+        "verb": "sich beteiligen",
+        "gloss": "to take part in, to contribute to",
+        "level": "B"
+      },
+      {
+        "verb": "leiden",
+        "gloss": "to suffer from (an illness)",
+        "level": "B"
+      },
+      {
+        "verb": "liegen",
+        "gloss": "to be due to",
+        "level": "B"
+      },
+      {
+        "verb": "teilnehmen",
+        "gloss": "to take part in",
+        "level": "B"
+      },
+      {
+        "verb": "zweifeln",
+        "gloss": "to doubt",
+        "level": "B"
+      },
+      {
+        "verb": "erkranken",
+        "gloss": "to fall ill with",
+        "level": "C"
+      },
+      {
+        "verb": "mangeln",
+        "gloss": "to lack",
+        "level": "C"
+      },
+      {
+        "verb": "sich orientieren",
+        "gloss": "to take one's lead from",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "auf + Akk",
+    "prep": "auf",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "aufpassen",
+        "gloss": "to look after, to watch out for",
+        "level": "A"
+      },
+      {
+        "verb": "sich freuen",
+        "gloss": "to look forward to",
+        "level": "A"
+      },
+      {
+        "verb": "warten",
+        "gloss": "to wait for",
+        "level": "A"
+      },
+      {
+        "verb": "achten",
+        "gloss": "to pay attention to",
+        "level": "B"
+      },
+      {
+        "verb": "ankommen",
+        "gloss": "to depend on (es kommt darauf an)",
+        "level": "B"
+      },
+      {
+        "verb": "anstoßen",
+        "gloss": "to drink a toast to",
+        "level": "B"
+      },
+      {
+        "verb": "antworten",
+        "gloss": "to answer (a question, a mail)",
+        "level": "B"
+      },
+      {
+        "verb": "sich einigen",
+        "gloss": "to agree on",
+        "level": "B"
+      },
+      {
+        "verb": "hoffen",
+        "gloss": "to hope for",
+        "level": "B"
+      },
+      {
+        "verb": "sich konzentrieren",
+        "gloss": "to concentrate on",
+        "level": "B"
+      },
+      {
+        "verb": "reagieren",
+        "gloss": "to react to",
+        "level": "B"
+      },
+      {
+        "verb": "sich verlassen",
+        "gloss": "to rely on",
+        "level": "B"
+      },
+      {
+        "verb": "verzichten",
+        "gloss": "to do without, to give up",
+        "level": "B"
+      },
+      {
+        "verb": "sich vorbereiten",
+        "gloss": "to prepare for",
+        "level": "B"
+      },
+      {
+        "verb": "sich beziehen",
+        "gloss": "to refer to",
+        "level": "C"
+      },
+      {
+        "verb": "hinweisen",
+        "gloss": "to point out",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "auf + Dat",
+    "prep": "auf",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "bestehen",
+        "gloss": "to insist on",
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "key": "aus + Dat",
+    "prep": "aus",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "bestehen",
+        "gloss": "to consist of",
+        "level": "B"
+      },
+      {
+        "verb": "stammen",
+        "gloss": "to come from, to originate in",
+        "level": "B"
+      },
+      {
+        "verb": "schließen",
+        "gloss": "to conclude from",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "bei + Dat",
+    "prep": "bei",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "sich bedanken",
+        "gloss": "to thank (someone)",
+        "level": "A"
+      },
+      {
+        "verb": "helfen",
+        "gloss": "to help with",
+        "level": "A"
+      },
+      {
+        "verb": "sich beschweren",
+        "gloss": "to complain to",
+        "level": "B"
+      },
+      {
+        "verb": "sich bewerben",
+        "gloss": "to apply to (a company)",
+        "level": "B"
+      },
+      {
+        "verb": "bleiben",
+        "gloss": "to stick to",
+        "level": "B"
+      },
+      {
+        "verb": "sich entschuldigen",
+        "gloss": "to apologise to",
+        "level": "B"
+      },
+      {
+        "verb": "sich erkundigen",
+        "gloss": "to ask (at, someone)",
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "key": "für + Akk",
+    "prep": "für",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "sich bedanken",
+        "gloss": "to say thank you for",
+        "level": "A"
+      },
+      {
+        "verb": "danken",
+        "gloss": "to thank for",
+        "level": "A"
+      },
+      {
+        "verb": "sich interessieren",
+        "gloss": "to be interested in",
+        "level": "A"
+      },
+      {
+        "verb": "sich begeistern",
+        "gloss": "to be enthusiastic about",
+        "level": "B"
+      },
+      {
+        "verb": "sich einsetzen",
+        "gloss": "to stand up for",
+        "level": "B"
+      },
+      {
+        "verb": "sich entscheiden",
+        "gloss": "to decide in favour of, to choose",
+        "level": "B"
+      },
+      {
+        "verb": "sich entschuldigen",
+        "gloss": "to apologise for",
+        "level": "B"
+      },
+      {
+        "verb": "gelten",
+        "gloss": "to apply to",
+        "level": "B"
+      },
+      {
+        "verb": "halten",
+        "gloss": "to consider, to take for",
+        "level": "B"
+      },
+      {
+        "verb": "kämpfen",
+        "gloss": "to fight for",
+        "level": "B"
+      },
+      {
+        "verb": "sorgen",
+        "gloss": "to provide for, to see to",
+        "level": "B"
+      },
+      {
+        "verb": "stimmen",
+        "gloss": "to vote for",
+        "level": "B"
+      },
+      {
+        "verb": "sich eignen",
+        "gloss": "to be suitable for",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "gegen + Akk",
+    "prep": "gegen",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "demonstrieren",
+        "gloss": "to demonstrate against",
+        "level": "B"
+      },
+      {
+        "verb": "impfen",
+        "gloss": "to vaccinate against",
+        "level": "B"
+      },
+      {
+        "verb": "kämpfen",
+        "gloss": "to fight against",
+        "level": "B"
+      },
+      {
+        "verb": "protestieren",
+        "gloss": "to protest against",
+        "level": "B"
+      },
+      {
+        "verb": "stimmen",
+        "gloss": "to vote against",
+        "level": "B"
+      },
+      {
+        "verb": "sich wehren",
+        "gloss": "to defend oneself against",
+        "level": "B"
+      },
+      {
+        "verb": "sprechen",
+        "gloss": "to speak against, to count against",
+        "level": "C"
+      },
+      {
+        "verb": "verstoßen",
+        "gloss": "to violate",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "in + Akk",
+    "prep": "in",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "einsteigen",
+        "gloss": "to get in, to get on",
+        "level": "A"
+      },
+      {
+        "verb": "sich verlieben",
+        "gloss": "to fall in love with",
+        "level": "A"
+      },
+      {
+        "verb": "übersetzen",
+        "gloss": "to translate into",
+        "level": "B"
+      },
+      {
+        "verb": "sich einmischen",
+        "gloss": "to interfere in",
+        "level": "C"
+      },
+      {
+        "verb": "investieren",
+        "gloss": "to invest in",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "in + Dat",
+    "prep": "in",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "bestehen",
+        "gloss": "to consist in, to lie in",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "mit + Dat",
+    "prep": "mit",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "anfangen",
+        "gloss": "to begin with",
+        "level": "A"
+      },
+      {
+        "verb": "aufhören",
+        "gloss": "to stop (doing)",
+        "level": "A"
+      },
+      {
+        "verb": "beginnen",
+        "gloss": "to begin with",
+        "level": "A"
+      },
+      {
+        "verb": "sprechen",
+        "gloss": "to talk with",
+        "level": "A"
+      },
+      {
+        "verb": "telefonieren",
+        "gloss": "to phone",
+        "level": "A"
+      },
+      {
+        "verb": "sich treffen",
+        "gloss": "to meet (with)",
+        "level": "A"
+      },
+      {
+        "verb": "sich verabreden",
+        "gloss": "to arrange to meet",
+        "level": "A"
+      },
+      {
+        "verb": "sich beschäftigen",
+        "gloss": "to deal with, to be busy with",
+        "level": "B"
+      },
+      {
+        "verb": "rechnen",
+        "gloss": "to expect, to reckon with",
+        "level": "B"
+      },
+      {
+        "verb": "umgehen",
+        "gloss": "to handle, to deal with",
+        "level": "B"
+      },
+      {
+        "verb": "vergleichen",
+        "gloss": "to compare with",
+        "level": "B"
+      },
+      {
+        "verb": "zurechtkommen",
+        "gloss": "to cope with",
+        "level": "B"
+      },
+      {
+        "verb": "zusammenarbeiten",
+        "gloss": "to cooperate with",
+        "level": "B"
+      },
+      {
+        "verb": "übereinstimmen",
+        "gloss": "to agree with, to match",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "nach + Dat",
+    "prep": "nach",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "fragen",
+        "gloss": "to ask about, to ask for",
+        "level": "A"
+      },
+      {
+        "verb": "riechen",
+        "gloss": "to smell of",
+        "level": "A"
+      },
+      {
+        "verb": "schmecken",
+        "gloss": "to taste of",
+        "level": "A"
+      },
+      {
+        "verb": "suchen",
+        "gloss": "to search for",
+        "level": "A"
+      },
+      {
+        "verb": "sich erkundigen",
+        "gloss": "to inquire about",
+        "level": "B"
+      },
+      {
+        "verb": "greifen",
+        "gloss": "to reach for",
+        "level": "B"
+      },
+      {
+        "verb": "sich sehnen",
+        "gloss": "to long for",
+        "level": "B"
+      },
+      {
+        "verb": "streben",
+        "gloss": "to strive for",
+        "level": "C"
+      },
+      {
+        "verb": "verlangen",
+        "gloss": "to ask for, to demand",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "um + Akk",
+    "prep": "um",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "bitten",
+        "gloss": "to ask for",
+        "level": "A"
+      },
+      {
+        "verb": "sich kümmern",
+        "gloss": "to take care of",
+        "level": "A"
+      },
+      {
+        "verb": "sich bewerben",
+        "gloss": "to apply for (a position)",
+        "level": "B"
+      },
+      {
+        "verb": "gehen",
+        "gloss": "to be about (es geht um)",
+        "level": "B"
+      },
+      {
+        "verb": "sich handeln",
+        "gloss": "to be a case of",
+        "level": "B"
+      },
+      {
+        "verb": "sich sorgen",
+        "gloss": "to worry about",
+        "level": "B"
+      },
+      {
+        "verb": "streiten",
+        "gloss": "to fight over",
+        "level": "B"
+      },
+      {
+        "verb": "beneiden",
+        "gloss": "to envy (someone) for",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "von + Dat",
+    "prep": "von",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "erzählen",
+        "gloss": "to tell about",
+        "level": "A"
+      },
+      {
+        "verb": "hören",
+        "gloss": "to hear from, to hear of",
+        "level": "A"
+      },
+      {
+        "verb": "träumen",
+        "gloss": "to dream of",
+        "level": "A"
+      },
+      {
+        "verb": "sich verabschieden",
+        "gloss": "to say goodbye to",
+        "level": "A"
+      },
+      {
+        "verb": "abhängen",
+        "gloss": "to depend on",
+        "level": "B"
+      },
+      {
+        "verb": "sich erholen",
+        "gloss": "to recover from",
+        "level": "B"
+      },
+      {
+        "verb": "halten",
+        "gloss": "to think of (opinion)",
+        "level": "B"
+      },
+      {
+        "verb": "handeln",
+        "gloss": "to be about (a book, a film)",
+        "level": "B"
+      },
+      {
+        "verb": "leben",
+        "gloss": "to live on",
+        "level": "B"
+      },
+      {
+        "verb": "profitieren",
+        "gloss": "to benefit from",
+        "level": "B"
+      },
+      {
+        "verb": "sich trennen",
+        "gloss": "to part from",
+        "level": "B"
+      },
+      {
+        "verb": "sich unterscheiden",
+        "gloss": "to differ from",
+        "level": "B"
+      },
+      {
+        "verb": "ausgehen",
+        "gloss": "to assume, to start from",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "vor + Dat",
+    "prep": "vor",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "Angst haben",
+        "gloss": "to be afraid of",
+        "level": "A"
+      },
+      {
+        "verb": "fliehen",
+        "gloss": "to flee from",
+        "level": "B"
+      },
+      {
+        "verb": "sich fürchten",
+        "gloss": "to be afraid of",
+        "level": "B"
+      },
+      {
+        "verb": "schützen",
+        "gloss": "to protect from",
+        "level": "B"
+      },
+      {
+        "verb": "sich verstecken",
+        "gloss": "to hide from",
+        "level": "B"
+      },
+      {
+        "verb": "warnen",
+        "gloss": "to warn of",
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "key": "zu + Dat",
+    "prep": "zu",
+    "case": "Dat",
+    "verbs": [
+      {
+        "verb": "einladen",
+        "gloss": "to invite to",
+        "level": "A"
+      },
+      {
+        "verb": "gratulieren",
+        "gloss": "to congratulate on",
+        "level": "A"
+      },
+      {
+        "verb": "beitragen",
+        "gloss": "to contribute to",
+        "level": "B"
+      },
+      {
+        "verb": "sich entschließen",
+        "gloss": "to decide on",
+        "level": "B"
+      },
+      {
+        "verb": "führen",
+        "gloss": "to lead to",
+        "level": "B"
+      },
+      {
+        "verb": "gehören",
+        "gloss": "to belong to, to be among",
+        "level": "B"
+      },
+      {
+        "verb": "passen",
+        "gloss": "to go with, to suit",
+        "level": "B"
+      },
+      {
+        "verb": "raten",
+        "gloss": "to advise (in favour of)",
+        "level": "B"
+      },
+      {
+        "verb": "überreden",
+        "gloss": "to persuade to",
+        "level": "B"
+      },
+      {
+        "verb": "neigen",
+        "gloss": "to tend to",
+        "level": "C"
+      },
+      {
+        "verb": "zählen",
+        "gloss": "to count among",
+        "level": "C"
+      },
+      {
+        "verb": "sich äußern",
+        "gloss": "to comment on",
+        "level": "C"
+      }
+    ]
+  },
+  {
+    "key": "über + Akk",
+    "prep": "über",
+    "case": "Akk",
+    "verbs": [
+      {
+        "verb": "sich freuen",
+        "gloss": "to be pleased about",
+        "level": "A"
+      },
+      {
+        "verb": "lachen",
+        "gloss": "to laugh at, to laugh about",
+        "level": "A"
+      },
+      {
+        "verb": "sprechen",
+        "gloss": "to talk about",
+        "level": "A"
+      },
+      {
+        "verb": "sich unterhalten",
+        "gloss": "to chat about",
+        "level": "A"
+      },
+      {
+        "verb": "sich ärgern",
+        "gloss": "to be annoyed about",
+        "level": "A"
+      },
+      {
+        "verb": "berichten",
+        "gloss": "to report on",
+        "level": "B"
+      },
+      {
+        "verb": "sich beschweren",
+        "gloss": "to complain about",
+        "level": "B"
+      },
+      {
+        "verb": "diskutieren",
+        "gloss": "to discuss",
+        "level": "B"
+      },
+      {
+        "verb": "sich informieren",
+        "gloss": "to find out about",
+        "level": "B"
+      },
+      {
+        "verb": "nachdenken",
+        "gloss": "to think about, to reflect on",
+        "level": "B"
+      },
+      {
+        "verb": "staunen",
+        "gloss": "to marvel at",
+        "level": "B"
+      },
+      {
+        "verb": "sich streiten",
+        "gloss": "to argue about",
+        "level": "B"
+      },
+      {
+        "verb": "sich wundern",
+        "gloss": "to be surprised at",
+        "level": "B"
+      },
+      {
+        "verb": "entscheiden",
+        "gloss": "to decide on (a matter)",
+        "level": "C"
+      },
+      {
+        "verb": "verfügen",
+        "gloss": "to have at one's disposal",
+        "level": "C"
+      }
+    ]
+  }
+]

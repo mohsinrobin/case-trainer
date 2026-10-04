@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, '..', 'src', 'data');
-const LEVELS = ['a', 'b', 'c'] as const;
+const LEVELS = ['a', 'b', 'c', 'vp'] as const;
 const VALID_LEVELS = new Set(['A', 'B', 'C']);
 
 let errors = 0;
