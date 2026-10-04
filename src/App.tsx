@@ -3,12 +3,14 @@ import type { ChunkGroup, Exercise } from './types';
 import ReferenceTables from './components/ReferenceTables';
 import ChunkList from './components/ChunkList';
 import AdjectiveTables from './components/AdjectiveTables';
+import PossessiveTables from './components/PossessiveTables';
 import QuestionCard from './components/QuestionCard';
 import aDataRaw from './data/a.json';
 import bDataRaw from './data/b.json';
 import cDataRaw from './data/c.json';
 import vpDataRaw from './data/vp.json';
 import adjDataRaw from './data/adj.json';
+import possDataRaw from './data/poss.json';
 import vpChunksRaw from './data/vp_chunks.json';
 
 const DATA: Record<string, Exercise[]> = {
@@ -17,6 +19,7 @@ const DATA: Record<string, Exercise[]> = {
   C: cDataRaw as Exercise[],
   VP: vpDataRaw as Exercise[],
   ADJ: adjDataRaw as Exercise[],
+  EIN: possDataRaw as Exercise[],
 };
 
 const CHUNK_GROUPS = vpChunksRaw as ChunkGroup[];
@@ -30,9 +33,9 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-type Level = 'A' | 'B' | 'C' | 'VP' | 'ADJ';
-const LEVELS: Level[] = ['A', 'B', 'C', 'VP', 'ADJ'];
-const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P', ADJ: 'ADJ' };
+type Level = 'A' | 'B' | 'C' | 'VP' | 'ADJ' | 'EIN';
+const LEVELS: Level[] = ['A', 'B', 'C', 'VP', 'ADJ', 'EIN'];
+const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P', ADJ: 'ADJ', EIN: 'EIN' };
 
 export default function App() {
   const [level, setLevel] = useState<Level | null>(null);
@@ -124,7 +127,7 @@ export default function App() {
           ))}
         </div>
         <p className="level-hint">
-          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks · ADJ = adjective endings
+          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks · ADJ = adjective endings · EIN = ein / kein / mein endings
         </p>
       </div>
     );
@@ -169,6 +172,8 @@ export default function App() {
       <aside className="sidebar">
         {level === 'VP' ? (
           <ChunkList groups={CHUNK_GROUPS} highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
+        ) : level === 'EIN' ? (
+          <PossessiveTables highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
         ) : level === 'ADJ' ? (
           <AdjectiveTables
             active={(current?.ref?.row.split(' ')[0] as 'weak' | 'mixed' | 'strong' | undefined) ?? 'weak'}
