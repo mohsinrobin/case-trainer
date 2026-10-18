@@ -318,8 +318,8 @@
     "type": "cognate",
     "sentence": "English: scandalous  →  German: ___",
     "options": [
-      "skandalos",
       "skandalös",
+      "skandalos",
       "skandalous",
       "skandalus"
     ],
@@ -449,8 +449,8 @@
     "type": "cognate",
     "sentence": "English: infectious  →  German: ___",
     "options": [
-      "infektios",
       "infektiös",
+      "infektios",
       "infektious",
       "infektius"
     ],
@@ -582,8 +582,8 @@
     "sentence": "English: culture  →  German: ___",
     "options": [
       "Kultour",
-      "Kultur",
       "Kultür",
+      "Kultur",
       "Kulture"
     ],
     "answer": "Kultur",
@@ -607,8 +607,8 @@
     "type": "cognate",
     "sentence": "English: unitary  →  German: ___",
     "options": [
-      "unitär",
       "unitar",
+      "unitär",
       "unitary",
       "uniter"
     ],
@@ -869,8 +869,8 @@
     "type": "cognate",
     "sentence": "English: religious  →  German: ___",
     "options": [
-      "religiös",
       "religios",
+      "religiös",
       "religious",
       "religius"
     ],
@@ -1315,8 +1315,8 @@
     "type": "cognate",
     "sentence": "English: sanitary  →  German: ___",
     "options": [
-      "sanitär",
       "sanitar",
+      "sanitär",
       "sanitary",
       "saniter"
     ],
@@ -1369,8 +1369,8 @@
     "sentence": "English: aquaculture  →  German: ___",
     "options": [
       "Aquakultour",
-      "Aquakultur",
       "Aquakultür",
+      "Aquakultur",
       "Aquakulture"
     ],
     "answer": "Aquakultur",
@@ -1706,8 +1706,8 @@
     "type": "cognate",
     "sentence": "English: visionary  →  German: ___",
     "options": [
-      "visionar",
       "visionär",
+      "visionar",
       "visionary",
       "visioner"
     ],
@@ -2545,8 +2545,8 @@
     "sentence": "English: infrastructure  →  German: ___",
     "options": [
       "Infrastruktour",
-      "Infrastruktür",
       "Infrastruktur",
+      "Infrastruktür",
       "Infrastrukture"
     ],
     "answer": "Infrastruktur",
@@ -2781,8 +2781,8 @@
     "type": "cognate",
     "sentence": "English: binary  →  German: ___",
     "options": [
-      "binär",
       "binar",
+      "binär",
       "binary",
       "biner"
     ],
@@ -2807,8 +2807,8 @@
     "type": "cognate",
     "sentence": "English: secretary  →  German: ___",
     "options": [
-      "Sekretar",
       "Sekretär",
+      "Sekretar",
       "Sekretary",
       "Sekreter"
     ],
@@ -3309,8 +3309,8 @@
     "sentence": "English: miniature  →  German: ___",
     "options": [
       "Miniatour",
-      "Miniatur",
       "Miniatür",
+      "Miniatur",
       "Miniature"
     ],
     "answer": "Miniatur",
@@ -3412,8 +3412,8 @@
     "type": "cognate",
     "sentence": "English: voluminous  →  German: ___",
     "options": [
-      "voluminös",
       "voluminos",
+      "voluminös",
       "voluminous",
       "voluminus"
     ],
@@ -3544,8 +3544,8 @@
     "type": "cognate",
     "sentence": "English: legendary  →  German: ___",
     "options": [
-      "legendar",
       "legendär",
+      "legendar",
       "legendary",
       "legender"
     ],
@@ -3597,8 +3597,8 @@
     "sentence": "English: nomenclature  →  German: ___",
     "options": [
       "Nomenklatour",
-      "Nomenklatur",
       "Nomenklatür",
+      "Nomenklatur",
       "Nomenklature"
     ],
     "answer": "Nomenklatur",
@@ -3674,8 +3674,8 @@
     "type": "cognate",
     "sentence": "English: secondary  →  German: ___",
     "options": [
-      "sekundar",
       "sekundär",
+      "sekundar",
       "sekundary",
       "sekunder"
     ],
@@ -3701,8 +3701,8 @@
     "sentence": "English: caricature  →  German: ___",
     "options": [
       "Karikatour",
-      "Karikatur",
       "Karikatür",
+      "Karikatur",
       "Karikature"
     ],
     "answer": "Karikatur",
@@ -4201,8 +4201,8 @@
     "type": "cognate",
     "sentence": "English: mysterious  →  German: ___",
     "options": [
-      "mysterios",
       "mysteriös",
+      "mysterios",
       "mysterious",
       "mysterius"
     ],
@@ -4227,8 +4227,8 @@
     "type": "cognate",
     "sentence": "English: porous  →  German: ___",
     "options": [
-      "porös",
       "poros",
+      "porös",
       "porous",
       "porus"
     ],
@@ -5334,8 +5334,8 @@
     "sentence": "English: nature  →  German: ___",
     "options": [
       "Natour",
-      "Natür",
       "Natur",
+      "Natür",
       "Nature"
     ],
     "answer": "Natur",
@@ -5360,8 +5360,8 @@
     "sentence": "English: fracture  →  German: ___",
     "options": [
       "Fraktour",
-      "Fraktur",
       "Fraktür",
+      "Fraktur",
       "Frakture"
     ],
     "answer": "Fraktur",
@@ -5412,8 +5412,8 @@
     "sentence": "English: aperture  →  German: ___",
     "options": [
       "Apertour",
-      "Apertür",
       "Apertur",
+      "Apertür",
       "Aperture"
     ],
     "answer": "Apertur",
@@ -5437,8 +5437,8 @@
     "type": "cognate",
     "sentence": "English: evolutionary  →  German: ___",
     "options": [
-      "evolutionar",
       "evolutionär",
+      "evolutionar",
       "evolutionary",
       "evolutioner"
     ],
@@ -5594,8 +5594,8 @@
     "type": "cognate",
     "sentence": "English: hereditary  →  German: ___",
     "options": [
-      "hereditär",
       "hereditar",
+      "hereditär",
       "hereditary",
       "herediter"
     ],
@@ -5859,8 +5859,8 @@
     "sentence": "English: ligature  →  German: ___",
     "options": [
       "Ligatour",
-      "Ligatür",
       "Ligatur",
+      "Ligatür",
       "Ligature"
     ],
     "answer": "Ligatur",
@@ -5989,8 +5989,8 @@
     "type": "cognate",
     "sentence": "English: revolutionary  →  German: ___",
     "options": [
-      "revolutionar",
       "revolutionär",
+      "revolutionar",
       "revolutionary",
       "revolutioner"
     ],
@@ -6280,8 +6280,8 @@
     "type": "cognate",
     "sentence": "English: nervous  →  German: ___",
     "options": [
-      "nervös",
       "nervos",
+      "nervös",
       "nervous",
       "nervus"
     ],
@@ -6463,8 +6463,8 @@
     "type": "cognate",
     "sentence": "English: disciplinary  →  German: ___",
     "options": [
-      "disziplinär",
       "disziplinar",
+      "disziplinär",
       "disziplinary",
       "diszipliner"
     ],
@@ -7202,8 +7202,8 @@
     "type": "cognate",
     "sentence": "English: imaginary  →  German: ___",
     "options": [
-      "imaginar",
       "imaginär",
+      "imaginar",
       "imaginary",
       "imaginer"
     ],
