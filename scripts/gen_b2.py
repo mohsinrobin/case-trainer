@@ -80,7 +80,7 @@ RULES = {
     "IC": ("Latin endings", "-ic(al) → -isch", "Latin ending: adjectives in -ic / -ical usually end in -isch in German",
            {"isch"}, ["ic", "ich", "iesch", "isk"]),
     "IVE": ("Latin endings", "-ive → -iv", "Latin ending: adjectives in -ive usually end in -iv in German (no e)",
-            {"iv"}, ["ive", "if", "ief"]),
+            {"iv"}, ["if", "ief", "iev", "iff"]),
     "ISM": ("Latin endings", "-ism → -ismus", "Latin ending: -ism is -ismus in German (masculine, der)",
             {"ismus"}, ["ism", "isum", "ismos"]),
     "URE": ("Latin endings", "-ure → -ur", "Latin ending: -ure loses its e and becomes -ur (feminine, die)",
@@ -102,9 +102,11 @@ SEG = re.compile(r"\[([^\]]+)\]")
 
 
 DROP_ENGLISH = {"ordinary", "ambulance", "residence", "ignorance", "pompous", "operate", "signature", "ominous",
-                "dance", "reek", "separate", "magic", "military", "center", "kitchen"}  # false friends / loose matches
+                "dance", "reek", "separate", "magic", "military", "center", "kitchen",
+                "belief", "speechless", "theft", "bathtub", "sleepwalker", "wake", "significance", "evil"}  # false friends / loose matches
 BAN_OPTIONS = {"Präsens", "Essens", "harmonieren", "Kelle", "Celle", "sanken", "zanken", "Woge", "oben", "Hertz",
-               "Regen", "Bund", "Fund", "Bad", "Zorn", "Bug", "Buck", "süss", "dun", "Bus", "Dank", "Kunde"}  # real words
+               "Regen", "Bund", "Fund", "Bad", "Zorn", "Bug", "Buck", "süss", "dun", "Bus", "Dank", "Kunde",
+               "tanken", "Recken", "Pad", "Rave", "Abel", "hafen", "tick", "Sing"}  # real words
 
 
 def build_dec():
