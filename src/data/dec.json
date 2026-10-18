@@ -1,0 +1,5565 @@
+[
+  {
+    "id": "D-0001",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: structure  →  German: ___",
+    "options": [
+      "Struktour",
+      "Struktür",
+      "Struktur",
+      "Strukture"
+    ],
+    "answer": "Struktur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: structure\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: structure → Strukt[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Struktur)\n∴ Struktur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0002",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: racism  →  German: ___",
+    "options": [
+      "Rassism",
+      "Rassismos",
+      "Rassismus",
+      "Rassisum"
+    ],
+    "answer": "Rassismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: racism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: racism → Rass[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Rassismus)\n∴ Rassismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0003",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: cement  →  German: ___",
+    "options": [
+      "Cement",
+      "Kement",
+      "Sement",
+      "Tsement",
+      "Zement"
+    ],
+    "answer": "Zement",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: cement\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: cement → [Z]ement   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Zement)\n∴ Zement",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0004",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: arbitrary  →  German: ___",
+    "options": [
+      "arbitrar",
+      "arbiträr",
+      "arbitrary",
+      "arbitrer"
+    ],
+    "answer": "arbiträr",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: arbitrary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: arbitrary → arbitr[är]   (the bracket marks the changed part)\n∴ arbiträr",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0005",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: eliminate  →  German: ___",
+    "options": [
+      "eliminate",
+      "eliminaten",
+      "elimineren",
+      "eliminieren"
+    ],
+    "answer": "eliminieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: eliminate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: eliminate → elimin[ieren]   (the bracket marks the changed part)\n∴ eliminieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0006",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: effective  →  German: ___",
+    "options": [
+      "effektief",
+      "effektif",
+      "effektiv",
+      "effektive"
+    ],
+    "answer": "effektiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: effective\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: effective → effekt[iv]   (the bracket marks the changed part)\n∴ effektiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0007",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: modernize  →  German: ___",
+    "options": [
+      "modernesieren",
+      "modernieren",
+      "modernisieren",
+      "modernizieren"
+    ],
+    "answer": "modernisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: modernize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: modernize → modern[isieren]   (the bracket marks the changed part)\n∴ modernisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0008",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: comfort  →  German: ___",
+    "options": [
+      "Comfort",
+      "Komfort",
+      "Somfort",
+      "Tsomfort",
+      "Zomfort"
+    ],
+    "answer": "Komfort",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: comfort\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: comfort → [K]omfort   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Komfort)\n∴ Komfort",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0009",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: organism  →  German: ___",
+    "options": [
+      "Organism",
+      "Organismos",
+      "Organismus",
+      "Organisum"
+    ],
+    "answer": "Organismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: organism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: organism → Organ[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Organismus)\n∴ Organismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0010",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: alliance  →  German: ___",
+    "options": [
+      "Allianc",
+      "Alliance",
+      "Allians",
+      "Allianz"
+    ],
+    "answer": "Allianz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: alliance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: alliance → Alli[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Allianz)\n∴ Allianz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0011",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: passive  →  German: ___",
+    "options": [
+      "passief",
+      "passif",
+      "passiv",
+      "passive"
+    ],
+    "answer": "passiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: passive\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: passive → pass[iv]   (the bracket marks the changed part)\n∴ passiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0012",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: paragraph  →  German: ___",
+    "options": [
+      "Paragraf",
+      "Paragraff",
+      "Paragrap",
+      "Paragrapf",
+      "Paragrav"
+    ],
+    "answer": "Paragraf",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: paragraph\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: paragraph → Paragra[f]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Paragraf)\n∴ Paragraf",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0013",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: university  →  German: ___",
+    "options": [
+      "Universietät",
+      "Universität",
+      "Universitet",
+      "University"
+    ],
+    "answer": "Universität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: university\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: university → Univers[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Universität)\n∴ Universität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0014",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: camera  →  German: ___",
+    "options": [
+      "Camera",
+      "Kamera",
+      "Samera",
+      "Tsamera",
+      "Zamera"
+    ],
+    "answer": "Kamera",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: camera\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: camera → [K]amera   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kamera)\n∴ Kamera",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0015",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: realize  →  German: ___",
+    "options": [
+      "realesieren",
+      "realieren",
+      "realisieren",
+      "realizieren"
+    ],
+    "answer": "realisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: realize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: realize → real[isieren]   (the bracket marks the changed part)\n∴ realisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0016",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: miniature  →  German: ___",
+    "options": [
+      "Miniatour",
+      "Miniatür",
+      "Miniatur",
+      "Miniature"
+    ],
+    "answer": "Miniatur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: miniature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: miniature → Miniat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Miniatur)\n∴ Miniatur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0017",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: nationality  →  German: ___",
+    "options": [
+      "Nationalietät",
+      "Nationalität",
+      "Nationalitet",
+      "Nationality"
+    ],
+    "answer": "Nationalität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: nationality\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: nationality → National[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Nationalität)\n∴ Nationalität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0018",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: attractive  →  German: ___",
+    "options": [
+      "attraktief",
+      "attraktif",
+      "attraktiv",
+      "attraktive"
+    ],
+    "answer": "attraktiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: attractive\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: attractive → attrakt[iv]   (the bracket marks the changed part)\n∴ attraktiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0019",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: fantastic  →  German: ___",
+    "options": [
+      "fantastic",
+      "fantastich",
+      "fantastiesch",
+      "fantastisch",
+      "fantastisk"
+    ],
+    "answer": "fantastisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: fantastic\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: fantastic → fantast[isch]   (the bracket marks the changed part)\n∴ fantastisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0020",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: relevance  →  German: ___",
+    "options": [
+      "Relevanc",
+      "Relevance",
+      "Relevans",
+      "Relevanz"
+    ],
+    "answer": "Relevanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: relevance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: relevance → Relev[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Relevanz)\n∴ Relevanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0021",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: cell  →  German: ___",
+    "options": [
+      "Selle",
+      "Tselle",
+      "Zelle"
+    ],
+    "answer": "Zelle",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: cell\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: cell → [Z]elle   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Zelle)\n∴ Zelle",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0022",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: privatize  →  German: ___",
+    "options": [
+      "privatesieren",
+      "privatieren",
+      "privatisieren",
+      "privatizieren"
+    ],
+    "answer": "privatisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: privatize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: privatize → privat[isieren]   (the bracket marks the changed part)\n∴ privatisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0023",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: literature  →  German: ___",
+    "options": [
+      "Literatour",
+      "Literatür",
+      "Literatur",
+      "Literature"
+    ],
+    "answer": "Literatur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: literature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: literature → Literat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Literatur)\n∴ Literatur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0024",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: architecture  →  German: ___",
+    "options": [
+      "Architektour",
+      "Architektür",
+      "Architektur",
+      "Architekture"
+    ],
+    "answer": "Architektur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: architecture\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: architecture → Architekt[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Architektur)\n∴ Architektur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0025",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: innovative  →  German: ___",
+    "options": [
+      "innovatief",
+      "innovatif",
+      "innovativ",
+      "innovative"
+    ],
+    "answer": "innovativ",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: innovative\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: innovative → innovat[iv]   (the bracket marks the changed part)\n∴ innovativ",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0026",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: canal  →  German: ___",
+    "options": [
+      "Canal",
+      "Kanal",
+      "Sanal",
+      "Tsanal",
+      "Zanal"
+    ],
+    "answer": "Kanal",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: canal\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: canal → [K]anal   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Kanal)\n∴ Kanal",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0027",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: legalize  →  German: ___",
+    "options": [
+      "legalesieren",
+      "legalieren",
+      "legalisieren",
+      "legalizieren"
+    ],
+    "answer": "legalisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: legalize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: legalize → legal[isieren]   (the bracket marks the changed part)\n∴ legalisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0028",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: photography  →  German: ___",
+    "options": [
+      "Fotografie",
+      "Pfotografie",
+      "Potografie",
+      "Votografie"
+    ],
+    "answer": "Fotografie",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: photography\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: photography → [F]otografie   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Fotografie)\n∴ Fotografie",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0029",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: legendary  →  German: ___",
+    "options": [
+      "legendar",
+      "legendär",
+      "legendary",
+      "legender"
+    ],
+    "answer": "legendär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: legendary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: legendary → legend[är]   (the bracket marks the changed part)\n∴ legendär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0030",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: imaginary  →  German: ___",
+    "options": [
+      "imaginär",
+      "imaginar",
+      "imaginary",
+      "imaginer"
+    ],
+    "answer": "imaginär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: imaginary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: imaginary → imagin[är]   (the bracket marks the changed part)\n∴ imaginär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0031",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: realism  →  German: ___",
+    "options": [
+      "Realism",
+      "Realismos",
+      "Realismus",
+      "Realisum"
+    ],
+    "answer": "Realismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: realism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: realism → Real[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Realismus)\n∴ Realismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0032",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: isolate  →  German: ___",
+    "options": [
+      "isolate",
+      "isolaten",
+      "isoleren",
+      "isolieren"
+    ],
+    "answer": "isolieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: isolate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: isolate → isol[ieren]   (the bracket marks the changed part)\n∴ isolieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0033",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: capacity  →  German: ___",
+    "options": [
+      "Kapazietät",
+      "Kapazität",
+      "Kapazitet",
+      "Kapazity"
+    ],
+    "answer": "Kapazität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: capacity\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: capacity → Kapaz[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kapazität)\n∴ Kapazität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0034",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: creativity  →  German: ___",
+    "options": [
+      "Kreativietät",
+      "Kreativität",
+      "Kreativitet",
+      "Kreativity"
+    ],
+    "answer": "Kreativität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: creativity\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: creativity → Kreativ[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kreativität)\n∴ Kreativität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0035",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: tendency  →  German: ___",
+    "options": [
+      "Tendenc",
+      "Tendence",
+      "Tendens",
+      "Tendenz"
+    ],
+    "answer": "Tendenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: tendency\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: tendency → Tend[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Tendenz)\n∴ Tendenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0036",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: telegraph  →  German: ___",
+    "options": [
+      "Telegraf",
+      "Telegraff",
+      "Telegrap",
+      "Telegrapf",
+      "Telegrav"
+    ],
+    "answer": "Telegraf",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: telegraph\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: telegraph → Telegra[f]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Telegraf)\n∴ Telegraf",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0037",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: resonance  →  German: ___",
+    "options": [
+      "Resonanc",
+      "Resonance",
+      "Resonans",
+      "Resonanz"
+    ],
+    "answer": "Resonanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: resonance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: resonance → Reson[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Resonanz)\n∴ Resonanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0038",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: presence  →  German: ___",
+    "options": [
+      "Präsenc",
+      "Präsence",
+      "Präsenz"
+    ],
+    "answer": "Präsenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: presence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: presence → Präs[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Präsenz)\n∴ Präsenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0039",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: texture  →  German: ___",
+    "options": [
+      "Textour",
+      "Textur",
+      "Textür",
+      "Texture"
+    ],
+    "answer": "Textur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: texture\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: texture → Text[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Textur)\n∴ Textur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0040",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: competence  →  German: ___",
+    "options": [
+      "Kompetenc",
+      "Kompetence",
+      "Kompetens",
+      "Kompetenz"
+    ],
+    "answer": "Kompetenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: competence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: competence → Kompet[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kompetenz)\n∴ Kompetenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0041",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: consequence  →  German: ___",
+    "options": [
+      "Konsequenc",
+      "Konsequence",
+      "Konsequens",
+      "Konsequenz"
+    ],
+    "answer": "Konsequenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: consequence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: consequence → Konsequ[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Konsequenz)\n∴ Konsequenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0042",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: photo  →  German: ___",
+    "options": [
+      "Foto",
+      "Pfoto",
+      "Poto",
+      "Voto"
+    ],
+    "answer": "Foto",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: photo\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: photo → [F]oto   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Foto)\n∴ Foto",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0043",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: difference  →  German: ___",
+    "options": [
+      "Differenc",
+      "Difference",
+      "Differens",
+      "Differenz"
+    ],
+    "answer": "Differenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: difference\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: difference → Differ[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Differenz)\n∴ Differenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0044",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: tolerance  →  German: ___",
+    "options": [
+      "Toleranc",
+      "Tolerance",
+      "Tolerans",
+      "Toleranz"
+    ],
+    "answer": "Toleranz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: tolerance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: tolerance → Toler[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Toleranz)\n∴ Toleranz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0045",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: culture  →  German: ___",
+    "options": [
+      "Kultour",
+      "Kultür",
+      "Kultur",
+      "Kulture"
+    ],
+    "answer": "Kultur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: culture\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: culture → Kult[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kultur)\n∴ Kultur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0046",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: civilize  →  German: ___",
+    "options": [
+      "zivilesieren",
+      "zivilieren",
+      "zivilisieren",
+      "zivilizieren"
+    ],
+    "answer": "zivilisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: civilize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: civilize → zivil[isieren]   (the bracket marks the changed part)\n∴ zivilisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0047",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: historical  →  German: ___",
+    "options": [
+      "historic",
+      "historich",
+      "historiesch",
+      "historisch",
+      "historisk"
+    ],
+    "answer": "historisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: historical\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: historical → histor[isch]   (the bracket marks the changed part)\n∴ historisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0048",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: integrate  →  German: ___",
+    "options": [
+      "integrate",
+      "integraten",
+      "integreren",
+      "integrieren"
+    ],
+    "answer": "integrieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: integrate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: integrate → integr[ieren]   (the bracket marks the changed part)\n∴ integrieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0049",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: temporary  →  German: ___",
+    "options": [
+      "temporar",
+      "temporär",
+      "temporary",
+      "temporer"
+    ],
+    "answer": "temporär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: temporary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: temporary → tempor[är]   (the bracket marks the changed part)\n∴ temporär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0050",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: collective  →  German: ___",
+    "options": [
+      "kollektief",
+      "kollektif",
+      "kollektiv",
+      "kollektive"
+    ],
+    "answer": "kollektiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: collective\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: collective → kollekt[iv]   (the bracket marks the changed part)\n∴ kollektiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0051",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: porous  →  German: ___",
+    "options": [
+      "poros",
+      "porös",
+      "porous",
+      "porus"
+    ],
+    "answer": "porös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: porous\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: porous → por[ös]   (the bracket marks the changed part)\n∴ porös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0052",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: specialize  →  German: ___",
+    "options": [
+      "spezialesieren",
+      "spezialieren",
+      "spezialisieren",
+      "spezializieren"
+    ],
+    "answer": "spezialisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: specialize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: specialize → spezial[isieren]   (the bracket marks the changed part)\n∴ spezialisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0053",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: elegance  →  German: ___",
+    "options": [
+      "Eleganc",
+      "Elegance",
+      "Elegans",
+      "Eleganz"
+    ],
+    "answer": "Eleganz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: elegance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: elegance → Eleg[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Eleganz)\n∴ Eleganz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0054",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: revolutionary  →  German: ___",
+    "options": [
+      "revolutionar",
+      "revolutionär",
+      "revolutionary",
+      "revolutioner"
+    ],
+    "answer": "revolutionär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: revolutionary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: revolutionary → revolution[är]   (the bracket marks the changed part)\n∴ revolutionär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0055",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: terrorism  →  German: ___",
+    "options": [
+      "Terrorism",
+      "Terrorismos",
+      "Terrorismus",
+      "Terrorisum"
+    ],
+    "answer": "Terrorismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: terrorism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: terrorism → Terror[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Terrorismus)\n∴ Terrorismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0056",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: sequence  →  German: ___",
+    "options": [
+      "Sequenc",
+      "Sequence",
+      "Sequens",
+      "Sequenz"
+    ],
+    "answer": "Sequenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: sequence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: sequence → Sequ[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Sequenz)\n∴ Sequenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0057",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: electric  →  German: ___",
+    "options": [
+      "elektric",
+      "elektrich",
+      "elektriesch",
+      "elektrisch",
+      "elektrisk"
+    ],
+    "answer": "elektrisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: electric\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: electric → elektr[isch]   (the bracket marks the changed part)\n∴ elektrisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0058",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: existence  →  German: ___",
+    "options": [
+      "Existenc",
+      "Existence",
+      "Existens",
+      "Existenz"
+    ],
+    "answer": "Existenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: existence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: existence → Exist[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Existenz)\n∴ Existenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0059",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: mysterious  →  German: ___",
+    "options": [
+      "mysterios",
+      "mysteriös",
+      "mysterious",
+      "mysterius"
+    ],
+    "answer": "mysteriös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: mysterious\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: mysterious → mysteri[ös]   (the bracket marks the changed part)\n∴ mysteriös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0060",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: journalism  →  German: ___",
+    "options": [
+      "Journalism",
+      "Journalismos",
+      "Journalismus",
+      "Journalisum"
+    ],
+    "answer": "Journalismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: journalism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: journalism → Journal[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Journalismus)\n∴ Journalismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0061",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: negative  →  German: ___",
+    "options": [
+      "negatief",
+      "negatif",
+      "negativ",
+      "negative"
+    ],
+    "answer": "negativ",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: negative\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: negative → negat[iv]   (the bracket marks the changed part)\n∴ negativ",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0062",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: quality  →  German: ___",
+    "options": [
+      "Qualietät",
+      "Qualität",
+      "Qualitet",
+      "Quality"
+    ],
+    "answer": "Qualität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: quality\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: quality → Qual[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Qualität)\n∴ Qualität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0063",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: class  →  German: ___",
+    "options": [
+      "Classe",
+      "Klasse",
+      "Slasse",
+      "Tslasse",
+      "Zlasse"
+    ],
+    "answer": "Klasse",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: class\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: class → [K]lasse   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Klasse)\n∴ Klasse",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0064",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: intensive  →  German: ___",
+    "options": [
+      "intensief",
+      "intensif",
+      "intensiv",
+      "intensive"
+    ],
+    "answer": "intensiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: intensive\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: intensive → intens[iv]   (the bracket marks the changed part)\n∴ intensiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0065",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: caricature  →  German: ___",
+    "options": [
+      "Karikatour",
+      "Karikatur",
+      "Karikatür",
+      "Karikature"
+    ],
+    "answer": "Karikatur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: caricature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: caricature → Karikat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Karikatur)\n∴ Karikatur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0066",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: distance  →  German: ___",
+    "options": [
+      "Distanc",
+      "Distance",
+      "Distans",
+      "Distanz"
+    ],
+    "answer": "Distanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: distance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: distance → Dist[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Distanz)\n∴ Distanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0067",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: harmonize  →  German: ___",
+    "options": [
+      "harmonesieren",
+      "harmonisieren",
+      "harmonizieren"
+    ],
+    "answer": "harmonisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: harmonize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: harmonize → harmon[isieren]   (the bracket marks the changed part)\n∴ harmonisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0068",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: ambitious  →  German: ___",
+    "options": [
+      "ambitiös",
+      "ambitios",
+      "ambitious",
+      "ambitius"
+    ],
+    "answer": "ambitiös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: ambitious\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: ambitious → ambiti[ös]   (the bracket marks the changed part)\n∴ ambitiös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0069",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: organize  →  German: ___",
+    "options": [
+      "organesieren",
+      "organieren",
+      "organisieren",
+      "organizieren"
+    ],
+    "answer": "organisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: organize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: organize → organ[isieren]   (the bracket marks the changed part)\n∴ organisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0070",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: figure  →  German: ___",
+    "options": [
+      "Figour",
+      "Figur",
+      "Figür",
+      "Figure"
+    ],
+    "answer": "Figur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: figure\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: figure → Fig[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Figur)\n∴ Figur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0071",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: scandalous  →  German: ___",
+    "options": [
+      "skandalös",
+      "skandalos",
+      "skandalous",
+      "skandalus"
+    ],
+    "answer": "skandalös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: scandalous\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: scandalous → skandal[ös]   (the bracket marks the changed part)\n∴ skandalös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0072",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: nationalism  →  German: ___",
+    "options": [
+      "Nationalism",
+      "Nationalismos",
+      "Nationalismus",
+      "Nationalisum"
+    ],
+    "answer": "Nationalismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: nationalism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: nationalism → National[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Nationalismus)\n∴ Nationalismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0073",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: dominance  →  German: ___",
+    "options": [
+      "Dominanc",
+      "Dominance",
+      "Dominans",
+      "Dominanz"
+    ],
+    "answer": "Dominanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: dominance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: dominance → Domin[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Dominanz)\n∴ Dominanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0074",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: nature  →  German: ___",
+    "options": [
+      "Natour",
+      "Natur",
+      "Natür",
+      "Nature"
+    ],
+    "answer": "Natur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: nature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: nature → Nat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Natur)\n∴ Natur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0075",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: cable  →  German: ___",
+    "options": [
+      "Cabel",
+      "Kabel",
+      "Sabel",
+      "Tsabel",
+      "Zabel"
+    ],
+    "answer": "Kabel",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: cable\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: cable → [K]abel   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Kabel)\n∴ Kabel",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0076",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: visionary  →  German: ___",
+    "options": [
+      "visionar",
+      "visionär",
+      "visionary",
+      "visioner"
+    ],
+    "answer": "visionär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: visionary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: visionary → vision[är]   (the bracket marks the changed part)\n∴ visionär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0077",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: create  →  German: ___",
+    "options": [
+      "kreate",
+      "kreaten",
+      "kreeren",
+      "kreieren"
+    ],
+    "answer": "kreieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: create\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: create → kre[ieren]   (the bracket marks the changed part)\n∴ kreieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0078",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: identity  →  German: ___",
+    "options": [
+      "Identietät",
+      "Identität",
+      "Identitet",
+      "Identity"
+    ],
+    "answer": "Identität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: identity\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: identity → Ident[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Identität)\n∴ Identität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0079",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: objective  →  German: ___",
+    "options": [
+      "objektief",
+      "objektif",
+      "objektiv",
+      "objektive"
+    ],
+    "answer": "objektiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: objective\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: objective → objekt[iv]   (the bracket marks the changed part)\n∴ objektiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0080",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: photographer  →  German: ___",
+    "options": [
+      "Fotograf",
+      "Pfotograf",
+      "Potograf",
+      "Votograf"
+    ],
+    "answer": "Fotograf",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: photographer\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: photographer → [F]otograf   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Fotograf)\n∴ Fotograf",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0081",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: brilliance  →  German: ___",
+    "options": [
+      "Brillanc",
+      "Brillance",
+      "Brillans",
+      "Brillanz"
+    ],
+    "answer": "Brillanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: brilliance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: brilliance → Brill[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Brillanz)\n∴ Brillanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0082",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: concentrate  →  German: ___",
+    "options": [
+      "konzentrate",
+      "konzentraten",
+      "konzentreren",
+      "konzentrieren"
+    ],
+    "answer": "konzentrieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: concentrate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: concentrate → konzentr[ieren]   (the bracket marks the changed part)\n∴ konzentrieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0083",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: economic  →  German: ___",
+    "options": [
+      "ökonomic",
+      "ökonomich",
+      "ökonomiesch",
+      "ökonomisch",
+      "ökonomisk"
+    ],
+    "answer": "ökonomisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: economic\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: economic → ökonom[isch]   (the bracket marks the changed part)\n∴ ökonomisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0084",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: active  →  German: ___",
+    "options": [
+      "aktief",
+      "aktif",
+      "aktiv",
+      "aktive"
+    ],
+    "answer": "aktiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: active\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: active → akt[iv]   (the bracket marks the changed part)\n∴ aktiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0085",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: coffee  →  German: ___",
+    "options": [
+      "Caffee",
+      "Kaffee",
+      "Saffee",
+      "Tsaffee",
+      "Zaffee"
+    ],
+    "answer": "Kaffee",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: coffee\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: coffee → [K]affee   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Kaffee)\n∴ Kaffee",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0086",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: substance  →  German: ___",
+    "options": [
+      "Substanc",
+      "Substance",
+      "Substans",
+      "Substanz"
+    ],
+    "answer": "Substanz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: substance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: substance → Subst[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Substanz)\n∴ Substanz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0087",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: temperature  →  German: ___",
+    "options": [
+      "Temperatour",
+      "Temperatur",
+      "Temperatür",
+      "Temperature"
+    ],
+    "answer": "Temperatur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: temperature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: temperature → Temperat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Temperatur)\n∴ Temperatur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0088",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: positive  →  German: ___",
+    "options": [
+      "positief",
+      "positif",
+      "positiv",
+      "positive"
+    ],
+    "answer": "positiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: positive\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: positive → posit[iv]   (the bracket marks the changed part)\n∴ positiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0089",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: cigarette  →  German: ___",
+    "options": [
+      "Cigarette",
+      "Kigarette",
+      "Sigarette",
+      "Tsigarette",
+      "Zigarette"
+    ],
+    "answer": "Zigarette",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: cigarette\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: cigarette → [Z]igarette   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Zigarette)\n∴ Zigarette",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0090",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: complementary  →  German: ___",
+    "options": [
+      "komplementär",
+      "komplementar",
+      "komplementary",
+      "komplementer"
+    ],
+    "answer": "komplementär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: complementary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: complementary → komplement[är]   (the bracket marks the changed part)\n∴ komplementär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0091",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: photocopy  →  German: ___",
+    "options": [
+      "Fotokopie",
+      "Pfotokopie",
+      "Potokopie",
+      "Votokopie"
+    ],
+    "answer": "Fotokopie",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: photocopy\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: photocopy → [F]otokopie   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Fotokopie)\n∴ Fotokopie",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0092",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: practical  →  German: ___",
+    "options": [
+      "praktic",
+      "praktich",
+      "praktiesch",
+      "praktisch",
+      "praktisk"
+    ],
+    "answer": "praktisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: practical\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: practical → prakt[isch]   (the bracket marks the changed part)\n∴ praktisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0093",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: finalize  →  German: ___",
+    "options": [
+      "finalesieren",
+      "finalieren",
+      "finalisieren",
+      "finalizieren"
+    ],
+    "answer": "finalisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: finalize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: finalize → final[isieren]   (the bracket marks the changed part)\n∴ finalisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0094",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: arrogance  →  German: ___",
+    "options": [
+      "Arroganc",
+      "Arrogance",
+      "Arrogans",
+      "Arroganz"
+    ],
+    "answer": "Arroganz",
+    "case": "Latin endings",
+    "focus": "-ance → -anz",
+    "explanation": "1. English word: arrogance\n2. Rule: -ance → -anz — Latin ending: -ance becomes -anz (feminine, die)\n3. Apply it: arrogance → Arrog[anz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Arroganz)\n∴ Arroganz",
+    "tags": [
+      "cognate",
+      "anz",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ANZ"
+    }
+  },
+  {
+    "id": "D-0095",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: normalize  →  German: ___",
+    "options": [
+      "normalesieren",
+      "normalieren",
+      "normalisieren",
+      "normalizieren"
+    ],
+    "answer": "normalisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: normalize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: normalize → normal[isieren]   (the bracket marks the changed part)\n∴ normalisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0096",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: logical  →  German: ___",
+    "options": [
+      "logic",
+      "logich",
+      "logiesch",
+      "logisch",
+      "logisk"
+    ],
+    "answer": "logisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: logical\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: logical → log[isch]   (the bracket marks the changed part)\n∴ logisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0097",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: stabilize  →  German: ___",
+    "options": [
+      "stabilesieren",
+      "stabilieren",
+      "stabilisieren",
+      "stabilizieren"
+    ],
+    "answer": "stabilisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: stabilize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: stabilize → stabil[isieren]   (the bracket marks the changed part)\n∴ stabilisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0098",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: electricity  →  German: ___",
+    "options": [
+      "Elektrizietät",
+      "Elektrizität",
+      "Elektrizitet",
+      "Elektrizity"
+    ],
+    "answer": "Elektrizität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: electricity\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: electricity → Elektriz[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Elektrizität)\n∴ Elektrizität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0099",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: authority  →  German: ___",
+    "options": [
+      "Autorietät",
+      "Autorität",
+      "Autoritet",
+      "Autority"
+    ],
+    "answer": "Autorität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: authority\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: authority → Autor[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Autorität)\n∴ Autorität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0100",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: optimism  →  German: ___",
+    "options": [
+      "Optimism",
+      "Optimismos",
+      "Optimismus",
+      "Optimisum"
+    ],
+    "answer": "Optimismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: optimism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: optimism → Optim[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Optimismus)\n∴ Optimismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0101",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: creature  →  German: ___",
+    "options": [
+      "Kreatour",
+      "Kreatur",
+      "Kreatür",
+      "Kreature"
+    ],
+    "answer": "Kreatur",
+    "case": "Latin endings",
+    "focus": "-ure → -ur",
+    "explanation": "1. English word: creature\n2. Rule: -ure → -ur — Latin ending: -ure loses its e and becomes -ur (feminine, die)\n3. Apply it: creature → Kreat[ur]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Kreatur)\n∴ Kreatur",
+    "tags": [
+      "cognate",
+      "ure",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "URE"
+    }
+  },
+  {
+    "id": "D-0102",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: mechanism  →  German: ___",
+    "options": [
+      "Mechanism",
+      "Mechanismos",
+      "Mechanismus",
+      "Mechanisum"
+    ],
+    "answer": "Mechanismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: mechanism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: mechanism → Mechan[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Mechanismus)\n∴ Mechanismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0103",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: systematic  →  German: ___",
+    "options": [
+      "systematic",
+      "systematich",
+      "systematiesch",
+      "systematisch",
+      "systematisk"
+    ],
+    "answer": "systematisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: systematic\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: systematic → systemat[isch]   (the bracket marks the changed part)\n∴ systematisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0104",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: activate  →  German: ___",
+    "options": [
+      "aktivate",
+      "aktivaten",
+      "aktiveren",
+      "aktivieren"
+    ],
+    "answer": "aktivieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: activate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: activate → aktiv[ieren]   (the bracket marks the changed part)\n∴ aktivieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0105",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: conference  →  German: ___",
+    "options": [
+      "Konferenc",
+      "Konference",
+      "Konferens",
+      "Konferenz"
+    ],
+    "answer": "Konferenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: conference\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: conference → Konfer[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Konferenz)\n∴ Konferenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0106",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: secretary  →  German: ___",
+    "options": [
+      "Sekretar",
+      "Sekretär",
+      "Sekretary",
+      "Sekreter"
+    ],
+    "answer": "Sekretär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: secretary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: secretary → Sekret[är]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Sekretär)\n∴ Sekretär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0107",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: tolerate  →  German: ___",
+    "options": [
+      "tolerate",
+      "toleraten",
+      "tolereren",
+      "tolerieren"
+    ],
+    "answer": "tolerieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: tolerate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: tolerate → toler[ieren]   (the bracket marks the changed part)\n∴ tolerieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0108",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: pessimism  →  German: ___",
+    "options": [
+      "Pessimism",
+      "Pessimismos",
+      "Pessimismus",
+      "Pessimisum"
+    ],
+    "answer": "Pessimismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: pessimism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: pessimism → Pessim[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Pessimismus)\n∴ Pessimismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0109",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: typical  →  German: ___",
+    "options": [
+      "typic",
+      "typich",
+      "typiesch",
+      "typisch",
+      "typisk"
+    ],
+    "answer": "typisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: typical\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: typical → typ[isch]   (the bracket marks the changed part)\n∴ typisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0110",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: political  →  German: ___",
+    "options": [
+      "politic",
+      "politich",
+      "politiesch",
+      "politisch",
+      "politisk"
+    ],
+    "answer": "politisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: political\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: political → polit[isch]   (the bracket marks the changed part)\n∴ politisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0111",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: infectious  →  German: ___",
+    "options": [
+      "infektiös",
+      "infektios",
+      "infektious",
+      "infektius"
+    ],
+    "answer": "infektiös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: infectious\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: infectious → infekti[ös]   (the bracket marks the changed part)\n∴ infektiös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0112",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: central  →  German: ___",
+    "options": [
+      "central",
+      "kentral",
+      "sentral",
+      "tsentral",
+      "zentral"
+    ],
+    "answer": "zentral",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: central\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: central → [z]entral   (the bracket marks the changed part)\n∴ zentral",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0113",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: demonstrate  →  German: ___",
+    "options": [
+      "demonstrate",
+      "demonstraten",
+      "demonstreren",
+      "demonstrieren"
+    ],
+    "answer": "demonstrieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: demonstrate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: demonstrate → demonstr[ieren]   (the bracket marks the changed part)\n∴ demonstrieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0114",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: monstrous  →  German: ___",
+    "options": [
+      "monstros",
+      "monströs",
+      "monstrous",
+      "monstrus"
+    ],
+    "answer": "monströs",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: monstrous\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: monstrous → monstr[ös]   (the bracket marks the changed part)\n∴ monströs",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0115",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: romantic  →  German: ___",
+    "options": [
+      "romantic",
+      "romantich",
+      "romantiesch",
+      "romantisch",
+      "romantisk"
+    ],
+    "answer": "romantisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: romantic\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: romantic → romant[isch]   (the bracket marks the changed part)\n∴ romantisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0116",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: primary  →  German: ___",
+    "options": [
+      "primar",
+      "primär",
+      "primary",
+      "primer"
+    ],
+    "answer": "primär",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: primary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: primary → prim[är]   (the bracket marks the changed part)\n∴ primär",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0117",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: frequency  →  German: ___",
+    "options": [
+      "Frequenc",
+      "Frequence",
+      "Frequens",
+      "Frequenz"
+    ],
+    "answer": "Frequenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: frequency\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: frequency → Frequ[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Frequenz)\n∴ Frequenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0118",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: reality  →  German: ___",
+    "options": [
+      "Realietät",
+      "Realität",
+      "Realitet",
+      "Reality"
+    ],
+    "answer": "Realität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: reality\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: reality → Real[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Realität)\n∴ Realität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0119",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: calendar  →  German: ___",
+    "options": [
+      "Calender",
+      "Kalender",
+      "Salender",
+      "Tsalender",
+      "Zalender"
+    ],
+    "answer": "Kalender",
+    "case": "Spelling",
+    "focus": "c → k / z",
+    "explanation": "1. English word: calendar\n2. Rule: c → k / z — Spelling: German writes k before a, o, u and before consonants (class → Klasse), z before e, i, y\n3. Apply it: calendar → [K]alender   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Kalender)\n∴ Kalender",
+    "tags": [
+      "cognate",
+      "c",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "C"
+    }
+  },
+  {
+    "id": "D-0120",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: microphone  →  German: ___",
+    "options": [
+      "Mikroffon",
+      "Mikrofon",
+      "Mikropfon",
+      "Mikropon",
+      "Mikrovon"
+    ],
+    "answer": "Mikrofon",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: microphone\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: microphone → Mikro[f]on   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Mikrofon)\n∴ Mikrofon",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0121",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: socialism  →  German: ___",
+    "options": [
+      "Sozialism",
+      "Sozialismos",
+      "Sozialismus",
+      "Sozialisum"
+    ],
+    "answer": "Sozialismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: socialism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: socialism → Sozial[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Sozialismus)\n∴ Sozialismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0122",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: motivate  →  German: ___",
+    "options": [
+      "motivate",
+      "motivaten",
+      "motiveren",
+      "motivieren"
+    ],
+    "answer": "motivieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: motivate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: motivate → motiv[ieren]   (the bracket marks the changed part)\n∴ motivieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0123",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: dramatic  →  German: ___",
+    "options": [
+      "dramatic",
+      "dramatich",
+      "dramatiesch",
+      "dramatisch",
+      "dramatisk"
+    ],
+    "answer": "dramatisch",
+    "case": "Latin endings",
+    "focus": "-ic(al) → -isch",
+    "explanation": "1. English word: dramatic\n2. Rule: -ic(al) → -isch — Latin ending: adjectives in -ic / -ical usually end in -isch in German\n3. Apply it: dramatic → dramat[isch]   (the bracket marks the changed part)\n∴ dramatisch",
+    "tags": [
+      "cognate",
+      "ic",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IC"
+    }
+  },
+  {
+    "id": "D-0124",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: tourism  →  German: ___",
+    "options": [
+      "Tourism",
+      "Tourismos",
+      "Tourismus",
+      "Tourisum"
+    ],
+    "answer": "Tourismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: tourism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: tourism → Tour[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Tourismus)\n∴ Tourismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0125",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: creative  →  German: ___",
+    "options": [
+      "kreatief",
+      "kreatif",
+      "kreativ",
+      "kreative"
+    ],
+    "answer": "kreativ",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: creative\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: creative → kreat[iv]   (the bracket marks the changed part)\n∴ kreativ",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0126",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: intelligence  →  German: ___",
+    "options": [
+      "Intelligenc",
+      "Intelligence",
+      "Intelligens",
+      "Intelligenz"
+    ],
+    "answer": "Intelligenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: intelligence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: intelligence → Intellig[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Intelligenz)\n∴ Intelligenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0127",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: capitalism  →  German: ___",
+    "options": [
+      "Kapitalism",
+      "Kapitalismos",
+      "Kapitalismus",
+      "Kapitalisum"
+    ],
+    "answer": "Kapitalismus",
+    "case": "Latin endings",
+    "focus": "-ism → -ismus",
+    "explanation": "1. English word: capitalism\n2. Rule: -ism → -ismus — Latin ending: -ism is -ismus in German (masculine, der)\n3. Apply it: capitalism → Kapital[ismus]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Kapitalismus)\n∴ Kapitalismus",
+    "tags": [
+      "cognate",
+      "ism",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISM"
+    }
+  },
+  {
+    "id": "D-0128",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: telephone  →  German: ___",
+    "options": [
+      "Teleffon",
+      "Telefon",
+      "Telepfon",
+      "Telepon",
+      "Televon"
+    ],
+    "answer": "Telefon",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: telephone\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: telephone → Tele[f]on   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Telefon)\n∴ Telefon",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0129",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: nervous  →  German: ___",
+    "options": [
+      "nervos",
+      "nervös",
+      "nervous",
+      "nervus"
+    ],
+    "answer": "nervös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: nervous\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: nervous → nerv[ös]   (the bracket marks the changed part)\n∴ nervös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0130",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: criticize  →  German: ___",
+    "options": [
+      "kritesieren",
+      "kritieren",
+      "kritisieren",
+      "kritizieren"
+    ],
+    "answer": "kritisieren",
+    "case": "Latin endings",
+    "focus": "-ize → -isieren",
+    "explanation": "1. English word: criticize\n2. Rule: -ize → -isieren — Latin ending: verbs in -ize / -ise usually end in -isieren in German\n3. Apply it: criticize → krit[isieren]   (the bracket marks the changed part)\n∴ kritisieren",
+    "tags": [
+      "cognate",
+      "isieren",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ISIEREN"
+    }
+  },
+  {
+    "id": "D-0131",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: priority  →  German: ___",
+    "options": [
+      "Priorietät",
+      "Priorität",
+      "Prioritet",
+      "Priority"
+    ],
+    "answer": "Priorität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: priority\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: priority → Prior[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Priorität)\n∴ Priorität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0132",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: generous  →  German: ___",
+    "options": [
+      "generös",
+      "generos",
+      "generous",
+      "generus"
+    ],
+    "answer": "generös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: generous\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: generous → gener[ös]   (the bracket marks the changed part)\n∴ generös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0133",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: elephant  →  German: ___",
+    "options": [
+      "Elefant",
+      "Eleffant",
+      "Elepant",
+      "Elepfant",
+      "Elevant"
+    ],
+    "answer": "Elefant",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: elephant\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: elephant → Ele[f]ant   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Elefant)\n∴ Elefant",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0134",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: productive  →  German: ___",
+    "options": [
+      "produktief",
+      "produktif",
+      "produktiv",
+      "produktive"
+    ],
+    "answer": "produktiv",
+    "case": "Latin endings",
+    "focus": "-ive → -iv",
+    "explanation": "1. English word: productive\n2. Rule: -ive → -iv — Latin ending: adjectives in -ive usually end in -iv in German (no e)\n3. Apply it: productive → produkt[iv]   (the bracket marks the changed part)\n∴ produktiv",
+    "tags": [
+      "cognate",
+      "ive",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "IVE"
+    }
+  },
+  {
+    "id": "D-0135",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: megaphone  →  German: ___",
+    "options": [
+      "Megaffon",
+      "Megafon",
+      "Megapfon",
+      "Megapon",
+      "Megavon"
+    ],
+    "answer": "Megafon",
+    "case": "Spelling",
+    "focus": "ph → f",
+    "explanation": "1. English word: megaphone\n2. Rule: ph → f — Spelling: modern German writes f where English has ph\n3. Apply it: megaphone → Mega[f]on   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Megafon)\n∴ Megafon",
+    "tags": [
+      "cognate",
+      "ph",
+      "spelling"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Spelling",
+      "col": "PH"
+    }
+  },
+  {
+    "id": "D-0136",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: luxurious  →  German: ___",
+    "options": [
+      "luxurios",
+      "luxuriös",
+      "luxurious",
+      "luxurius"
+    ],
+    "answer": "luxuriös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: luxurious\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: luxurious → luxuri[ös]   (the bracket marks the changed part)\n∴ luxuriös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0137",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: stability  →  German: ___",
+    "options": [
+      "Stabilietät",
+      "Stabilität",
+      "Stabilitet",
+      "Stability"
+    ],
+    "answer": "Stabilität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: stability\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: stability → Stabil[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Stabilität)\n∴ Stabilität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0138",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: religious  →  German: ___",
+    "options": [
+      "religios",
+      "religiös",
+      "religious",
+      "religius"
+    ],
+    "answer": "religiös",
+    "case": "Latin endings",
+    "focus": "-ous → -ös",
+    "explanation": "1. English word: religious\n2. Rule: -ous → -ös — Latin ending: adjectives in -ous usually end in -ös in German\n3. Apply it: religious → religi[ös]   (the bracket marks the changed part)\n∴ religiös",
+    "tags": [
+      "cognate",
+      "ous",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "OUS"
+    }
+  },
+  {
+    "id": "D-0139",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: essence  →  German: ___",
+    "options": [
+      "Essenc",
+      "Essence",
+      "Essenz"
+    ],
+    "answer": "Essenz",
+    "case": "Latin endings",
+    "focus": "-ence/-ency → -enz",
+    "explanation": "1. English word: essence\n2. Rule: -ence/-ency → -enz — Latin ending: -ence / -ency become -enz (feminine, die)\n3. Apply it: essence → Ess[enz]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Essenz)\n∴ Essenz",
+    "tags": [
+      "cognate",
+      "ence",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ENCE"
+    }
+  },
+  {
+    "id": "D-0140",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: evaluate  →  German: ___",
+    "options": [
+      "evaluate",
+      "evaluaten",
+      "evalueren",
+      "evaluieren"
+    ],
+    "answer": "evaluieren",
+    "case": "Latin endings",
+    "focus": "-ate → -ieren",
+    "explanation": "1. English word: evaluate\n2. Rule: -ate → -ieren — Latin ending: verbs in -ate usually end in -ieren in German\n3. Apply it: evaluate → evalu[ieren]   (the bracket marks the changed part)\n∴ evaluieren",
+    "tags": [
+      "cognate",
+      "ate",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ATE"
+    }
+  },
+  {
+    "id": "D-0141",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: contrary  →  German: ___",
+    "options": [
+      "kontrar",
+      "konträr",
+      "kontrary",
+      "kontrer"
+    ],
+    "answer": "konträr",
+    "case": "Latin endings",
+    "focus": "-ary → -är",
+    "explanation": "1. English word: contrary\n2. Rule: -ary → -är — Latin ending: -ary becomes -är in German\n3. Apply it: contrary → kontr[är]   (the bracket marks the changed part)\n∴ konträr",
+    "tags": [
+      "cognate",
+      "ary",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ARY"
+    }
+  },
+  {
+    "id": "D-0142",
+    "level": "A",
+    "type": "cognate",
+    "sentence": "English: activity  →  German: ___",
+    "options": [
+      "Aktivietät",
+      "Aktivität",
+      "Aktivitet",
+      "Aktivity"
+    ],
+    "answer": "Aktivität",
+    "case": "Latin endings",
+    "focus": "-ity → -ität",
+    "explanation": "1. English word: activity\n2. Rule: -ity → -ität — Latin ending: -ity usually becomes -ität in German (feminine, die)\n3. Apply it: activity → Aktiv[ität]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Aktivität)\n∴ Aktivität",
+    "tags": [
+      "cognate",
+      "ity",
+      "latin endings"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Latin endings",
+      "col": "ITY"
+    }
+  },
+  {
+    "id": "D-0143",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: do  →  German: ___",
+    "options": [
+      "dhun",
+      "thun",
+      "tun"
+    ],
+    "answer": "tun",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: do\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: do → [t]un   (the bracket marks the changed part)\n∴ tun",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0144",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: sieve  →  German: ___",
+    "options": [
+      "Sieb",
+      "Sief",
+      "Sieu",
+      "Siev",
+      "Siew"
+    ],
+    "answer": "Sieb",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: sieve\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: sieve → Sie[b]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Sieb)\n∴ Sieb",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0145",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: three  →  German: ___",
+    "options": [
+      "dhrei",
+      "drei",
+      "srei",
+      "trei",
+      "zrei"
+    ],
+    "answer": "drei",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: three\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: three → [d]rei   (the bracket marks the changed part)\n∴ drei",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0146",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: help  →  German: ___",
+    "options": [
+      "helben",
+      "helfen",
+      "helffen",
+      "helphen",
+      "helppen"
+    ],
+    "answer": "helfen",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: help\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: help → hel[f]en   (the bracket marks the changed part)\n∴ helfen",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0147",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: dead  →  German: ___",
+    "options": [
+      "dhot",
+      "dot",
+      "thot",
+      "tot"
+    ],
+    "answer": "tot",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: dead\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: dead → [t]ot   (the bracket marks the changed part)\n∴ tot",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0148",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: milk  →  German: ___",
+    "options": [
+      "Milc",
+      "Milch",
+      "Milck",
+      "Milg",
+      "Milk"
+    ],
+    "answer": "Milch",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: milk\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: milk → Mil[ch]   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Milch)\n∴ Milch",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0149",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: seek  →  German: ___",
+    "options": [
+      "sucen",
+      "suchen",
+      "sucken",
+      "sugen",
+      "suken"
+    ],
+    "answer": "suchen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: seek\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: seek → su[ch]en   (the bracket marks the changed part)\n∴ suchen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0150",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: raven  →  German: ___",
+    "options": [
+      "Rabe",
+      "Rafe",
+      "Raue",
+      "Rave",
+      "Rawe"
+    ],
+    "answer": "Rabe",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: raven\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: raven → Ra[b]e   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Rabe)\n∴ Rabe",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0151",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: evil  →  German: ___",
+    "options": [
+      "übel",
+      "üfel",
+      "üuel",
+      "üvel",
+      "üwel"
+    ],
+    "answer": "übel",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: evil\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: evil → ü[b]el   (the bracket marks the changed part)\n∴ übel",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0152",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: salt  →  German: ___",
+    "options": [
+      "Salss",
+      "Salt",
+      "Saltt",
+      "Saltz",
+      "Salz"
+    ],
+    "answer": "Salz",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: salt\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: salt → Sal[z]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Salz)\n∴ Salz",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0153",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: weave  →  German: ___",
+    "options": [
+      "weben",
+      "wefen",
+      "weuen",
+      "weven",
+      "wewen"
+    ],
+    "answer": "weben",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: weave\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: weave → we[b]en   (the bracket marks the changed part)\n∴ weben",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0154",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: week  →  German: ___",
+    "options": [
+      "Woce",
+      "Woche",
+      "Wocke",
+      "Woke",
+      "Wokhe"
+    ],
+    "answer": "Woche",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: week\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: week → Wo[ch]e   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Woche)\n∴ Woche",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0155",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: apple  →  German: ___",
+    "options": [
+      "Abel",
+      "Affel",
+      "Apel",
+      "Apfel",
+      "Aphel"
+    ],
+    "answer": "Apfel",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: apple\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: apple → A[pf]el   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Apfel)\n∴ Apfel",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0156",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: daughter  →  German: ___",
+    "options": [
+      "Dhochter",
+      "Dochter",
+      "Thochter",
+      "Tochter"
+    ],
+    "answer": "Tochter",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: daughter\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: daughter → [T]ochter   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Tochter)\n∴ Tochter",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0157",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: give  →  German: ___",
+    "options": [
+      "geben",
+      "gefen",
+      "geuen",
+      "geven",
+      "gewen"
+    ],
+    "answer": "geben",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: give\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: give → ge[b]en   (the bracket marks the changed part)\n∴ geben",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0158",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: bath  →  German: ___",
+    "options": [
+      "Bad",
+      "Badh",
+      "Bas",
+      "Bat",
+      "Bath"
+    ],
+    "answer": "Bad",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: bath\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: bath → Ba[d]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Bad)\n∴ Bad",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0159",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: brother  →  German: ___",
+    "options": [
+      "Bruder",
+      "Brudher",
+      "Bruser",
+      "Bruter",
+      "Bruzer"
+    ],
+    "answer": "Bruder",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: brother\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: brother → Bru[d]er   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Bruder)\n∴ Bruder",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0160",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: drop  →  German: ___",
+    "options": [
+      "Dhropfen",
+      "Dropfen",
+      "Thropfen",
+      "Tropfen"
+    ],
+    "answer": "Tropfen",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: drop\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: drop → [T]ropfen   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Tropfen)\n∴ Tropfen",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0161",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: think  →  German: ___",
+    "options": [
+      "denken",
+      "dhenken",
+      "tenken",
+      "thenken",
+      "zenken"
+    ],
+    "answer": "denken",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: think\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: think → [d]enken   (the bracket marks the changed part)\n∴ denken",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0162",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thin  →  German: ___",
+    "options": [
+      "dhünn",
+      "dünn",
+      "thünn",
+      "tünn",
+      "zünn"
+    ],
+    "answer": "dünn",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thin\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thin → [d]ünn   (the bracket marks the changed part)\n∴ dünn",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0163",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: penny  →  German: ___",
+    "options": [
+      "Bennig",
+      "Fennig",
+      "Pennig",
+      "Pfennig",
+      "Phennig"
+    ],
+    "answer": "Pfennig",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: penny\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: penny → [Pf]ennig   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Pfennig)\n∴ Pfennig",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0164",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: day  →  German: ___",
+    "options": [
+      "Dag",
+      "Dhag",
+      "Tag",
+      "Thag"
+    ],
+    "answer": "Tag",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: day\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: day → [T]ag   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Tag)\n∴ Tag",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0165",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: door  →  German: ___",
+    "options": [
+      "Dhür",
+      "Dür",
+      "Thür",
+      "Tür"
+    ],
+    "answer": "Tür",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: door\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: door → [T]ür   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Tür)\n∴ Tür",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0166",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: sleep  →  German: ___",
+    "options": [
+      "schlaben",
+      "schlafen",
+      "schlaffen",
+      "schlapen",
+      "schlaphen"
+    ],
+    "answer": "schlafen",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: sleep\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: sleep → schla[f]en   (the bracket marks the changed part)\n∴ schlafen",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0167",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: navel  →  German: ___",
+    "options": [
+      "Nabel",
+      "Nafel",
+      "Nauel",
+      "Navel",
+      "Nawel"
+    ],
+    "answer": "Nabel",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: navel\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: navel → Na[b]el   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Nabel)\n∴ Nabel",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0168",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: tongue  →  German: ___",
+    "options": [
+      "Dunge",
+      "Thunge",
+      "Tsunge",
+      "Tunge",
+      "Zunge"
+    ],
+    "answer": "Zunge",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: tongue\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: tongue → [Z]unge   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Zunge)\n∴ Zunge",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0169",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: drink  →  German: ___",
+    "options": [
+      "dhrinken",
+      "drinken",
+      "thrinken",
+      "trinken"
+    ],
+    "answer": "trinken",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: drink\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: drink → [t]rinken   (the bracket marks the changed part)\n∴ trinken",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0170",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: open  →  German: ___",
+    "options": [
+      "offen",
+      "open",
+      "opfen",
+      "ophen",
+      "oppen"
+    ],
+    "answer": "offen",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: open\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: open → o[ff]en   (the bracket marks the changed part)\n∴ offen",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0171",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: great  →  German: ___",
+    "options": [
+      "grot",
+      "groth",
+      "grott",
+      "groz",
+      "groß"
+    ],
+    "answer": "groß",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: great\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: great → gro[ß]   (the bracket marks the changed part)\n∴ groß",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0172",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: speak  →  German: ___",
+    "options": [
+      "sprecen",
+      "sprechen",
+      "sprecken",
+      "spreken",
+      "sprekhen"
+    ],
+    "answer": "sprechen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: speak\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: speak → spre[ch]en   (the bracket marks the changed part)\n∴ sprechen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0173",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: ship  →  German: ___",
+    "options": [
+      "Schib",
+      "Schif",
+      "Schiff",
+      "Schiph",
+      "Schipp"
+    ],
+    "answer": "Schiff",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: ship\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: ship → Schi[ff]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Schiff)\n∴ Schiff",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0174",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: copper  →  German: ___",
+    "options": [
+      "Kuber",
+      "Kuffer",
+      "Kuper",
+      "Kupfer",
+      "Kupher"
+    ],
+    "answer": "Kupfer",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: copper\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: copper → Ku[pf]er   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Kupfer)\n∴ Kupfer",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0175",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: seven  →  German: ___",
+    "options": [
+      "sieben",
+      "siefen",
+      "sieuen",
+      "sieven",
+      "siewen"
+    ],
+    "answer": "sieben",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: seven\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: seven → sie[b]en   (the bracket marks the changed part)\n∴ sieben",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0176",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: heart  →  German: ___",
+    "options": [
+      "Hert",
+      "Herth",
+      "Herts",
+      "Herz",
+      "Herß"
+    ],
+    "answer": "Herz",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: heart\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: heart → Her[z]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Herz)\n∴ Herz",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0177",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thick  →  German: ___",
+    "options": [
+      "dhick",
+      "dick",
+      "thick",
+      "tick",
+      "zick"
+    ],
+    "answer": "dick",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thick\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thick → [d]ick   (the bracket marks the changed part)\n∴ dick",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0178",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: tooth  →  German: ___",
+    "options": [
+      "Dahn",
+      "Tahn",
+      "Thahn",
+      "Tsahn",
+      "Zahn"
+    ],
+    "answer": "Zahn",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: tooth\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: tooth → [Z]ahn   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Zahn)\n∴ Zahn",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0179",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thank  →  German: ___",
+    "options": [
+      "danken",
+      "dhanken",
+      "tanken",
+      "thanken"
+    ],
+    "answer": "danken",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thank\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thank → [d]anken   (the bracket marks the changed part)\n∴ danken",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0180",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: pound  →  German: ___",
+    "options": [
+      "Pfund",
+      "Phund",
+      "Pund"
+    ],
+    "answer": "Pfund",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: pound\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: pound → [Pf]und   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Pfund)\n∴ Pfund",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0181",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: time  →  German: ___",
+    "options": [
+      "Deit",
+      "Teit",
+      "Theit",
+      "Tseit",
+      "Zeit"
+    ],
+    "answer": "Zeit",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: time\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: time → [Z]eit   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Zeit)\n∴ Zeit",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0182",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: path  →  German: ___",
+    "options": [
+      "Fad",
+      "Pad",
+      "Pfad",
+      "Phad"
+    ],
+    "answer": "Pfad",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: path\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: path → [Pf]ad   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Pfad)\n∴ Pfad",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0183",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: sweet  →  German: ___",
+    "options": [
+      "süd",
+      "süts",
+      "sütt",
+      "süz",
+      "süß"
+    ],
+    "answer": "süß",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: sweet\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: sweet → sü[ß]   (the bracket marks the changed part)\n∴ süß",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0184",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: bread  →  German: ___",
+    "options": [
+      "Brod",
+      "Brodh",
+      "Brodt",
+      "Brot",
+      "Brott"
+    ],
+    "answer": "Brot",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: bread\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: bread → Bro[t]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Brot)\n∴ Brot",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0185",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: have  →  German: ___",
+    "options": [
+      "haben",
+      "hafen",
+      "hauen",
+      "haven",
+      "hawen"
+    ],
+    "answer": "haben",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: have\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: have → ha[b]en   (the bracket marks the changed part)\n∴ haben",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0186",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: over  →  German: ___",
+    "options": [
+      "über",
+      "üfer",
+      "üuer",
+      "üver",
+      "üwer"
+    ],
+    "answer": "über",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: over\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: over → ü[b]er   (the bracket marks the changed part)\n∴ über",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0187",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: deep  →  German: ___",
+    "options": [
+      "dhief",
+      "dief",
+      "thief",
+      "tief"
+    ],
+    "answer": "tief",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: deep\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: deep → [t]ief   (the bracket marks the changed part)\n∴ tief",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0188",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: ten  →  German: ___",
+    "options": [
+      "dehn",
+      "tehn",
+      "thehn",
+      "tsehn",
+      "zehn"
+    ],
+    "answer": "zehn",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: ten\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: ten → [z]ehn   (the bracket marks the changed part)\n∴ zehn",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0189",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thirst  →  German: ___",
+    "options": [
+      "Dhurst",
+      "Durst",
+      "Surst",
+      "Thurst",
+      "Zurst"
+    ],
+    "answer": "Durst",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thirst\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thirst → [D]urst   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Durst)\n∴ Durst",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0190",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: water  →  German: ___",
+    "options": [
+      "Wader",
+      "Wasser",
+      "Water",
+      "Wazer",
+      "Waßer"
+    ],
+    "answer": "Wasser",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: water\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: water → Wa[ss]er   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Wasser)\n∴ Wasser",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0191",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: make  →  German: ___",
+    "options": [
+      "macen",
+      "machen",
+      "macken",
+      "maken",
+      "makhen"
+    ],
+    "answer": "machen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: make\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: make → ma[ch]en   (the bracket marks the changed part)\n∴ machen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0192",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: silver  →  German: ___",
+    "options": [
+      "Silber",
+      "Silfer",
+      "Siluer",
+      "Silver",
+      "Silwer"
+    ],
+    "answer": "Silber",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: silver\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: silver → Sil[b]er   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Silber)\n∴ Silber",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0193",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thing  →  German: ___",
+    "options": [
+      "Dhing",
+      "Ding",
+      "Sing",
+      "Thing",
+      "Zing"
+    ],
+    "answer": "Ding",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thing\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thing → [D]ing   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Ding)\n∴ Ding",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0194",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: rake  →  German: ___",
+    "options": [
+      "Recen",
+      "Rechen",
+      "Recken",
+      "Reken",
+      "Rekhen"
+    ],
+    "answer": "Rechen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: rake\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: rake → Re[ch]en   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Rechen)\n∴ Rechen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0195",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: wake  →  German: ___",
+    "options": [
+      "wacen",
+      "wachen",
+      "wacken",
+      "waken",
+      "wakhen"
+    ],
+    "answer": "wachen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: wake  (German meaning: be awake)\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: wake → wa[ch]en   (the bracket marks the changed part)\n∴ wachen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0196",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: live  →  German: ___",
+    "options": [
+      "leben",
+      "lefen",
+      "leuen",
+      "leven",
+      "lewen"
+    ],
+    "answer": "leben",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: live\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: live → le[b]en   (the bracket marks the changed part)\n∴ leben",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0197",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thief  →  German: ___",
+    "options": [
+      "Dhieb",
+      "Dieb",
+      "Thieb",
+      "Tieb",
+      "Zieb"
+    ],
+    "answer": "Dieb",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thief\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thief → [D]ieb   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Dieb)\n∴ Dieb",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0198",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: cook  →  German: ___",
+    "options": [
+      "kocen",
+      "kochen",
+      "kogen",
+      "koken",
+      "kokhen"
+    ],
+    "answer": "kochen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: cook\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: cook → ko[ch]en   (the bracket marks the changed part)\n∴ kochen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0199",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: dream  →  German: ___",
+    "options": [
+      "Dhraum",
+      "Draum",
+      "Thraum",
+      "Traum"
+    ],
+    "answer": "Traum",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: dream\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: dream → [T]raum   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Traum)\n∴ Traum",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0200",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: pipe  →  German: ___",
+    "options": [
+      "Beife",
+      "Feife",
+      "Peife",
+      "Pfeife",
+      "Pheife"
+    ],
+    "answer": "Pfeife",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: pipe\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: pipe → [Pf]eife   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Pfeife)\n∴ Pfeife",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0201",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: cold  →  German: ___",
+    "options": [
+      "kald",
+      "kaldt",
+      "kalt",
+      "kalth",
+      "kaltt"
+    ],
+    "answer": "kalt",
+    "case": "Consonant shifts",
+    "focus": "d → t",
+    "explanation": "1. English word: cold\n2. Rule: d → t — Sound shift: English d became t in German\n3. Apply it: cold → kal[t]   (the bracket marks the changed part)\n∴ kalt",
+    "tags": [
+      "cognate",
+      "d",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "D"
+    }
+  },
+  {
+    "id": "D-0202",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: sit  →  German: ___",
+    "options": [
+      "siden",
+      "siten",
+      "sitsen",
+      "sitzen",
+      "sizen"
+    ],
+    "answer": "sitzen",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: sit\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: sit → si[tz]en   (the bracket marks the changed part)\n∴ sitzen",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0203",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thorn  →  German: ___",
+    "options": [
+      "Dhorn",
+      "Dorn",
+      "Sorn",
+      "Thorn",
+      "Torn"
+    ],
+    "answer": "Dorn",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thorn\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thorn → [D]orn   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Dorn)\n∴ Dorn",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0204",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: thunder  →  German: ___",
+    "options": [
+      "Donner",
+      "Sonner",
+      "Thonner",
+      "Tonner",
+      "Zonner"
+    ],
+    "answer": "Donner",
+    "case": "Consonant shifts",
+    "focus": "th → d",
+    "explanation": "1. English word: thunder\n2. Rule: th → d — Sound shift: English th became d in German\n3. Apply it: thunder → [D]onner   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Donner)\n∴ Donner",
+    "tags": [
+      "cognate",
+      "th",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "TH"
+    }
+  },
+  {
+    "id": "D-0205",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: love  →  German: ___",
+    "options": [
+      "Liebe",
+      "Liefe",
+      "Lieue",
+      "Lieve",
+      "Liewe"
+    ],
+    "answer": "Liebe",
+    "case": "Consonant shifts",
+    "focus": "v → b",
+    "explanation": "1. English word: love\n2. Rule: v → b — English v corresponds to German b (inside or at the end of a word)\n3. Apply it: love → Lie[b]e   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Liebe)\n∴ Liebe",
+    "tags": [
+      "cognate",
+      "v",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "V"
+    }
+  },
+  {
+    "id": "D-0206",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: book  →  German: ___",
+    "options": [
+      "Buc",
+      "Buch",
+      "Buk",
+      "Bukh"
+    ],
+    "answer": "Buch",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: book\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: book → Bu[ch]   (the bracket marks the changed part)\n4. Article: das (nouns keep their gender: das Buch)\n∴ Buch",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0207",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: break  →  German: ___",
+    "options": [
+      "brecen",
+      "brechen",
+      "brecken",
+      "bregen",
+      "brekhen"
+    ],
+    "answer": "brechen",
+    "case": "Consonant shifts",
+    "focus": "k → ch",
+    "explanation": "1. English word: break\n2. Rule: k → ch — Sound shift: English k (ck) became ch in German\n3. Apply it: break → bre[ch]en   (the bracket marks the changed part)\n∴ brechen",
+    "tags": [
+      "cognate",
+      "k",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "K"
+    }
+  },
+  {
+    "id": "D-0208",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: plant  →  German: ___",
+    "options": [
+      "Blanze",
+      "Flanze",
+      "Pflanze",
+      "Phlanze",
+      "Planze"
+    ],
+    "answer": "Pflanze",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: plant\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: plant → [Pf]lanze   (the bracket marks the changed part)\n4. Article: die (nouns keep their gender: die Pflanze)\n∴ Pflanze",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  },
+  {
+    "id": "D-0209",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: eat  →  German: ___",
+    "options": [
+      "essen",
+      "eten",
+      "ethen",
+      "etsen",
+      "eßen"
+    ],
+    "answer": "essen",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: eat\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: eat → e[ss]en   (the bracket marks the changed part)\n∴ essen",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0210",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: foot  →  German: ___",
+    "options": [
+      "Fud",
+      "Fut",
+      "Futt",
+      "Futz",
+      "Fuß"
+    ],
+    "answer": "Fuß",
+    "case": "Consonant shifts",
+    "focus": "t → z / ss / ß / tz",
+    "explanation": "1. English word: foot\n2. Rule: t → z / ss / ß / tz — Sound shift: English t became z, ss, ß or tz in German\n3. Apply it: foot → Fu[ß]   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Fuß)\n∴ Fuß",
+    "tags": [
+      "cognate",
+      "t",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "T"
+    }
+  },
+  {
+    "id": "D-0211",
+    "level": "B",
+    "type": "cognate",
+    "sentence": "English: pepper  →  German: ___",
+    "options": [
+      "Beffer",
+      "Feffer",
+      "Peffer",
+      "Pfeffer",
+      "Pheffer"
+    ],
+    "answer": "Pfeffer",
+    "case": "Consonant shifts",
+    "focus": "p → pf / f / ff",
+    "explanation": "1. English word: pepper\n2. Rule: p → pf / f / ff — Sound shift: English p became pf, f or ff in German\n3. Apply it: pepper → [Pf]effer   (the bracket marks the changed part)\n4. Article: der (nouns keep their gender: der Pfeffer)\n∴ Pfeffer",
+    "tags": [
+      "cognate",
+      "p",
+      "consonant shifts"
+    ],
+    "ref": {
+      "table": "rules",
+      "row": "Consonant shifts",
+      "col": "P"
+    }
+  }
+]

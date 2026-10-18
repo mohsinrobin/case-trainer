@@ -1,0 +1,465 @@
+[
+  {
+    "key": "machen",
+    "title": "machen →",
+    "items": [
+      {
+        "key": "durchführen",
+        "label": "durchführen",
+        "gloss": "carry out something planned (study, test, survey)"
+      },
+      {
+        "key": "erledigen",
+        "label": "erledigen",
+        "gloss": "get a task or chore done"
+      },
+      {
+        "key": "anfertigen",
+        "label": "anfertigen",
+        "gloss": "produce a custom item or document"
+      },
+      {
+        "key": "verursachen",
+        "label": "verursachen",
+        "gloss": "cause something, usually negative"
+      },
+      {
+        "key": "bewirken",
+        "label": "bewirken",
+        "gloss": "bring about an effect or change"
+      },
+      {
+        "key": "herstellen",
+        "label": "herstellen",
+        "gloss": "manufacture goods"
+      }
+    ]
+  },
+  {
+    "key": "sagen",
+    "title": "sagen →",
+    "items": [
+      {
+        "key": "behaupten",
+        "label": "behaupten",
+        "gloss": "claim something without proof"
+      },
+      {
+        "key": "betonen",
+        "label": "betonen",
+        "gloss": "stress or emphasise something one holds true"
+      },
+      {
+        "key": "erwähnen",
+        "label": "erwähnen",
+        "gloss": "mention in passing"
+      },
+      {
+        "key": "äußern",
+        "label": "äußern",
+        "gloss": "express an opinion, feeling or concern"
+      },
+      {
+        "key": "mitteilen",
+        "label": "mitteilen",
+        "gloss": "inform someone of a fact or decision"
+      },
+      {
+        "key": "erklären",
+        "label": "erklären",
+        "gloss": "make understandable, or declare officially"
+      }
+    ]
+  },
+  {
+    "key": "gut",
+    "title": "gut →",
+    "items": [
+      {
+        "key": "hervorragend",
+        "label": "hervorragend",
+        "gloss": "excellent in quality or performance"
+      },
+      {
+        "key": "vorteilhaft",
+        "label": "vorteilhaft",
+        "gloss": "advantageous, brings a benefit"
+      },
+      {
+        "key": "angemessen",
+        "label": "angemessen",
+        "gloss": "appropriate in degree or measure"
+      },
+      {
+        "key": "zuverlässig",
+        "label": "zuverlässig",
+        "gloss": "reliable, can be depended on"
+      },
+      {
+        "key": "geeignet",
+        "label": "geeignet",
+        "gloss": "suitable for a specific purpose"
+      },
+      {
+        "key": "empfehlenswert",
+        "label": "empfehlenswert",
+        "gloss": "worth recommending to others"
+      }
+    ]
+  },
+  {
+    "key": "schlecht",
+    "title": "schlecht →",
+    "items": [
+      {
+        "key": "mangelhaft",
+        "label": "mangelhaft",
+        "gloss": "defective or below standard (also grade 5)"
+      },
+      {
+        "key": "minderwertig",
+        "label": "minderwertig",
+        "gloss": "of inferior quality compared with others"
+      },
+      {
+        "key": "unzureichend",
+        "label": "unzureichend",
+        "gloss": "not enough, inadequate in amount or extent"
+      },
+      {
+        "key": "ungünstig",
+        "label": "ungünstig",
+        "gloss": "unfavourable for timing or conditions"
+      },
+      {
+        "key": "schädlich",
+        "label": "schädlich",
+        "gloss": "harmful to health or environment"
+      },
+      {
+        "key": "verheerend",
+        "label": "verheerend",
+        "gloss": "devastating, with disastrous consequences"
+      }
+    ]
+  },
+  {
+    "key": "sehr",
+    "title": "sehr →",
+    "items": [
+      {
+        "key": "äußerst",
+        "label": "äußerst",
+        "gloss": "extremely, at the upper limit of a scale"
+      },
+      {
+        "key": "zutiefst",
+        "label": "zutiefst",
+        "gloss": "deeply, for emotions and convictions"
+      },
+      {
+        "key": "dringend",
+        "label": "dringend",
+        "gloss": "urgently, with need or necessity"
+      },
+      {
+        "key": "erheblich",
+        "label": "erheblich",
+        "gloss": "considerably, for degree of change or difference"
+      },
+      {
+        "key": "ziemlich",
+        "label": "ziemlich",
+        "gloss": "fairly, only a moderate degree"
+      },
+      {
+        "key": "durchaus",
+        "label": "durchaus",
+        "gloss": "quite, certainly, often conceding a point"
+      }
+    ]
+  },
+  {
+    "key": "Sache",
+    "title": "Sache →",
+    "items": [
+      {
+        "key": "Angelegenheit",
+        "label": "Angelegenheit",
+        "gloss": "matter or affair to be dealt with"
+      },
+      {
+        "key": "Tatsache",
+        "label": "Tatsache",
+        "gloss": "verifiable fact"
+      },
+      {
+        "key": "Aufgabe",
+        "label": "Aufgabe",
+        "gloss": "task or duty assigned to someone"
+      },
+      {
+        "key": "Maßnahme",
+        "label": "Maßnahme",
+        "gloss": "measure taken to achieve or prevent something"
+      },
+      {
+        "key": "Frage",
+        "label": "Frage",
+        "gloss": "question or issue open to debate"
+      },
+      {
+        "key": "Lage",
+        "label": "Lage",
+        "gloss": "situation, state of affairs"
+      }
+    ]
+  },
+  {
+    "key": "bekommen",
+    "title": "bekommen →",
+    "items": [
+      {
+        "key": "erhalten",
+        "label": "erhalten",
+        "gloss": "receive, neutral or formal"
+      },
+      {
+        "key": "beziehen",
+        "label": "beziehen",
+        "gloss": "receive regularly (salary, pension) or get supplies"
+      },
+      {
+        "key": "erwerben",
+        "label": "erwerben",
+        "gloss": "acquire by purchase or by effort (skills, property)"
+      },
+      {
+        "key": "erlangen",
+        "label": "erlangen",
+        "gloss": "attain with effort (access, fame, certainty)"
+      },
+      {
+        "key": "erzielen",
+        "label": "erzielen",
+        "gloss": "achieve a result, profit or agreement"
+      },
+      {
+        "key": "empfangen",
+        "label": "empfangen",
+        "gloss": "receive guests or signals"
+      }
+    ]
+  },
+  {
+    "key": "denken",
+    "title": "denken →",
+    "items": [
+      {
+        "key": "annehmen",
+        "label": "annehmen",
+        "gloss": "assume as a premise or as probable"
+      },
+      {
+        "key": "vermuten",
+        "label": "vermuten",
+        "gloss": "suspect or guess without evidence"
+      },
+      {
+        "key": "überlegen",
+        "label": "überlegen",
+        "gloss": "think over a decision, weigh what to do"
+      },
+      {
+        "key": "erwägen",
+        "label": "erwägen",
+        "gloss": "seriously consider as an option (formal)"
+      },
+      {
+        "key": "bedenken",
+        "label": "bedenken",
+        "gloss": "take into account"
+      },
+      {
+        "key": "nachdenken",
+        "label": "nachdenken",
+        "gloss": "reflect deeply about something (über + Akk.)"
+      }
+    ]
+  },
+  {
+    "key": "zeigen",
+    "title": "zeigen →",
+    "items": [
+      {
+        "key": "belegen",
+        "label": "belegen",
+        "gloss": "support with evidence or sources"
+      },
+      {
+        "key": "beweisen",
+        "label": "beweisen",
+        "gloss": "prove conclusively"
+      },
+      {
+        "key": "verdeutlichen",
+        "label": "verdeutlichen",
+        "gloss": "make a point clearer"
+      },
+      {
+        "key": "demonstrieren",
+        "label": "demonstrieren",
+        "gloss": "show practically how it works, or protest"
+      },
+      {
+        "key": "offenbaren",
+        "label": "offenbaren",
+        "gloss": "reveal something hidden"
+      },
+      {
+        "key": "darlegen",
+        "label": "darlegen",
+        "gloss": "set out reasons or arguments in detail"
+      }
+    ]
+  },
+  {
+    "key": "wichtig",
+    "title": "wichtig →",
+    "items": [
+      {
+        "key": "entscheidend",
+        "label": "entscheidend",
+        "gloss": "decisive for the outcome"
+      },
+      {
+        "key": "unverzichtbar",
+        "label": "unverzichtbar",
+        "gloss": "indispensable, cannot be done without"
+      },
+      {
+        "key": "relevant",
+        "label": "relevant",
+        "gloss": "pertinent to the topic or the group concerned"
+      },
+      {
+        "key": "dringend",
+        "label": "dringend",
+        "gloss": "urgent, time-critical"
+      },
+      {
+        "key": "vorrangig",
+        "label": "vorrangig",
+        "gloss": "of top priority, to be done first"
+      }
+    ]
+  },
+  {
+    "key": "Problem",
+    "title": "Problem →",
+    "items": [
+      {
+        "key": "Schwierigkeit",
+        "label": "Schwierigkeit",
+        "gloss": "difficulty in doing or achieving something"
+      },
+      {
+        "key": "Herausforderung",
+        "label": "Herausforderung",
+        "gloss": "demanding task one can rise to"
+      },
+      {
+        "key": "Panne",
+        "label": "Panne",
+        "gloss": "one-off mishap or breakdown"
+      },
+      {
+        "key": "Störung",
+        "label": "Störung",
+        "gloss": "disruption or malfunction of a process or function"
+      },
+      {
+        "key": "Hürde",
+        "label": "Hürde",
+        "gloss": "obstacle on the way to a goal"
+      },
+      {
+        "key": "Belastung",
+        "label": "Belastung",
+        "gloss": "burden or strain on a person or system"
+      }
+    ]
+  },
+  {
+    "key": "anfangen",
+    "title": "anfangen →",
+    "items": [
+      {
+        "key": "beginnen",
+        "label": "beginnen",
+        "gloss": "begin, neutral for processes and activities"
+      },
+      {
+        "key": "starten",
+        "label": "starten",
+        "gloss": "launch or set going (engine, rocket, race)"
+      },
+      {
+        "key": "eröffnen",
+        "label": "eröffnen",
+        "gloss": "open formally (event, shop, proceedings)"
+      },
+      {
+        "key": "einleiten",
+        "label": "einleiten",
+        "gloss": "set a process or measure in motion"
+      },
+      {
+        "key": "aufnehmen",
+        "label": "aufnehmen",
+        "gloss": "take up (contact, relations, activity)"
+      },
+      {
+        "key": "antreten",
+        "label": "antreten",
+        "gloss": "take up (job, office, journey, sentence)"
+      }
+    ]
+  },
+  {
+    "key": "viel",
+    "title": "viel →",
+    "items": [
+      {
+        "key": "zahlreich",
+        "label": "zahlreich",
+        "gloss": "numerous, for countable things or people"
+      },
+      {
+        "key": "reichlich",
+        "label": "reichlich",
+        "gloss": "ample, more than enough"
+      },
+      {
+        "key": "beträchtlich",
+        "label": "beträchtlich",
+        "gloss": "considerable in size or amount"
+      },
+      {
+        "key": "unzählig",
+        "label": "unzählig",
+        "gloss": "countless, too many to count"
+      },
+      {
+        "key": "umfangreich",
+        "label": "umfangreich",
+        "gloss": "extensive, large in scope or volume"
+      },
+      {
+        "key": "häufig",
+        "label": "häufig",
+        "gloss": "often, frequent"
+      }
+    ]
+  }
+]

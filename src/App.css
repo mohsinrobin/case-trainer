@@ -737,3 +737,141 @@ body {
     display: none;
   }
 }
+
+/* ===================== B2 WORTSCHATZ ===================== */
+.home-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.home-group-title {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+}
+
+.home-group .level-buttons {
+  margin-bottom: 12px;
+}
+
+.level-btn.wide {
+  font-size: 15px;
+}
+
+.level-select {
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 700;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.chip-gloss {
+  margin: 6px 0 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--text-muted);
+}
+
+.bug-prompt {
+  margin: 0 0 14px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
+.bug-sentence {
+  line-height: 2.1;
+}
+
+.tok {
+  padding: 1px 6px;
+  border: 1px dashed var(--border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.tok:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.tok.correct {
+  border: 1px solid #16a34a;
+  background: #dcfce7;
+  color: #166534;
+  font-weight: 700;
+}
+
+.tok.wrong {
+  border: 1px solid #dc2626;
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.tok.dimmed {
+  opacity: 0.55;
+}
+
+.conn-table {
+  table-layout: fixed;
+}
+
+.conn-table td,
+.conn-table th {
+  overflow-wrap: break-word;
+  font-size: 11px;
+  line-height: 1.35;
+  padding: 4px 5px;
+}
+
+.conn-table th:first-child,
+.conn-table td.case-label {
+  width: 25%;
+}
+
+.conn-table td.hl u {
+  text-decoration-thickness: 2px;
+}
+
+@media (max-width: 768px) {
+  .conn-block {
+    height: 150px;
+    overflow-y: auto;
+  }
+
+  .conn-row {
+    display: none;
+  }
+
+  .conn-row.is-current {
+    display: table-row;
+  }
+
+  .conn-table th,
+  .conn-table td {
+    font-size: 10px;
+    padding: 3px 3px;
+  }
+
+  .level-select {
+    max-width: 150px;
+  }
+}
+
+@media (min-width: 769px) {
+  .practice.wide-side {
+    grid-template-columns: 380px 1fr;
+  }
+}

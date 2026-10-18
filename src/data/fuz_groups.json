@@ -1,0 +1,2282 @@
+[
+  {
+    "key": "Abstand",
+    "title": "Abstand",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "distance oneself, nehmen von"
+      },
+      {
+        "key": "halten",
+        "label": "halten",
+        "gloss": "keep a distance"
+      },
+      {
+        "key": "gewinnen",
+        "label": "gewinnen",
+        "gloss": "gain distance"
+      },
+      {
+        "key": "von",
+        "label": "von",
+        "gloss": "preposition: Abstand von + Dat"
+      }
+    ]
+  },
+  {
+    "key": "Angebot",
+    "title": "Angebot",
+    "items": [
+      {
+        "key": "breit",
+        "label": "breit",
+        "gloss": "wide range"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "large range"
+      },
+      {
+        "key": "unterbreiten",
+        "label": "unterbreiten",
+        "gloss": "submit an offer"
+      },
+      {
+        "key": "annehmen",
+        "label": "annehmen",
+        "gloss": "accept an offer"
+      },
+      {
+        "key": "ausschlagen",
+        "label": "ausschlagen",
+        "gloss": "turn down an offer"
+      }
+    ]
+  },
+  {
+    "key": "Angst",
+    "title": "Angst",
+    "items": [
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "be afraid"
+      },
+      {
+        "key": "verspüren",
+        "label": "verspüren",
+        "gloss": "feel fear"
+      },
+      {
+        "key": "vor",
+        "label": "vor",
+        "gloss": "preposition: Angst vor + Dat"
+      }
+    ]
+  },
+  {
+    "key": "Anspruch",
+    "title": "Anspruch",
+    "items": [
+      {
+        "key": "erheben",
+        "label": "erheben",
+        "gloss": "lay claim"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "be entitled"
+      },
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "only in \"in Anspruch nehmen\": in Anspruch nehmen: make use of"
+      },
+      {
+        "key": "auf",
+        "label": "auf",
+        "gloss": "preposition: Anspruch auf + Akk"
+      }
+    ]
+  },
+  {
+    "key": "Antrag",
+    "title": "Antrag",
+    "items": [
+      {
+        "key": "stellen",
+        "label": "stellen",
+        "gloss": "submit an application"
+      },
+      {
+        "key": "einreichen",
+        "label": "einreichen",
+        "gloss": "file an application"
+      },
+      {
+        "key": "genehmigen",
+        "label": "genehmigen",
+        "gloss": "approve"
+      },
+      {
+        "key": "bewilligen",
+        "label": "bewilligen",
+        "gloss": "grant"
+      },
+      {
+        "key": "ablehnen",
+        "label": "ablehnen",
+        "gloss": "reject"
+      }
+    ]
+  },
+  {
+    "key": "Arbeitsplätze",
+    "title": "Arbeitsplätze",
+    "items": [
+      {
+        "key": "schaffen",
+        "label": "schaffen",
+        "gloss": "create jobs"
+      },
+      {
+        "key": "abbauen",
+        "label": "abbauen",
+        "gloss": "cut jobs"
+      },
+      {
+        "key": "sichern",
+        "label": "sichern",
+        "gloss": "secure jobs"
+      },
+      {
+        "key": "verlieren",
+        "label": "verlieren",
+        "gloss": "lose jobs"
+      }
+    ]
+  },
+  {
+    "key": "Aufmerksamkeit",
+    "title": "Aufmerksamkeit",
+    "items": [
+      {
+        "key": "schenken",
+        "label": "schenken",
+        "gloss": "give attention"
+      },
+      {
+        "key": "erregen",
+        "label": "erregen",
+        "gloss": "attract attention"
+      },
+      {
+        "key": "lenken",
+        "label": "lenken",
+        "gloss": "direct attention"
+      },
+      {
+        "key": "richten",
+        "label": "richten",
+        "gloss": "direct attention, richten auf"
+      }
+    ]
+  },
+  {
+    "key": "Ausbildung",
+    "title": "Ausbildung",
+    "items": [
+      {
+        "key": "absolvieren",
+        "label": "absolvieren",
+        "gloss": "complete training"
+      },
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "do training"
+      },
+      {
+        "key": "abbrechen",
+        "label": "abbrechen",
+        "gloss": "drop out of training"
+      },
+      {
+        "key": "beginnen",
+        "label": "beginnen",
+        "gloss": "start training"
+      },
+      {
+        "key": "abschließen",
+        "label": "abschließen",
+        "gloss": "finish training"
+      }
+    ]
+  },
+  {
+    "key": "Beitrag",
+    "title": "Beitrag",
+    "items": [
+      {
+        "key": "leisten",
+        "label": "leisten",
+        "gloss": "make a contribution"
+      },
+      {
+        "key": "liefern",
+        "label": "liefern",
+        "gloss": "deliver a contribution"
+      }
+    ]
+  },
+  {
+    "key": "Bescheid",
+    "title": "Bescheid",
+    "items": [
+      {
+        "key": "geben",
+        "label": "geben",
+        "gloss": "let someone know"
+      },
+      {
+        "key": "sagen",
+        "label": "sagen",
+        "gloss": "tell someone"
+      },
+      {
+        "key": "wissen",
+        "label": "wissen",
+        "gloss": "be in the know"
+      }
+    ]
+  },
+  {
+    "key": "Besprechung",
+    "title": "Besprechung",
+    "items": [
+      {
+        "key": "abhalten",
+        "label": "abhalten",
+        "gloss": "hold a meeting"
+      },
+      {
+        "key": "einberufen",
+        "label": "einberufen",
+        "gloss": "convene a meeting"
+      },
+      {
+        "key": "leiten",
+        "label": "leiten",
+        "gloss": "chair a meeting"
+      },
+      {
+        "key": "verschieben",
+        "label": "verschieben",
+        "gloss": "postpone a meeting"
+      }
+    ]
+  },
+  {
+    "key": "Betracht",
+    "title": "Betracht",
+    "items": [
+      {
+        "key": "ziehen",
+        "label": "ziehen",
+        "gloss": "take into consideration"
+      },
+      {
+        "key": "kommen",
+        "label": "kommen",
+        "gloss": "come into question"
+      },
+      {
+        "key": "in",
+        "label": "in",
+        "gloss": "preposition: in Betracht ziehen"
+      }
+    ]
+  },
+  {
+    "key": "Bewerbung",
+    "title": "Bewerbung",
+    "items": [
+      {
+        "key": "einreichen",
+        "label": "einreichen",
+        "gloss": "submit an application"
+      },
+      {
+        "key": "schicken",
+        "label": "schicken",
+        "gloss": "send an application"
+      },
+      {
+        "key": "zurückziehen",
+        "label": "zurückziehen",
+        "gloss": "withdraw an application"
+      },
+      {
+        "key": "prüfen",
+        "label": "prüfen",
+        "gloss": "review an application"
+      }
+    ]
+  },
+  {
+    "key": "Bilanz",
+    "title": "Bilanz",
+    "items": [
+      {
+        "key": "ziehen",
+        "label": "ziehen",
+        "gloss": "draw up a balance/take stock"
+      },
+      {
+        "key": "vorlegen",
+        "label": "vorlegen",
+        "gloss": "present the balance sheet"
+      }
+    ]
+  },
+  {
+    "key": "Blutdruck",
+    "title": "Blutdruck",
+    "items": [
+      {
+        "key": "messen",
+        "label": "messen",
+        "gloss": "measure blood pressure"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "lower blood pressure"
+      },
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high blood pressure"
+      },
+      {
+        "key": "erhöht",
+        "label": "erhöht",
+        "gloss": "elevated blood pressure"
+      }
+    ]
+  },
+  {
+    "key": "Chance",
+    "title": "Chance",
+    "items": [
+      {
+        "key": "gut",
+        "label": "gut",
+        "gloss": "good chance"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great chance"
+      },
+      {
+        "key": "nutzen",
+        "label": "nutzen",
+        "gloss": "use a chance"
+      },
+      {
+        "key": "ergreifen",
+        "label": "ergreifen",
+        "gloss": "seize a chance"
+      },
+      {
+        "key": "verpassen",
+        "label": "verpassen",
+        "gloss": "miss a chance"
+      }
+    ]
+  },
+  {
+    "key": "Daten",
+    "title": "Daten",
+    "items": [
+      {
+        "key": "speichern",
+        "label": "speichern",
+        "gloss": "store data"
+      },
+      {
+        "key": "erheben",
+        "label": "erheben",
+        "gloss": "collect data"
+      },
+      {
+        "key": "löschen",
+        "label": "löschen",
+        "gloss": "delete data"
+      },
+      {
+        "key": "auswerten",
+        "label": "auswerten",
+        "gloss": "analyse data"
+      },
+      {
+        "key": "schützen",
+        "label": "schützen",
+        "gloss": "protect data"
+      }
+    ]
+  },
+  {
+    "key": "Debatte",
+    "title": "Debatte",
+    "items": [
+      {
+        "key": "führen",
+        "label": "führen",
+        "gloss": "hold a debate"
+      },
+      {
+        "key": "auslösen",
+        "label": "auslösen",
+        "gloss": "trigger a debate"
+      },
+      {
+        "key": "entfachen",
+        "label": "entfachen",
+        "gloss": "spark a debate"
+      },
+      {
+        "key": "anstoßen",
+        "label": "anstoßen",
+        "gloss": "kick off a debate"
+      },
+      {
+        "key": "hitzig",
+        "label": "hitzig",
+        "gloss": "heated debate"
+      }
+    ]
+  },
+  {
+    "key": "Druck",
+    "title": "Druck",
+    "items": [
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high pressure"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great pressure"
+      },
+      {
+        "key": "ausüben",
+        "label": "ausüben",
+        "gloss": "exert pressure"
+      },
+      {
+        "key": "standhalten",
+        "label": "standhalten",
+        "gloss": "withstand pressure"
+      }
+    ]
+  },
+  {
+    "key": "Einfluss",
+    "title": "Einfluss",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "influence, nehmen auf"
+      },
+      {
+        "key": "ausüben",
+        "label": "ausüben",
+        "gloss": "exert influence"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have influence"
+      },
+      {
+        "key": "gewinnen",
+        "label": "gewinnen",
+        "gloss": "gain influence"
+      },
+      {
+        "key": "auf",
+        "label": "auf",
+        "gloss": "preposition: Einfluss auf + Akk"
+      }
+    ]
+  },
+  {
+    "key": "Einladung",
+    "title": "Einladung",
+    "items": [
+      {
+        "key": "herzlich",
+        "label": "herzlich",
+        "gloss": "warm invitation"
+      },
+      {
+        "key": "aussprechen",
+        "label": "aussprechen",
+        "gloss": "extend an invitation"
+      },
+      {
+        "key": "annehmen",
+        "label": "annehmen",
+        "gloss": "accept an invitation"
+      },
+      {
+        "key": "ablehnen",
+        "label": "ablehnen",
+        "gloss": "decline an invitation"
+      }
+    ]
+  },
+  {
+    "key": "Entscheidung",
+    "title": "Entscheidung",
+    "items": [
+      {
+        "key": "treffen",
+        "label": "treffen",
+        "gloss": "make a decision"
+      },
+      {
+        "key": "fällen",
+        "label": "fällen",
+        "gloss": "pass a judgement/ruling"
+      },
+      {
+        "key": "anfechten",
+        "label": "anfechten",
+        "gloss": "challenge a decision"
+      }
+    ]
+  },
+  {
+    "key": "Erfahrung",
+    "title": "Erfahrung",
+    "items": [
+      {
+        "key": "sammeln",
+        "label": "sammeln",
+        "gloss": "gain experience"
+      },
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "have an experience"
+      },
+      {
+        "key": "langjährig",
+        "label": "langjährig",
+        "gloss": "many years of experience"
+      },
+      {
+        "key": "mitbringen",
+        "label": "mitbringen",
+        "gloss": "bring experience"
+      }
+    ]
+  },
+  {
+    "key": "Erfolg",
+    "title": "Erfolg",
+    "items": [
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great success"
+      },
+      {
+        "key": "verbuchen",
+        "label": "verbuchen",
+        "gloss": "chalk up a success"
+      },
+      {
+        "key": "feiern",
+        "label": "feiern",
+        "gloss": "celebrate success"
+      },
+      {
+        "key": "erzielen",
+        "label": "erzielen",
+        "gloss": "achieve success"
+      }
+    ]
+  },
+  {
+    "key": "Fehler",
+    "title": "Fehler",
+    "items": [
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "make a mistake"
+      },
+      {
+        "key": "begehen",
+        "label": "begehen",
+        "gloss": "commit an error"
+      },
+      {
+        "key": "beheben",
+        "label": "beheben",
+        "gloss": "fix an error"
+      },
+      {
+        "key": "einräumen",
+        "label": "einräumen",
+        "gloss": "admit an error"
+      },
+      {
+        "key": "schwer",
+        "label": "schwer",
+        "gloss": "serious mistake"
+      }
+    ]
+  },
+  {
+    "key": "Fortschritt",
+    "title": "Fortschritt",
+    "items": [
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "make progress"
+      },
+      {
+        "key": "erzielen",
+        "label": "erzielen",
+        "gloss": "achieve progress"
+      },
+      {
+        "key": "verzeichnen",
+        "label": "verzeichnen",
+        "gloss": "record progress"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great progress"
+      }
+    ]
+  },
+  {
+    "key": "Frage",
+    "title": "Frage",
+    "items": [
+      {
+        "key": "stellen",
+        "label": "stellen",
+        "gloss": "ask a question"
+      },
+      {
+        "key": "aufwerfen",
+        "label": "aufwerfen",
+        "gloss": "raise a question"
+      },
+      {
+        "key": "beantworten",
+        "label": "beantworten",
+        "gloss": "answer a question"
+      },
+      {
+        "key": "klären",
+        "label": "klären",
+        "gloss": "clarify a question"
+      }
+    ]
+  },
+  {
+    "key": "Gefahr",
+    "title": "Gefahr",
+    "items": [
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great danger"
+      },
+      {
+        "key": "akut",
+        "label": "akut",
+        "gloss": "acute danger"
+      },
+      {
+        "key": "bannen",
+        "label": "bannen",
+        "gloss": "avert a danger"
+      },
+      {
+        "key": "drohen",
+        "label": "drohen",
+        "gloss": "danger looms"
+      }
+    ]
+  },
+  {
+    "key": "Gehalt",
+    "title": "Gehalt",
+    "items": [
+      {
+        "key": "beziehen",
+        "label": "beziehen",
+        "gloss": "draw a salary"
+      },
+      {
+        "key": "erhöhen",
+        "label": "erhöhen",
+        "gloss": "raise a salary"
+      },
+      {
+        "key": "kürzen",
+        "label": "kürzen",
+        "gloss": "cut a salary"
+      },
+      {
+        "key": "verhandeln",
+        "label": "verhandeln",
+        "gloss": "negotiate a salary"
+      },
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high salary"
+      }
+    ]
+  },
+  {
+    "key": "Gesetz",
+    "title": "Gesetz",
+    "items": [
+      {
+        "key": "erlassen",
+        "label": "erlassen",
+        "gloss": "enact a law"
+      },
+      {
+        "key": "verabschieden",
+        "label": "verabschieden",
+        "gloss": "pass a law"
+      },
+      {
+        "key": "einhalten",
+        "label": "einhalten",
+        "gloss": "comply with a law"
+      },
+      {
+        "key": "verschärfen",
+        "label": "verschärfen",
+        "gloss": "tighten a law"
+      }
+    ]
+  },
+  {
+    "key": "Gespräch",
+    "title": "Gespräch",
+    "items": [
+      {
+        "key": "führen",
+        "label": "führen",
+        "gloss": "hold a conversation"
+      },
+      {
+        "key": "suchen",
+        "label": "suchen",
+        "gloss": "seek a talk"
+      },
+      {
+        "key": "vereinbaren",
+        "label": "vereinbaren",
+        "gloss": "arrange a talk"
+      },
+      {
+        "key": "abbrechen",
+        "label": "abbrechen",
+        "gloss": "break off a talk"
+      }
+    ]
+  },
+  {
+    "key": "Gewinn",
+    "title": "Gewinn",
+    "items": [
+      {
+        "key": "erzielen",
+        "label": "erzielen",
+        "gloss": "make a profit"
+      },
+      {
+        "key": "erwirtschaften",
+        "label": "erwirtschaften",
+        "gloss": "generate a profit"
+      },
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "make a profit"
+      },
+      {
+        "key": "ausschütten",
+        "label": "ausschütten",
+        "gloss": "distribute profit"
+      }
+    ]
+  },
+  {
+    "key": "Hilfe",
+    "title": "Hilfe",
+    "items": [
+      {
+        "key": "leisten",
+        "label": "leisten",
+        "gloss": "give aid"
+      },
+      {
+        "key": "anbieten",
+        "label": "anbieten",
+        "gloss": "offer help"
+      },
+      {
+        "key": "humanitär",
+        "label": "humanitär",
+        "gloss": "humanitarian aid"
+      },
+      {
+        "key": "dringend",
+        "label": "dringend",
+        "gloss": "urgent help"
+      }
+    ]
+  },
+  {
+    "key": "Interesse",
+    "title": "Interesse",
+    "items": [
+      {
+        "key": "wecken",
+        "label": "wecken",
+        "gloss": "arouse interest"
+      },
+      {
+        "key": "zeigen",
+        "label": "zeigen",
+        "gloss": "show interest"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have interest"
+      },
+      {
+        "key": "hervorrufen",
+        "label": "hervorrufen",
+        "gloss": "provoke interest"
+      },
+      {
+        "key": "an",
+        "label": "an",
+        "gloss": "preposition: Interesse an + Dat"
+      }
+    ]
+  },
+  {
+    "key": "Kauf",
+    "title": "Kauf",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "in Kauf nehmen: accept a drawback"
+      },
+      {
+        "key": "in",
+        "label": "in",
+        "gloss": "preposition: in Kauf nehmen"
+      }
+    ]
+  },
+  {
+    "key": "Konflikt",
+    "title": "Konflikt",
+    "items": [
+      {
+        "key": "lösen",
+        "label": "lösen",
+        "gloss": "resolve a conflict"
+      },
+      {
+        "key": "austragen",
+        "label": "austragen",
+        "gloss": "fight out a conflict"
+      },
+      {
+        "key": "schüren",
+        "label": "schüren",
+        "gloss": "stoke a conflict"
+      },
+      {
+        "key": "entschärfen",
+        "label": "entschärfen",
+        "gloss": "defuse a conflict"
+      }
+    ]
+  },
+  {
+    "key": "Konsequenz",
+    "title": "Konsequenz",
+    "items": [
+      {
+        "key": "ziehen",
+        "label": "ziehen",
+        "gloss": "draw consequences"
+      },
+      {
+        "key": "tragen",
+        "label": "tragen",
+        "gloss": "bear consequences"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have consequences"
+      }
+    ]
+  },
+  {
+    "key": "Kosten",
+    "title": "Kosten",
+    "items": [
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high costs"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "reduce costs"
+      },
+      {
+        "key": "tragen",
+        "label": "tragen",
+        "gloss": "bear costs"
+      },
+      {
+        "key": "übernehmen",
+        "label": "übernehmen",
+        "gloss": "cover costs"
+      },
+      {
+        "key": "decken",
+        "label": "decken",
+        "gloss": "cover costs"
+      }
+    ]
+  },
+  {
+    "key": "Krankheit",
+    "title": "Krankheit",
+    "items": [
+      {
+        "key": "schwer",
+        "label": "schwer",
+        "gloss": "serious illness"
+      },
+      {
+        "key": "chronisch",
+        "label": "chronisch",
+        "gloss": "chronic illness"
+      },
+      {
+        "key": "ernst",
+        "label": "ernst",
+        "gloss": "serious illness"
+      },
+      {
+        "key": "übertragen",
+        "label": "übertragen",
+        "gloss": "transmit a disease"
+      }
+    ]
+  },
+  {
+    "key": "Kredit",
+    "title": "Kredit",
+    "items": [
+      {
+        "key": "aufnehmen",
+        "label": "aufnehmen",
+        "gloss": "take out a loan"
+      },
+      {
+        "key": "beantragen",
+        "label": "beantragen",
+        "gloss": "apply for a loan"
+      },
+      {
+        "key": "tilgen",
+        "label": "tilgen",
+        "gloss": "repay a loan"
+      },
+      {
+        "key": "gewähren",
+        "label": "gewähren",
+        "gloss": "grant a loan"
+      }
+    ]
+  },
+  {
+    "key": "Krise",
+    "title": "Krise",
+    "items": [
+      {
+        "key": "tief",
+        "label": "tief",
+        "gloss": "deep crisis"
+      },
+      {
+        "key": "schwer",
+        "label": "schwer",
+        "gloss": "severe crisis"
+      },
+      {
+        "key": "bewältigen",
+        "label": "bewältigen",
+        "gloss": "manage a crisis"
+      },
+      {
+        "key": "überwinden",
+        "label": "überwinden",
+        "gloss": "overcome a crisis"
+      }
+    ]
+  },
+  {
+    "key": "Kritik",
+    "title": "Kritik",
+    "items": [
+      {
+        "key": "üben",
+        "label": "üben",
+        "gloss": "voice criticism"
+      },
+      {
+        "key": "äußern",
+        "label": "äußern",
+        "gloss": "express criticism"
+      },
+      {
+        "key": "zurückweisen",
+        "label": "zurückweisen",
+        "gloss": "reject criticism"
+      },
+      {
+        "key": "einstecken",
+        "label": "einstecken",
+        "gloss": "take criticism"
+      }
+    ]
+  },
+  {
+    "key": "Kündigung",
+    "title": "Kündigung",
+    "items": [
+      {
+        "key": "aussprechen",
+        "label": "aussprechen",
+        "gloss": "give notice"
+      },
+      {
+        "key": "einreichen",
+        "label": "einreichen",
+        "gloss": "hand in notice"
+      },
+      {
+        "key": "erhalten",
+        "label": "erhalten",
+        "gloss": "receive notice"
+      },
+      {
+        "key": "androhen",
+        "label": "androhen",
+        "gloss": "threaten dismissal"
+      }
+    ]
+  },
+  {
+    "key": "Lärm",
+    "title": "Lärm",
+    "items": [
+      {
+        "key": "stark",
+        "label": "stark",
+        "gloss": "loud noise"
+      },
+      {
+        "key": "ohrenbetäubend",
+        "label": "ohrenbetäubend",
+        "gloss": "deafening noise"
+      },
+      {
+        "key": "verursachen",
+        "label": "verursachen",
+        "gloss": "cause noise"
+      }
+    ]
+  },
+  {
+    "key": "Maßnahme",
+    "title": "Maßnahme",
+    "items": [
+      {
+        "key": "ergreifen",
+        "label": "ergreifen",
+        "gloss": "take measures"
+      },
+      {
+        "key": "treffen",
+        "label": "treffen",
+        "gloss": "take measures"
+      },
+      {
+        "key": "einleiten",
+        "label": "einleiten",
+        "gloss": "initiate"
+      },
+      {
+        "key": "umsetzen",
+        "label": "umsetzen",
+        "gloss": "implement"
+      },
+      {
+        "key": "beschließen",
+        "label": "beschließen",
+        "gloss": "decide on"
+      }
+    ]
+  },
+  {
+    "key": "Medikament",
+    "title": "Medikament",
+    "items": [
+      {
+        "key": "verschreiben",
+        "label": "verschreiben",
+        "gloss": "prescribe a drug"
+      },
+      {
+        "key": "einnehmen",
+        "label": "einnehmen",
+        "gloss": "take a drug"
+      },
+      {
+        "key": "verabreichen",
+        "label": "verabreichen",
+        "gloss": "administer a drug"
+      },
+      {
+        "key": "absetzen",
+        "label": "absetzen",
+        "gloss": "stop a drug"
+      }
+    ]
+  },
+  {
+    "key": "Mehrheit",
+    "title": "Mehrheit",
+    "items": [
+      {
+        "key": "erreichen",
+        "label": "erreichen",
+        "gloss": "reach a majority"
+      },
+      {
+        "key": "erringen",
+        "label": "erringen",
+        "gloss": "win a majority"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have a majority"
+      },
+      {
+        "key": "verfehlen",
+        "label": "verfehlen",
+        "gloss": "miss a majority"
+      },
+      {
+        "key": "knapp",
+        "label": "knapp",
+        "gloss": "narrow majority"
+      },
+      {
+        "key": "absolut",
+        "label": "absolut",
+        "gloss": "absolute majority"
+      }
+    ]
+  },
+  {
+    "key": "Miete",
+    "title": "Miete",
+    "items": [
+      {
+        "key": "zahlen",
+        "label": "zahlen",
+        "gloss": "pay rent"
+      },
+      {
+        "key": "erhöhen",
+        "label": "erhöhen",
+        "gloss": "raise rent"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "lower rent"
+      },
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high rent"
+      },
+      {
+        "key": "überweisen",
+        "label": "überweisen",
+        "gloss": "transfer rent"
+      }
+    ]
+  },
+  {
+    "key": "Nachfrage",
+    "title": "Nachfrage",
+    "items": [
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high demand"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "great demand"
+      },
+      {
+        "key": "stark",
+        "label": "stark",
+        "gloss": "strong demand"
+      },
+      {
+        "key": "decken",
+        "label": "decken",
+        "gloss": "meet demand"
+      },
+      {
+        "key": "steigen",
+        "label": "steigen",
+        "gloss": "demand rises"
+      },
+      {
+        "key": "nach",
+        "label": "nach",
+        "gloss": "preposition: Nachfrage nach + Dat"
+      }
+    ]
+  },
+  {
+    "key": "Preise",
+    "title": "Preise",
+    "items": [
+      {
+        "key": "hoch",
+        "label": "hoch",
+        "gloss": "high prices"
+      },
+      {
+        "key": "niedrig",
+        "label": "niedrig",
+        "gloss": "low prices"
+      },
+      {
+        "key": "erhöhen",
+        "label": "erhöhen",
+        "gloss": "raise prices"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "lower prices"
+      },
+      {
+        "key": "anheben",
+        "label": "anheben",
+        "gloss": "raise prices"
+      }
+    ]
+  },
+  {
+    "key": "Problem",
+    "title": "Problem",
+    "items": [
+      {
+        "key": "lösen",
+        "label": "lösen",
+        "gloss": "solve a problem"
+      },
+      {
+        "key": "bereiten",
+        "label": "bereiten",
+        "gloss": "cause a problem"
+      },
+      {
+        "key": "beheben",
+        "label": "beheben",
+        "gloss": "fix a problem"
+      },
+      {
+        "key": "ansprechen",
+        "label": "ansprechen",
+        "gloss": "raise a problem"
+      }
+    ]
+  },
+  {
+    "key": "Projekt",
+    "title": "Projekt",
+    "items": [
+      {
+        "key": "leiten",
+        "label": "leiten",
+        "gloss": "lead a project"
+      },
+      {
+        "key": "durchführen",
+        "label": "durchführen",
+        "gloss": "carry out a project"
+      },
+      {
+        "key": "starten",
+        "label": "starten",
+        "gloss": "launch a project"
+      },
+      {
+        "key": "abschließen",
+        "label": "abschließen",
+        "gloss": "complete a project"
+      },
+      {
+        "key": "vorantreiben",
+        "label": "vorantreiben",
+        "gloss": "advance a project"
+      }
+    ]
+  },
+  {
+    "key": "Prüfung",
+    "title": "Prüfung",
+    "items": [
+      {
+        "key": "ablegen",
+        "label": "ablegen",
+        "gloss": "take an exam"
+      },
+      {
+        "key": "bestehen",
+        "label": "bestehen",
+        "gloss": "pass an exam"
+      },
+      {
+        "key": "schreiben",
+        "label": "schreiben",
+        "gloss": "write an exam"
+      },
+      {
+        "key": "wiederholen",
+        "label": "wiederholen",
+        "gloss": "retake an exam"
+      }
+    ]
+  },
+  {
+    "key": "Rat",
+    "title": "Rat",
+    "items": [
+      {
+        "key": "geben",
+        "label": "geben",
+        "gloss": "give advice"
+      },
+      {
+        "key": "einholen",
+        "label": "einholen",
+        "gloss": "seek advice"
+      },
+      {
+        "key": "befolgen",
+        "label": "befolgen",
+        "gloss": "follow advice"
+      },
+      {
+        "key": "erteilen",
+        "label": "erteilen",
+        "gloss": "give advice formally"
+      }
+    ]
+  },
+  {
+    "key": "Regen",
+    "title": "Regen",
+    "items": [
+      {
+        "key": "stark",
+        "label": "stark",
+        "gloss": "heavy rain"
+      },
+      {
+        "key": "heftig",
+        "label": "heftig",
+        "gloss": "violent rain"
+      },
+      {
+        "key": "anhaltend",
+        "label": "anhaltend",
+        "gloss": "persistent rain"
+      }
+    ]
+  },
+  {
+    "key": "Reise",
+    "title": "Reise",
+    "items": [
+      {
+        "key": "buchen",
+        "label": "buchen",
+        "gloss": "book a trip"
+      },
+      {
+        "key": "antreten",
+        "label": "antreten",
+        "gloss": "set off on a trip"
+      },
+      {
+        "key": "planen",
+        "label": "planen",
+        "gloss": "plan a trip"
+      },
+      {
+        "key": "unternehmen",
+        "label": "unternehmen",
+        "gloss": "undertake a trip"
+      },
+      {
+        "key": "absagen",
+        "label": "absagen",
+        "gloss": "cancel a trip"
+      }
+    ]
+  },
+  {
+    "key": "Risiko",
+    "title": "Risiko",
+    "items": [
+      {
+        "key": "eingehen",
+        "label": "eingehen",
+        "gloss": "take a risk"
+      },
+      {
+        "key": "tragen",
+        "label": "tragen",
+        "gloss": "bear a risk"
+      },
+      {
+        "key": "bergen",
+        "label": "bergen",
+        "gloss": "involve a risk"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "lower the risk"
+      },
+      {
+        "key": "minimieren",
+        "label": "minimieren",
+        "gloss": "minimise the risk"
+      }
+    ]
+  },
+  {
+    "key": "Rolle",
+    "title": "Rolle",
+    "items": [
+      {
+        "key": "spielen",
+        "label": "spielen",
+        "gloss": "play a role"
+      },
+      {
+        "key": "übernehmen",
+        "label": "übernehmen",
+        "gloss": "take on a role"
+      },
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "big role"
+      },
+      {
+        "key": "zentral",
+        "label": "zentral",
+        "gloss": "central role"
+      }
+    ]
+  },
+  {
+    "key": "Ruf",
+    "title": "Ruf",
+    "items": [
+      {
+        "key": "genießen",
+        "label": "genießen",
+        "gloss": "enjoy a reputation"
+      },
+      {
+        "key": "ausgezeichnet",
+        "label": "ausgezeichnet",
+        "gloss": "excellent reputation"
+      },
+      {
+        "key": "schädigen",
+        "label": "schädigen",
+        "gloss": "damage a reputation"
+      },
+      {
+        "key": "ruinieren",
+        "label": "ruinieren",
+        "gloss": "ruin a reputation"
+      }
+    ]
+  },
+  {
+    "key": "Rücksicht",
+    "title": "Rücksicht",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "show consideration"
+      },
+      {
+        "key": "auf",
+        "label": "auf",
+        "gloss": "preposition: Rücksicht auf + Akk"
+      },
+      {
+        "key": "walten lassen",
+        "label": "walten lassen",
+        "gloss": "exercise consideration"
+      }
+    ]
+  },
+  {
+    "key": "Schaden",
+    "title": "Schaden",
+    "items": [
+      {
+        "key": "anrichten",
+        "label": "anrichten",
+        "gloss": "cause damage"
+      },
+      {
+        "key": "verursachen",
+        "label": "verursachen",
+        "gloss": "cause damage"
+      },
+      {
+        "key": "beheben",
+        "label": "beheben",
+        "gloss": "repair damage"
+      },
+      {
+        "key": "erleiden",
+        "label": "erleiden",
+        "gloss": "suffer damage"
+      },
+      {
+        "key": "erheblich",
+        "label": "erheblich",
+        "gloss": "considerable damage"
+      }
+    ]
+  },
+  {
+    "key": "Schmerzen",
+    "title": "Schmerzen",
+    "items": [
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have pain"
+      },
+      {
+        "key": "lindern",
+        "label": "lindern",
+        "gloss": "relieve pain"
+      },
+      {
+        "key": "verursachen",
+        "label": "verursachen",
+        "gloss": "cause pain"
+      },
+      {
+        "key": "heftig",
+        "label": "heftig",
+        "gloss": "violent pain"
+      },
+      {
+        "key": "chronisch",
+        "label": "chronisch",
+        "gloss": "chronic pain"
+      },
+      {
+        "key": "stark",
+        "label": "stark",
+        "gloss": "strong pain"
+      }
+    ]
+  },
+  {
+    "key": "Stellung",
+    "title": "Stellung",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "comment, take a position"
+      },
+      {
+        "key": "beziehen",
+        "label": "beziehen",
+        "gloss": "take a stance"
+      }
+    ]
+  },
+  {
+    "key": "Steuern",
+    "title": "Steuern",
+    "items": [
+      {
+        "key": "zahlen",
+        "label": "zahlen",
+        "gloss": "pay taxes"
+      },
+      {
+        "key": "hinterziehen",
+        "label": "hinterziehen",
+        "gloss": "evade taxes"
+      },
+      {
+        "key": "erheben",
+        "label": "erheben",
+        "gloss": "levy taxes"
+      },
+      {
+        "key": "senken",
+        "label": "senken",
+        "gloss": "cut taxes"
+      },
+      {
+        "key": "erhöhen",
+        "label": "erhöhen",
+        "gloss": "raise taxes"
+      }
+    ]
+  },
+  {
+    "key": "Termin",
+    "title": "Termin",
+    "items": [
+      {
+        "key": "vereinbaren",
+        "label": "vereinbaren",
+        "gloss": "arrange an appointment"
+      },
+      {
+        "key": "einhalten",
+        "label": "einhalten",
+        "gloss": "keep a deadline/date"
+      },
+      {
+        "key": "verschieben",
+        "label": "verschieben",
+        "gloss": "postpone"
+      },
+      {
+        "key": "absagen",
+        "label": "absagen",
+        "gloss": "cancel"
+      },
+      {
+        "key": "wahrnehmen",
+        "label": "wahrnehmen",
+        "gloss": "attend an appointment"
+      }
+    ]
+  },
+  {
+    "key": "Umwelt",
+    "title": "Umwelt",
+    "items": [
+      {
+        "key": "schützen",
+        "label": "schützen",
+        "gloss": "protect the environment"
+      },
+      {
+        "key": "belasten",
+        "label": "belasten",
+        "gloss": "burden the environment"
+      },
+      {
+        "key": "verschmutzen",
+        "label": "verschmutzen",
+        "gloss": "pollute the environment"
+      },
+      {
+        "key": "schonen",
+        "label": "schonen",
+        "gloss": "spare the environment"
+      },
+      {
+        "key": "schädigen",
+        "label": "schädigen",
+        "gloss": "harm the environment"
+      }
+    ]
+  },
+  {
+    "key": "Unterschied",
+    "title": "Unterschied",
+    "items": [
+      {
+        "key": "groß",
+        "label": "groß",
+        "gloss": "big difference"
+      },
+      {
+        "key": "deutlich",
+        "label": "deutlich",
+        "gloss": "clear difference"
+      },
+      {
+        "key": "erheblich",
+        "label": "erheblich",
+        "gloss": "considerable difference"
+      },
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "make a difference"
+      }
+    ]
+  },
+  {
+    "key": "Urlaub",
+    "title": "Urlaub",
+    "items": [
+      {
+        "key": "nehmen",
+        "label": "nehmen",
+        "gloss": "take leave"
+      },
+      {
+        "key": "beantragen",
+        "label": "beantragen",
+        "gloss": "apply for leave"
+      },
+      {
+        "key": "genehmigen",
+        "label": "genehmigen",
+        "gloss": "approve leave"
+      },
+      {
+        "key": "antreten",
+        "label": "antreten",
+        "gloss": "start leave"
+      }
+    ]
+  },
+  {
+    "key": "Verantwortung",
+    "title": "Verantwortung",
+    "items": [
+      {
+        "key": "übernehmen",
+        "label": "übernehmen",
+        "gloss": "take on responsibility"
+      },
+      {
+        "key": "tragen",
+        "label": "tragen",
+        "gloss": "bear responsibility"
+      },
+      {
+        "key": "abgeben",
+        "label": "abgeben",
+        "gloss": "hand off"
+      },
+      {
+        "key": "für",
+        "label": "für",
+        "gloss": "preposition: Verantwortung für + Akk"
+      }
+    ]
+  },
+  {
+    "key": "Verfügung",
+    "title": "Verfügung",
+    "items": [
+      {
+        "key": "stehen",
+        "label": "stehen",
+        "gloss": "be available"
+      },
+      {
+        "key": "stellen",
+        "label": "stellen",
+        "gloss": "make available"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have at one's disposal"
+      },
+      {
+        "key": "zu",
+        "label": "zu",
+        "gloss": "preposition: zur Verfügung"
+      }
+    ]
+  },
+  {
+    "key": "Verhandlungen",
+    "title": "Verhandlungen",
+    "items": [
+      {
+        "key": "führen",
+        "label": "führen",
+        "gloss": "conduct negotiations"
+      },
+      {
+        "key": "aufnehmen",
+        "label": "aufnehmen",
+        "gloss": "open negotiations"
+      },
+      {
+        "key": "abbrechen",
+        "label": "abbrechen",
+        "gloss": "break off negotiations"
+      },
+      {
+        "key": "wiederaufnehmen",
+        "label": "wiederaufnehmen",
+        "gloss": "resume negotiations"
+      }
+    ]
+  },
+  {
+    "key": "Verkehr",
+    "title": "Verkehr",
+    "items": [
+      {
+        "key": "stark",
+        "label": "stark",
+        "gloss": "heavy traffic"
+      },
+      {
+        "key": "dicht",
+        "label": "dicht",
+        "gloss": "dense traffic"
+      },
+      {
+        "key": "rege",
+        "label": "rege",
+        "gloss": "busy traffic"
+      }
+    ]
+  },
+  {
+    "key": "Verlust",
+    "title": "Verlust",
+    "items": [
+      {
+        "key": "erleiden",
+        "label": "erleiden",
+        "gloss": "suffer a loss"
+      },
+      {
+        "key": "verbuchen",
+        "label": "verbuchen",
+        "gloss": "book a loss"
+      },
+      {
+        "key": "ausgleichen",
+        "label": "ausgleichen",
+        "gloss": "offset a loss"
+      },
+      {
+        "key": "herb",
+        "label": "herb",
+        "gloss": "heavy loss"
+      }
+    ]
+  },
+  {
+    "key": "Verständnis",
+    "title": "Verständnis",
+    "items": [
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have understanding"
+      },
+      {
+        "key": "zeigen",
+        "label": "zeigen",
+        "gloss": "show understanding"
+      },
+      {
+        "key": "aufbringen",
+        "label": "aufbringen",
+        "gloss": "muster understanding"
+      },
+      {
+        "key": "für",
+        "label": "für",
+        "gloss": "preposition: Verständnis für + Akk"
+      }
+    ]
+  },
+  {
+    "key": "Vertrag",
+    "title": "Vertrag",
+    "items": [
+      {
+        "key": "abschließen",
+        "label": "abschließen",
+        "gloss": "conclude a contract"
+      },
+      {
+        "key": "unterzeichnen",
+        "label": "unterzeichnen",
+        "gloss": "sign a contract"
+      },
+      {
+        "key": "kündigen",
+        "label": "kündigen",
+        "gloss": "terminate a contract"
+      },
+      {
+        "key": "verlängern",
+        "label": "verlängern",
+        "gloss": "extend a contract"
+      },
+      {
+        "key": "erfüllen",
+        "label": "erfüllen",
+        "gloss": "fulfil a contract"
+      }
+    ]
+  },
+  {
+    "key": "Vorwürfe",
+    "title": "Vorwürfe",
+    "items": [
+      {
+        "key": "erheben",
+        "label": "erheben",
+        "gloss": "raise accusations"
+      },
+      {
+        "key": "zurückweisen",
+        "label": "zurückweisen",
+        "gloss": "reject accusations"
+      },
+      {
+        "key": "entkräften",
+        "label": "entkräften",
+        "gloss": "refute accusations"
+      },
+      {
+        "key": "schwer",
+        "label": "schwer",
+        "gloss": "serious accusations"
+      }
+    ]
+  },
+  {
+    "key": "Wert",
+    "title": "Wert",
+    "items": [
+      {
+        "key": "legen",
+        "label": "legen",
+        "gloss": "attach importance, legen auf"
+      },
+      {
+        "key": "beimessen",
+        "label": "beimessen",
+        "gloss": "attribute value"
+      },
+      {
+        "key": "auf",
+        "label": "auf",
+        "gloss": "preposition: Wert auf + Akk"
+      }
+    ]
+  },
+  {
+    "key": "Widerstand",
+    "title": "Widerstand",
+    "items": [
+      {
+        "key": "leisten",
+        "label": "leisten",
+        "gloss": "put up resistance"
+      },
+      {
+        "key": "stoßen",
+        "label": "stoßen",
+        "gloss": "stoßen auf: meet resistance"
+      },
+      {
+        "key": "hervorrufen",
+        "label": "hervorrufen",
+        "gloss": "provoke resistance"
+      },
+      {
+        "key": "brechen",
+        "label": "brechen",
+        "gloss": "break resistance"
+      }
+    ]
+  },
+  {
+    "key": "Wirkung",
+    "title": "Wirkung",
+    "items": [
+      {
+        "key": "zeigen",
+        "label": "zeigen",
+        "gloss": "show an effect"
+      },
+      {
+        "key": "entfalten",
+        "label": "entfalten",
+        "gloss": "develop an effect"
+      },
+      {
+        "key": "erzielen",
+        "label": "erzielen",
+        "gloss": "achieve an effect"
+      },
+      {
+        "key": "verfehlen",
+        "label": "verfehlen",
+        "gloss": "fail to have an effect"
+      }
+    ]
+  },
+  {
+    "key": "Wohnung",
+    "title": "Wohnung",
+    "items": [
+      {
+        "key": "mieten",
+        "label": "mieten",
+        "gloss": "rent a flat"
+      },
+      {
+        "key": "vermieten",
+        "label": "vermieten",
+        "gloss": "let a flat"
+      },
+      {
+        "key": "kündigen",
+        "label": "kündigen",
+        "gloss": "terminate a flat lease"
+      },
+      {
+        "key": "beziehen",
+        "label": "beziehen",
+        "gloss": "move into a flat"
+      },
+      {
+        "key": "besichtigen",
+        "label": "besichtigen",
+        "gloss": "view a flat"
+      },
+      {
+        "key": "renovieren",
+        "label": "renovieren",
+        "gloss": "renovate a flat"
+      }
+    ]
+  },
+  {
+    "key": "Ziel",
+    "title": "Ziel",
+    "items": [
+      {
+        "key": "erreichen",
+        "label": "erreichen",
+        "gloss": "reach a goal"
+      },
+      {
+        "key": "verfolgen",
+        "label": "verfolgen",
+        "gloss": "pursue a goal"
+      },
+      {
+        "key": "verfehlen",
+        "label": "verfehlen",
+        "gloss": "miss a goal"
+      },
+      {
+        "key": "anstreben",
+        "label": "anstreben",
+        "gloss": "strive for a goal"
+      },
+      {
+        "key": "setzen",
+        "label": "setzen",
+        "gloss": "set a goal"
+      }
+    ]
+  },
+  {
+    "key": "Zusammenarbeit",
+    "title": "Zusammenarbeit",
+    "items": [
+      {
+        "key": "eng",
+        "label": "eng",
+        "gloss": "close cooperation"
+      },
+      {
+        "key": "intensiv",
+        "label": "intensiv",
+        "gloss": "intensive cooperation"
+      },
+      {
+        "key": "gut",
+        "label": "gut",
+        "gloss": "good cooperation"
+      },
+      {
+        "key": "vertiefen",
+        "label": "vertiefen",
+        "gloss": "deepen cooperation"
+      }
+    ]
+  },
+  {
+    "key": "Zusammenhang",
+    "title": "Zusammenhang",
+    "items": [
+      {
+        "key": "eng",
+        "label": "eng",
+        "gloss": "close connection"
+      },
+      {
+        "key": "klar",
+        "label": "klar",
+        "gloss": "clear connection"
+      },
+      {
+        "key": "herstellen",
+        "label": "herstellen",
+        "gloss": "establish a connection"
+      },
+      {
+        "key": "bestehen",
+        "label": "bestehen",
+        "gloss": "a connection exists"
+      }
+    ]
+  },
+  {
+    "key": "Zweifel",
+    "title": "Zweifel",
+    "items": [
+      {
+        "key": "äußern",
+        "label": "äußern",
+        "gloss": "voice doubts"
+      },
+      {
+        "key": "hegen",
+        "label": "hegen",
+        "gloss": "harbour doubts"
+      },
+      {
+        "key": "haben",
+        "label": "haben",
+        "gloss": "have doubts"
+      },
+      {
+        "key": "ausräumen",
+        "label": "ausräumen",
+        "gloss": "dispel doubts"
+      },
+      {
+        "key": "an",
+        "label": "an",
+        "gloss": "preposition: Zweifel an + Dat"
+      }
+    ]
+  },
+  {
+    "key": "Überstunden",
+    "title": "Überstunden",
+    "items": [
+      {
+        "key": "machen",
+        "label": "machen",
+        "gloss": "do overtime"
+      },
+      {
+        "key": "leisten",
+        "label": "leisten",
+        "gloss": "work overtime"
+      },
+      {
+        "key": "abbauen",
+        "label": "abbauen",
+        "gloss": "reduce overtime"
+      },
+      {
+        "key": "anordnen",
+        "label": "anordnen",
+        "gloss": "order overtime"
+      }
+    ]
+  }
+]

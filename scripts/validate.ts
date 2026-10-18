@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, '..', 'src', 'data');
-const LEVELS = ['a', 'b', 'c', 'vp', 'adj', 'poss'] as const;
+const LEVELS = ['a', 'b', 'c', 'vp', 'adj', 'poss', 'dec', 'fuz', 'lazy', 'kon'] as const;
 const VALID_LEVELS = new Set(['A', 'B', 'C']);
 
 let errors = 0;
@@ -60,8 +60,8 @@ function validate(exercises: any[]) {
       errors++;
     } else {
       const blanks = (ex.sentence.match(/___/g) || []).length;
-      if (blanks !== 1) {
-        console.error(`❌ ${id}: sentence must contain exactly one "___" (found ${blanks})`);
+      if (ex.type === 'collocation_bug' ? blanks !== 0 : blanks !== 1) {
+        console.error(`❌ ${id}: sentence must contain exactly one "___" (bug-hunt sentences none) (found ${blanks})`);
         errors++;
       }
 

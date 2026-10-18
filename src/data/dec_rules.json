@@ -1,0 +1,115 @@
+[
+  {
+    "key": "Consonant shifts",
+    "title": "Consonant shifts",
+    "items": [
+      {
+        "key": "P",
+        "label": "p → pf / f / ff",
+        "gloss": "e.g. apple → Apfel · ship → Schiff · help → helfen"
+      },
+      {
+        "key": "T",
+        "label": "t → z / ss / ß / tz",
+        "gloss": "e.g. ten → zehn · tongue → Zunge · water → Wasser"
+      },
+      {
+        "key": "K",
+        "label": "k → ch",
+        "gloss": "e.g. book → Buch · make → machen · break → brechen"
+      },
+      {
+        "key": "D",
+        "label": "d → t",
+        "gloss": "e.g. day → Tag · dream → Traum · daughter → Tochter"
+      },
+      {
+        "key": "TH",
+        "label": "th → d",
+        "gloss": "e.g. thing → Ding · thank → danken · three → drei"
+      },
+      {
+        "key": "V",
+        "label": "v → b",
+        "gloss": "e.g. give → geben · live → leben · have → haben"
+      }
+    ]
+  },
+  {
+    "key": "Latin endings",
+    "title": "Latin endings",
+    "items": [
+      {
+        "key": "ITY",
+        "label": "-ity → -ität",
+        "gloss": "e.g. university → Universität · quality → Qualität · reality → Realität"
+      },
+      {
+        "key": "ISIEREN",
+        "label": "-ize → -isieren",
+        "gloss": "e.g. organize → organisieren · realize → realisieren · modernize → modernisieren"
+      },
+      {
+        "key": "ATE",
+        "label": "-ate → -ieren",
+        "gloss": "e.g. concentrate → konzentrieren · demonstrate → demonstrieren · motivate → motivieren"
+      },
+      {
+        "key": "OUS",
+        "label": "-ous → -ös",
+        "gloss": "e.g. nervous → nervös · luxurious → luxuriös · religious → religiös"
+      },
+      {
+        "key": "IC",
+        "label": "-ic(al) → -isch",
+        "gloss": "e.g. electric → elektrisch · logical → logisch · typical → typisch"
+      },
+      {
+        "key": "IVE",
+        "label": "-ive → -iv",
+        "gloss": "e.g. active → aktiv · positive → positiv · creative → kreativ"
+      },
+      {
+        "key": "ISM",
+        "label": "-ism → -ismus",
+        "gloss": "e.g. tourism → Tourismus · capitalism → Kapitalismus · racism → Rassismus"
+      },
+      {
+        "key": "URE",
+        "label": "-ure → -ur",
+        "gloss": "e.g. culture → Kultur · nature → Natur · structure → Struktur"
+      },
+      {
+        "key": "ENCE",
+        "label": "-ence/-ency → -enz",
+        "gloss": "e.g. difference → Differenz · consequence → Konsequenz · conference → Konferenz"
+      },
+      {
+        "key": "ANZ",
+        "label": "-ance → -anz",
+        "gloss": "e.g. distance → Distanz · tolerance → Toleranz · substance → Substanz"
+      },
+      {
+        "key": "ARY",
+        "label": "-ary → -är",
+        "gloss": "e.g. secretary → Sekretär · revolutionary → revolutionär · primary → primär"
+      }
+    ]
+  },
+  {
+    "key": "Spelling",
+    "title": "Spelling",
+    "items": [
+      {
+        "key": "C",
+        "label": "c → k / z",
+        "gloss": "e.g. central → zentral · cell → Zelle · cigarette → Zigarette"
+      },
+      {
+        "key": "PH",
+        "label": "ph → f",
+        "gloss": "e.g. photo → Foto · telephone → Telefon · photographer → Fotograf"
+      }
+    ]
+  }
+]

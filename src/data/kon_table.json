@@ -1,0 +1,157 @@
+{
+  "classes": [
+    {
+      "key": "KONJ",
+      "title": "Konj. (Pos 0)"
+    },
+    {
+      "key": "ADV",
+      "title": "Adverb (Pos 1)"
+    },
+    {
+      "key": "NS",
+      "title": "Nebensatz (Verb Ende)"
+    }
+  ],
+  "rows": [
+    {
+      "key": "Grund",
+      "label": "Grund",
+      "gloss": "cause",
+      "cells": {
+        "KONJ": [
+          "denn"
+        ],
+        "ADV": [],
+        "NS": [
+          "weil",
+          "da"
+        ]
+      }
+    },
+    {
+      "key": "Folge",
+      "label": "Folge",
+      "gloss": "consequence",
+      "cells": {
+        "KONJ": [],
+        "ADV": [
+          "deshalb",
+          "deswegen",
+          "darum",
+          "daher",
+          "folglich",
+          "somit",
+          "infolgedessen"
+        ],
+        "NS": [
+          "sodass"
+        ]
+      }
+    },
+    {
+      "key": "Gegensatz",
+      "label": "Gegensatz",
+      "gloss": "contrast",
+      "cells": {
+        "KONJ": [
+          "aber",
+          "sondern"
+        ],
+        "ADV": [
+          "allerdings",
+          "hingegen",
+          "dagegen",
+          "jedoch"
+        ],
+        "NS": [
+          "während",
+          "wohingegen"
+        ]
+      }
+    },
+    {
+      "key": "Einräumung",
+      "label": "Einräumung",
+      "gloss": "concession",
+      "cells": {
+        "KONJ": [],
+        "ADV": [
+          "trotzdem",
+          "dennoch",
+          "nichtsdestotrotz"
+        ],
+        "NS": [
+          "obwohl",
+          "obgleich"
+        ]
+      }
+    },
+    {
+      "key": "Bedingung",
+      "label": "Bedingung",
+      "gloss": "condition",
+      "cells": {
+        "KONJ": [],
+        "ADV": [
+          "sonst",
+          "andernfalls"
+        ],
+        "NS": [
+          "wenn",
+          "falls",
+          "sofern"
+        ]
+      }
+    },
+    {
+      "key": "Zweck",
+      "label": "Zweck",
+      "gloss": "purpose",
+      "cells": {
+        "KONJ": [],
+        "ADV": [],
+        "NS": [
+          "damit"
+        ]
+      }
+    },
+    {
+      "key": "Zeit",
+      "label": "Zeit",
+      "gloss": "time",
+      "cells": {
+        "KONJ": [],
+        "ADV": [
+          "danach",
+          "anschließend",
+          "zuvor",
+          "inzwischen"
+        ],
+        "NS": [
+          "bevor",
+          "nachdem",
+          "sobald",
+          "bis",
+          "seitdem"
+        ]
+      }
+    },
+    {
+      "key": "Zusatz",
+      "label": "Zusatz",
+      "gloss": "addition",
+      "cells": {
+        "KONJ": [
+          "und"
+        ],
+        "ADV": [
+          "außerdem",
+          "zudem",
+          "überdies"
+        ],
+        "NS": []
+      }
+    }
+  ]
+}

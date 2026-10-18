@@ -1,0 +1,5129 @@
+[
+  {
+    "id": "L-0001",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Mit nur zwei Pflegekräften pro Station ist die Versorgung der Patienten nachts ___.",
+    "options": [
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend"
+    ],
+    "answer": "unzureichend",
+    "case": "Wortwahl",
+    "focus": "schlecht → unzureichend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The staffing is too low to meet the needs.\n3. Ladder: unzureichend = not enough, inadequate in amount or extent\n4. The others: minderwertig = of inferior quality compared with others; schädlich = harmful to health or environment; ungünstig = unfavourable for timing or conditions.\n∴ unzureichend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "unzureichend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "unzureichend"
+    }
+  },
+  {
+    "id": "L-0002",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Die Verwaltung bittet um Verständnis, dass sie in dieser delikaten ___ keine Auskunft erteilen kann.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Angelegenheit",
+    "case": "Wortwahl",
+    "focus": "Sache → Angelegenheit",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A sensitive matter about which no information is given.\n3. Ladder: Angelegenheit = matter or affair to be dealt with\n4. The others: Tatsache = verifiable fact; Maßnahme = measure or action taken against something; Aufgabe = task or duty assigned to someone.\n∴ Angelegenheit",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Angelegenheit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Angelegenheit"
+    }
+  },
+  {
+    "id": "L-0003",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Der Verein hat durch den Pokalsieg überregionale Bekanntheit ___.",
+    "options": [
+      "bezogen",
+      "empfangen",
+      "erlangt",
+      "erzielt"
+    ],
+    "answer": "erlangt",
+    "case": "Wortwahl",
+    "focus": "bekommen → erlangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The club attained fame through its achievement.\n3. Ladder: erlangen = attain with effort (access, fame, certainty)\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erzielen = achieve a result, profit or agreement; empfangen = receive guests or signals.\n∴ erlangt",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erlangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erlangen"
+    }
+  },
+  {
+    "id": "L-0004",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Der Blogger ___ ohne jeden Beweis, der Impfstoff verändere das Erbgut.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erwähnt"
+    ],
+    "answer": "behauptet",
+    "case": "Wortwahl",
+    "focus": "sagen → behaupten",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The blogger claims something without any proof.\n3. Ladder: behaupten = claim something without proof\n4. The others: betonen = stress or emphasise something one holds true; erwähnen = mention in passing; erklären = make understandable, or declare officially.\n∴ behauptet",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "behaupten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "behaupten"
+    }
+  },
+  {
+    "id": "L-0005",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Das Beispiel soll dem Publikum noch einmal ___, worum es bei dem Gesetz geht.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "offenbaren",
+      "verdeutlichen"
+    ],
+    "answer": "verdeutlichen",
+    "case": "Wortwahl",
+    "focus": "zeigen → verdeutlichen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The example is meant to make the point clearer.\n3. Ladder: verdeutlichen = make a point clearer\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ verdeutlichen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "verdeutlichen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "verdeutlichen"
+    }
+  },
+  {
+    "id": "L-0006",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Die Übersetzung ist ___ gelungen, man merkt kaum, dass der Text aus dem Japanischen stammt.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "hervorragend",
+    "case": "Wortwahl",
+    "focus": "gut → hervorragend",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The translation turned out excellent, of top quality.\n3. Ladder: hervorragend = excellent in quality or performance\n4. The others: zuverlässig = reliable, can be depended on; vorteilhaft = advantageous, brings a benefit; angemessen = appropriate in degree or measure.\n∴ hervorragend",
+    "tags": [
+      "upgrade",
+      "gut",
+      "hervorragend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "hervorragend"
+    }
+  },
+  {
+    "id": "L-0007",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Es bleibt eine ___, dass die Zahl der Hausärzte auf dem Land seit Jahren sinkt.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Tatsache",
+    "case": "Wortwahl",
+    "focus": "Sache → Tatsache",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A verifiable fact is stated.\n3. Ladder: Tatsache = verifiable fact\n4. The others: Angelegenheit = matter or affair to be dealt with; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Tatsache",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Tatsache"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Tatsache"
+    }
+  },
+  {
+    "id": "L-0008",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Der Dozent hat uns Schritt für Schritt ___, wie man die Formel herleitet.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erklärt",
+      "geäußert",
+      "mitgeteilt"
+    ],
+    "answer": "erklärt",
+    "case": "Wortwahl",
+    "focus": "sagen → erklären",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The lecturer made something understandable step by step.\n3. Ladder: erklären = make understandable, or declare officially\n4. The others: behaupten = claim something without proof; betonen = stress or emphasise something one holds true; äußern = express an opinion, feeling or concern.\n∴ erklärt",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "erklären"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "erklären"
+    }
+  },
+  {
+    "id": "L-0009",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Bis zum Bahnhof sind es von hier aus noch ___ weit, etwa vierzig Minuten zu Fuß.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "ziemlich",
+      "zutiefst"
+    ],
+    "answer": "ziemlich",
+    "case": "Wortwahl",
+    "focus": "sehr → ziemlich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The distance is fairly long but not extreme.\n3. Ladder: ziemlich = fairly, only a moderate degree\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ ziemlich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "ziemlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "ziemlich"
+    }
+  },
+  {
+    "id": "L-0010",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Im Vorstellungsgespräch hat er seine Auslandserfahrung nur ganz am Rande ___.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erklärt",
+      "erwähnt"
+    ],
+    "answer": "erwähnt",
+    "case": "Wortwahl",
+    "focus": "sagen → erwähnen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He touched on his experience abroad only in passing.\n3. Ladder: erwähnen = mention in passing\n4. The others: betonen = stress or emphasise something one holds true; behaupten = claim something without proof; erklären = make understandable, or declare officially.\n∴ erwähnt",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "erwähnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "erwähnen"
+    }
+  },
+  {
+    "id": "L-0011",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Angesichts der angespannten ___ auf dem Wohnungsmarkt suchen viele Studierende monatelang.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Lage",
+    "case": "Wortwahl",
+    "focus": "Sache → Lage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The state of the housing market is tense.\n3. Ladder: Lage = situation, state of affairs\n4. The others: Tatsache = verifiable fact; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Lage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Lage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Lage"
+    }
+  },
+  {
+    "id": "L-0012",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Eine Verlängerung der Frist ist ___ möglich, wenn Sie einen triftigen Grund nennen.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "durchaus",
+    "case": "Wortwahl",
+    "focus": "sehr → durchaus",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: An extension is quite possible, contrary to what one might expect.\n3. Ladder: durchaus = quite, certainly, often conceding a point\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ durchaus",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "durchaus"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "durchaus"
+    }
+  },
+  {
+    "id": "L-0013",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Bei der Eröffnungsfeier gab es eine peinliche ___: Das Mikrofon fiel mitten im Satz aus.",
+    "options": [
+      "Belastung",
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit"
+    ],
+    "answer": "Panne",
+    "case": "Wortwahl",
+    "focus": "Problem → Panne",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A one-off embarrassing mishap happened.\n3. Ladder: Panne = one-off mishap or breakdown\n4. The others: Schwierigkeit = difficulty in doing or achieving something; Belastung = burden or strain on a person or system; Hürde = obstacle on the way to a goal.\n∴ Panne",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Panne"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Panne"
+    }
+  },
+  {
+    "id": "L-0014",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Die Studentin hat die Prüfung mit 98 von 100 Punkten ___ bestanden.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "hervorragend",
+    "case": "Wortwahl",
+    "focus": "gut → hervorragend",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The exam was passed with outstanding quality.\n3. Ladder: hervorragend = excellent in quality or performance\n4. The others: vorteilhaft = advantageous, brings a benefit; angemessen = appropriate in degree or measure; zuverlässig = reliable, can be depended on.\n∴ hervorragend",
+    "tags": [
+      "upgrade",
+      "gut",
+      "hervorragend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "hervorragend"
+    }
+  },
+  {
+    "id": "L-0015",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  In dieser Fabrik werden täglich 2000 Fahrradrahmen maschinell ___.",
+    "options": [
+      "bewirkt",
+      "durchgeführt",
+      "erledigt",
+      "hergestellt",
+      "verursacht"
+    ],
+    "answer": "hergestellt",
+    "case": "Wortwahl",
+    "focus": "machen → herstellen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Goods are manufactured in large numbers by machines.\n3. Ladder: herstellen = manufacture goods\n4. The others: erledigen = get a task or chore done; bewirken = bring about an effect or change; verursachen = cause something, usually negative.\n∴ hergestellt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "herstellen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "herstellen"
+    }
+  },
+  {
+    "id": "L-0016",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Am Ende ist nicht die Note ___, sondern was man daraus macht.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "unverzichtbar"
+    ],
+    "answer": "entscheidend",
+    "case": "Wortwahl",
+    "focus": "wichtig → entscheidend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: What matters in the end is what decides the outcome.\n3. Ladder: entscheidend = decisive for the outcome\n4. The others: unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ entscheidend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "entscheidend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "entscheidend"
+    }
+  },
+  {
+    "id": "L-0017",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Gute Teamarbeit ist in der Notaufnahme schlicht ___.",
+    "options": [
+      "dringend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "unverzichtbar",
+    "case": "Wortwahl",
+    "focus": "wichtig → unverzichtbar",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Teamwork is simply indispensable in an emergency room.\n3. Ladder: unverzichtbar = indispensable, cannot be done without\n4. The others: relevant = pertinent to the topic or the group concerned; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ unverzichtbar",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "unverzichtbar"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "unverzichtbar"
+    }
+  },
+  {
+    "id": "L-0018",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Wegen einer dringenden familiären ___ musste sie die Sitzung früher verlassen.",
+    "options": [
+      "Angelegenheit",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Angelegenheit",
+    "case": "Wortwahl",
+    "focus": "Sache → Angelegenheit",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A personal matter requiring attention forced her to leave.\n3. Ladder: Angelegenheit = matter or affair to be dealt with\n4. The others: Tatsache = verifiable fact; Maßnahme = measure or action taken against something; Frage = question or issue open to debate.\n∴ Angelegenheit",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Angelegenheit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Angelegenheit"
+    }
+  },
+  {
+    "id": "L-0019",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Das Angebot ist teuer, aber für ein Familienauto ist es ___ vertretbar.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "durchaus",
+    "case": "Wortwahl",
+    "focus": "sehr → durchaus",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker concedes the price is quite acceptable despite being high.\n3. Ladder: durchaus = quite, certainly, often conceding a point\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ durchaus",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "durchaus"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "durchaus"
+    }
+  },
+  {
+    "id": "L-0020",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Durch die neue Software hat sich die Bearbeitungszeit ___ verkürzt.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "erheblich",
+    "case": "Wortwahl",
+    "focus": "sehr → erheblich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The processing time dropped by a considerable amount.\n3. Ladder: erheblich = considerably, for degree of change or difference\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; äußerst = extremely, at the upper limit of a scale.\n∴ erheblich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "erheblich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "erheblich"
+    }
+  },
+  {
+    "id": "L-0021",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Dieser Laptop ist für Videoschnitt leider nicht ___, der Arbeitsspeicher ist zu klein.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "geeignet",
+    "case": "Wortwahl",
+    "focus": "gut → geeignet",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The laptop does not fit the specific purpose of video editing.\n3. Ladder: geeignet = suitable for a specific purpose\n4. The others: hervorragend = excellent in quality or performance; zuverlässig = reliable, can be depended on; vorteilhaft = advantageous, brings a benefit.\n∴ geeignet",
+    "tags": [
+      "upgrade",
+      "gut",
+      "geeignet"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "geeignet"
+    }
+  },
+  {
+    "id": "L-0022",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Ich habe gestern einen Brief vom Finanzamt ___.",
+    "options": [
+      "bezogen",
+      "erhalten",
+      "erlangt",
+      "erworben",
+      "erzielt"
+    ],
+    "answer": "erhalten",
+    "case": "Wortwahl",
+    "focus": "bekommen → erhalten",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker received a letter.\n3. Ladder: erhalten = receive, neutral or formal\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erwerben = acquire by purchase or by effort (skills, property); erlangen = attain with effort (access, fame, certainty).\n∴ erhalten",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erhalten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erhalten"
+    }
+  },
+  {
+    "id": "L-0023",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Dieser Roman ist für alle ___, die sich für die Geschichte der DDR interessieren.",
+    "options": [
+      "angemessen",
+      "empfehlenswert",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "empfehlenswert",
+    "case": "Wortwahl",
+    "focus": "gut → empfehlenswert",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The novel is worth recommending to a group of readers.\n3. Ladder: empfehlenswert = worth recommending to others\n4. The others: vorteilhaft = advantageous, brings a benefit; angemessen = appropriate in degree or measure; zuverlässig = reliable, can be depended on.\n∴ empfehlenswert",
+    "tags": [
+      "upgrade",
+      "gut",
+      "empfehlenswert"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "empfehlenswert"
+    }
+  },
+  {
+    "id": "L-0024",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Auf dem Weg zur Anerkennung ihres Abschlusses musste sie noch eine letzte ___ nehmen: die Sprachprüfung.",
+    "options": [
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Hürde",
+    "case": "Wortwahl",
+    "focus": "Problem → Hürde",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: One last obstacle on the path to a goal had to be cleared.\n3. Ladder: Hürde = obstacle on the way to a goal\n4. The others: Schwierigkeit = difficulty in doing or achieving something; Herausforderung = demanding task one can rise to; Panne = one-off mishap or breakdown.\n∴ Hürde",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Hürde"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Hürde"
+    }
+  },
+  {
+    "id": "L-0025",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Für die Wanderung haben wir ___ Proviant eingepackt, mehr als wir je essen können.",
+    "options": [
+      "beträchtlich",
+      "reichlich",
+      "umfangreich",
+      "unzählig",
+      "zahlreich"
+    ],
+    "answer": "reichlich",
+    "case": "Wortwahl",
+    "focus": "viel → reichlich",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The amount is more than enough, with an uncountable noun.\n3. Ladder: reichlich = ample, more than enough\n4. The others: zahlreich = numerous, for countable things or people; unzählig = countless, too many to count; umfangreich = extensive, large in scope or volume.\n∴ reichlich",
+    "tags": [
+      "upgrade",
+      "viel",
+      "reichlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "reichlich"
+    }
+  },
+  {
+    "id": "L-0026",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Der Bürgermeister wird die Ausstellung am Freitagabend feierlich ___.",
+    "options": [
+      "antreten",
+      "aufnehmen",
+      "beginnen",
+      "einleiten",
+      "eröffnen"
+    ],
+    "answer": "eröffnen",
+    "case": "Wortwahl",
+    "focus": "anfangen → eröffnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: An exhibition is opened formally at a ceremony.\n3. Ladder: eröffnen = open formally (event, shop, proceedings)\n4. The others: beginnen = begin, neutral for processes and activities; einleiten = set a process or measure in motion; antreten = take up (job, office, journey, sentence).\n∴ eröffnen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "eröffnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "eröffnen"
+    }
+  },
+  {
+    "id": "L-0027",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Kannst du mir bitte noch einmal ___, wie dieser Fahrkartenautomat funktioniert?",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erklären",
+      "erwähnen",
+      "äußern"
+    ],
+    "answer": "erklären",
+    "case": "Wortwahl",
+    "focus": "sagen → erklären",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker wants someone to make a procedure understandable.\n3. Ladder: erklären = make understandable, or declare officially\n4. The others: behaupten = claim something without proof; erwähnen = mention in passing; äußern = express an opinion, feeling or concern.\n∴ erklären",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "erklären"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "erklären"
+    }
+  },
+  {
+    "id": "L-0028",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Die Ausgaben müssen durch Rechnungen und Quittungen ___ werden.",
+    "options": [
+      "belegt",
+      "bewiesen",
+      "demonstriert",
+      "offenbart",
+      "verdeutlicht"
+    ],
+    "answer": "belegt",
+    "case": "Wortwahl",
+    "focus": "zeigen → belegen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Expenses have to be supported with documents.\n3. Ladder: belegen = support with evidence or sources\n4. The others: beweisen = prove conclusively; show a quality; verdeutlichen = make a point clearer; demonstrieren = show practically how it works, or protest.\n∴ belegt",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "belegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "belegen"
+    }
+  },
+  {
+    "id": "L-0029",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Mit Appellen allein wirst du bei dieser Behörde nichts ___.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "bewirken",
+    "case": "Wortwahl",
+    "focus": "machen → bewirken",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Appeals alone will not bring about any change.\n3. Ladder: bewirken = bring about an effect or change\n4. The others: verursachen = cause something, usually negative; anfertigen = produce a custom item or document; herstellen = manufacture goods.\n∴ bewirken",
+    "tags": [
+      "upgrade",
+      "machen",
+      "bewirken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "bewirken"
+    }
+  },
+  {
+    "id": "L-0030",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Bis zur Abfahrt haben wir noch ___ Zeit, wir können in Ruhe frühstücken.",
+    "options": [
+      "beträchtlich",
+      "reichlich",
+      "umfangreich",
+      "unzählig",
+      "zahlreich"
+    ],
+    "answer": "reichlich",
+    "case": "Wortwahl",
+    "focus": "viel → reichlich",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: There is plenty of time, more than needed.\n3. Ladder: reichlich = ample, more than enough\n4. The others: zahlreich = numerous, for countable things or people; umfangreich = extensive, large in scope or volume; beträchtlich = considerable in size or amount.\n∴ reichlich",
+    "tags": [
+      "upgrade",
+      "viel",
+      "reichlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "reichlich"
+    }
+  },
+  {
+    "id": "L-0031",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Für das Seminar sollen die Studierenden eine kurze Zusammenfassung des Textes ___.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "verursachen"
+    ],
+    "answer": "anfertigen",
+    "case": "Wortwahl",
+    "focus": "machen → anfertigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Students have to produce a short written document.\n3. Ladder: anfertigen = produce a custom item or document\n4. The others: erledigen = get a task or chore done; verursachen = cause something, usually negative; bewirken = bring about an effect or change.\n∴ anfertigen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "anfertigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "anfertigen"
+    }
+  },
+  {
+    "id": "L-0032",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Für die Berechnung müssen wir ___, dass alle Kunden pünktlich zahlen.",
+    "options": [
+      "annehmen",
+      "erwägen",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "annehmen",
+    "case": "Wortwahl",
+    "focus": "denken → annehmen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: For the calculation we have to take something as a premise.\n3. Ladder: annehmen = assume as a premise or as probable\n4. The others: vermuten = suspect or guess without evidence; überlegen = think over a decision, weigh what to do; erwägen = seriously consider as an option (formal).\n∴ annehmen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "annehmen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "annehmen"
+    }
+  },
+  {
+    "id": "L-0033",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Falsch gelagerte Akkus können gefährliche Brände ___.",
+    "options": [
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "verursachen",
+    "case": "Wortwahl",
+    "focus": "machen → verursachen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Something dangerous causes harmful consequences.\n3. Ladder: verursachen = cause something, usually negative\n4. The others: bewirken = bring about an effect or change; herstellen = manufacture goods; erledigen = get a task or chore done.\n∴ verursachen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "verursachen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "verursachen"
+    }
+  },
+  {
+    "id": "L-0034",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Diese Regelung ist nur für Beschäftigte mit befristeten Verträgen ___.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "relevant",
+    "case": "Wortwahl",
+    "focus": "wichtig → relevant",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The rule applies to, and matters for, one specific group only.\n3. Ladder: relevant = pertinent to the topic or the group concerned\n4. The others: entscheidend = decisive for the outcome; unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical.\n∴ relevant",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "relevant"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "relevant"
+    }
+  },
+  {
+    "id": "L-0035",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Das Unternehmen will künftig die Batterien für seine Elektroautos selbst ___.",
+    "options": [
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "herstellen",
+    "case": "Wortwahl",
+    "focus": "machen → herstellen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The company wants to manufacture the batteries itself.\n3. Ladder: herstellen = manufacture goods\n4. The others: durchführen = carry out something planned (study, test, survey); erledigen = get a task or chore done; bewirken = bring about an effect or change.\n∴ herstellen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "herstellen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "herstellen"
+    }
+  },
+  {
+    "id": "L-0036",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  In ihrem Antrag musste die Studentin ihr Forschungsvorhaben ausführlich ___.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "darlegen",
+      "demonstrieren",
+      "offenbaren"
+    ],
+    "answer": "darlegen",
+    "case": "Wortwahl",
+    "focus": "zeigen → darlegen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The applicant has to set out her project in detail.\n3. Ladder: darlegen = set out reasons or arguments in detail\n4. The others: beweisen = prove conclusively; show a quality; demonstrieren = show practically how it works, or protest; offenbaren = reveal something hidden.\n∴ darlegen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "darlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "darlegen"
+    }
+  },
+  {
+    "id": "L-0037",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Die Kosten für das Projekt liegen ___ über dem ursprünglichen Budget.",
+    "options": [
+      "beträchtlich",
+      "häufig",
+      "umfangreich",
+      "unzählig",
+      "zahlreich"
+    ],
+    "answer": "beträchtlich",
+    "case": "Wortwahl",
+    "focus": "viel → beträchtlich",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The costs exceed the budget by a considerable amount.\n3. Ladder: beträchtlich = considerable in size or amount\n4. The others: zahlreich = numerous, for countable things or people; unzählig = countless, too many to count; häufig = often, frequent.\n∴ beträchtlich",
+    "tags": [
+      "upgrade",
+      "viel",
+      "beträchtlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "beträchtlich"
+    }
+  },
+  {
+    "id": "L-0038",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Die Forscher haben unter 400 Teilnehmern eine Umfrage ___.",
+    "options": [
+      "angefertigt",
+      "durchgeführt",
+      "erledigt",
+      "hergestellt",
+      "verursacht"
+    ],
+    "answer": "durchgeführt",
+    "case": "Wortwahl",
+    "focus": "machen → durchführen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A planned survey is carried out systematically.\n3. Ladder: durchführen = carry out something planned (study, test, survey)\n4. The others: erledigen = get a task or chore done; anfertigen = produce a custom item or document; verursachen = cause something, usually negative.\n∴ durchgeführt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "durchführen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "durchführen"
+    }
+  },
+  {
+    "id": "L-0039",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Der Neuling fand sich ohne jede ___ in der Software zurecht.",
+    "options": [
+      "Belastung",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Schwierigkeit",
+    "case": "Wortwahl",
+    "focus": "Problem → Schwierigkeit",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He managed without any difficulty.\n3. Ladder: Schwierigkeit = difficulty in doing or achieving something\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Belastung = burden or strain on a person or system.\n∴ Schwierigkeit",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Schwierigkeit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Schwierigkeit"
+    }
+  },
+  {
+    "id": "L-0040",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Ich bin nicht hundertprozentig sicher, aber ich glaube, dass er ___ gut Italienisch spricht.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "ziemlich",
+      "zutiefst"
+    ],
+    "answer": "ziemlich",
+    "case": "Wortwahl",
+    "focus": "sehr → ziemlich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker hedges: fairly good, not certain.\n3. Ladder: ziemlich = fairly, only a moderate degree\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ ziemlich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "ziemlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "ziemlich"
+    }
+  },
+  {
+    "id": "L-0041",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Der Notarzt hat sofort lebensrettende Maßnahmen ___.",
+    "options": [
+      "angetreten",
+      "aufgenommen",
+      "eingeleitet",
+      "eröffnet"
+    ],
+    "answer": "eingeleitet",
+    "case": "Wortwahl",
+    "focus": "anfangen → einleiten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The emergency doctor started measures straight away.\n3. Ladder: einleiten = set a process or measure in motion\n4. The others: eröffnen = open formally (event, shop, proceedings); antreten = take up (job, office, journey, sentence); aufnehmen = take up (contact, relations, activity).\n∴ eingeleitet",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "einleiten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "einleiten"
+    }
+  },
+  {
+    "id": "L-0042",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Die Verhandlungsführer konnten nach zwei Tagen endlich eine Einigung ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "erzielen",
+    "case": "Wortwahl",
+    "focus": "bekommen → erzielen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The negotiators finally achieve a result, an agreement.\n3. Ladder: erzielen = achieve a result, profit or agreement\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erwerben = acquire by purchase or by effort (skills, property); empfangen = receive guests or signals.\n∴ erzielen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erzielen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erzielen"
+    }
+  },
+  {
+    "id": "L-0043",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Wenn wir einmal ___, dass die Preise weiter steigen, lohnt sich ein Kauf jetzt.",
+    "options": [
+      "annehmen",
+      "nachdenken",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "annehmen",
+    "case": "Wortwahl",
+    "focus": "denken → annehmen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The sentence sets up a hypothetical assumption.\n3. Ladder: annehmen = assume as a premise or as probable\n4. The others: vermuten = suspect or guess without evidence; überlegen = think over a decision, weigh what to do; nachdenken = reflect deeply about something (über + Akk.).\n∴ annehmen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "annehmen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "annehmen"
+    }
+  },
+  {
+    "id": "L-0044",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Es ist die ___ des Betriebsrats, die Interessen der Beschäftigten zu vertreten.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Aufgabe",
+    "case": "Wortwahl",
+    "focus": "Sache → Aufgabe",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Representing employees is the duty of the works council.\n3. Ladder: Aufgabe = task or duty assigned to someone\n4. The others: Angelegenheit = matter or affair to be dealt with; Tatsache = verifiable fact; Maßnahme = measure or action taken against something.\n∴ Aufgabe",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Aufgabe"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Aufgabe"
+    }
+  },
+  {
+    "id": "L-0045",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Zu den Vorwürfen wollte sich der Sprecher nicht ___.",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "mitteilen",
+      "äußern"
+    ],
+    "answer": "äußern",
+    "case": "Wortwahl",
+    "focus": "sagen → äußern",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A reflexive verb is needed for giving one's view on a topic.\n3. Ladder: äußern = express an opinion, feeling or concern\n4. The others: behaupten = claim something without proof; betonen = stress or emphasise something one holds true; erwähnen = mention in passing.\n∴ äußern",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "äußern"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "äußern"
+    }
+  },
+  {
+    "id": "L-0046",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Im Frühjahr will die Bäckerei eine zweite Filiale in der Innenstadt ___.",
+    "options": [
+      "antreten",
+      "aufnehmen",
+      "beginnen",
+      "einleiten",
+      "eröffnen"
+    ],
+    "answer": "eröffnen",
+    "case": "Wortwahl",
+    "focus": "anfangen → eröffnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A new shop is opened for business.\n3. Ladder: eröffnen = open formally (event, shop, proceedings)\n4. The others: beginnen = begin, neutral for processes and activities; einleiten = set a process or measure in motion; antreten = take up (job, office, journey, sentence).\n∴ eröffnen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "eröffnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "eröffnen"
+    }
+  },
+  {
+    "id": "L-0047",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Für die Landwirte ist die Bilanz der Dürre ___, ganze Ernten sind vernichtet.",
+    "options": [
+      "mangelhaft",
+      "schädlich",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "verheerend",
+    "case": "Wortwahl",
+    "focus": "schlecht → verheerend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The drought has disastrous consequences for the farmers.\n3. Ladder: verheerend = devastating, with disastrous consequences\n4. The others: ungünstig = unfavourable for timing or conditions; mangelhaft = defective or below standard (also grade 5); schädlich = harmful to health or environment.\n∴ verheerend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "verheerend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "verheerend"
+    }
+  },
+  {
+    "id": "L-0048",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Der Redner hat noch einmal mit allem Nachdruck ___, dass jede einzelne Stimme zähle.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erwähnt",
+      "mitgeteilt"
+    ],
+    "answer": "betont",
+    "case": "Wortwahl",
+    "focus": "sagen → betonen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker stresses a point with great emphasis.\n3. Ladder: betonen = stress or emphasise something one holds true\n4. The others: behaupten = claim something without proof; erwähnen = mention in passing; mitteilen = inform someone of a fact or decision.\n∴ betont",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "betonen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "betonen"
+    }
+  },
+  {
+    "id": "L-0049",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Wenn man ___, dass das Gerät erst zwei Jahre alt ist, kommt der Defekt überraschend.",
+    "options": [
+      "bedenkt",
+      "erwägt",
+      "vermutet",
+      "überlegt"
+    ],
+    "answer": "bedenkt",
+    "case": "Wortwahl",
+    "focus": "denken → bedenken",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: It is an idiom meaning considering that.\n3. Ladder: bedenken = take into account\n4. The others: überlegen = think over a decision, weigh what to do; vermuten = suspect or guess without evidence; erwägen = seriously consider as an option (formal).\n∴ bedenkt",
+    "tags": [
+      "upgrade",
+      "denken",
+      "bedenken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "bedenken"
+    }
+  },
+  {
+    "id": "L-0050",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Niemand kann diese ___ leugnen: Die Gletscher schmelzen.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Tatsache",
+    "case": "Wortwahl",
+    "focus": "Sache → Tatsache",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A fact that cannot be denied.\n3. Ladder: Tatsache = verifiable fact\n4. The others: Angelegenheit = matter or affair to be dealt with; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Tatsache",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Tatsache"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Tatsache"
+    }
+  },
+  {
+    "id": "L-0051",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Mit den Bauarbeiten soll im März ___ werden.",
+    "options": [
+      "angetreten",
+      "aufgenommen",
+      "begonnen",
+      "eingeleitet",
+      "eröffnet"
+    ],
+    "answer": "begonnen",
+    "case": "Wortwahl",
+    "focus": "anfangen → beginnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Construction is planned to begin in March.\n3. Ladder: beginnen = begin, neutral for processes and activities\n4. The others: eröffnen = open formally (event, shop, proceedings); einleiten = set a process or measure in motion; antreten = take up (job, office, journey, sentence).\n∴ begonnen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "beginnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "beginnen"
+    }
+  },
+  {
+    "id": "L-0052",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Das Hotel ___ seine Gäste stets mit einem Glas Sekt.",
+    "options": [
+      "bezieht",
+      "empfängt",
+      "erlangt",
+      "erwirbt",
+      "erzielt"
+    ],
+    "answer": "empfängt",
+    "case": "Wortwahl",
+    "focus": "bekommen → empfangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The hotel welcomes its guests on arrival.\n3. Ladder: empfangen = receive guests or signals\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erwerben = acquire by purchase or by effort (skills, property); erzielen = achieve a result, profit or agreement.\n∴ empfängt",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "empfangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "empfangen"
+    }
+  },
+  {
+    "id": "L-0053",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Das Unternehmen hat im letzten Quartal einen Gewinn von drei Millionen Euro ___.",
+    "options": [
+      "empfangen",
+      "erlangt",
+      "erworben",
+      "erzielt"
+    ],
+    "answer": "erzielt",
+    "case": "Wortwahl",
+    "focus": "bekommen → erzielen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The company achieved a profit as a result.\n3. Ladder: erzielen = achieve a result, profit or agreement\n4. The others: erlangen = attain with effort (access, fame, certainty); erwerben = acquire by purchase or by effort (skills, property); empfangen = receive guests or signals.\n∴ erzielt",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erzielen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erzielen"
+    }
+  },
+  {
+    "id": "L-0054",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Viele Studierende ___ während des Studiums Bafög und müssen es später teilweise zurückzahlen.",
+    "options": [
+      "beziehen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "beziehen",
+    "case": "Wortwahl",
+    "focus": "bekommen → beziehen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Students draw regular state financial support.\n3. Ladder: beziehen = receive regularly (salary, pension) or get supplies\n4. The others: erlangen = attain with effort (access, fame, certainty); erzielen = achieve a result, profit or agreement; erwerben = acquire by purchase or by effort (skills, property).\n∴ beziehen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "beziehen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "beziehen"
+    }
+  },
+  {
+    "id": "L-0055",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Der Bericht hat den Namen des Unternehmens kein einziges Mal ___.",
+    "options": [
+      "behauptet",
+      "erklärt",
+      "erwähnt",
+      "geäußert"
+    ],
+    "answer": "erwähnt",
+    "case": "Wortwahl",
+    "focus": "sagen → erwähnen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The report never even mentioned the company's name.\n3. Ladder: erwähnen = mention in passing\n4. The others: behaupten = claim something without proof; äußern = express an opinion, feeling or concern; erklären = make understandable, or declare officially.\n∴ erwähnt",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "erwähnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "erwähnen"
+    }
+  },
+  {
+    "id": "L-0056",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Der Kollege ist ___: Wenn er einen Termin zusagt, hält er ihn auch ein.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "zuverlässig",
+    "case": "Wortwahl",
+    "focus": "gut → zuverlässig",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The colleague can be depended on to keep his promises.\n3. Ladder: zuverlässig = reliable, can be depended on\n4. The others: vorteilhaft = advantageous, brings a benefit; geeignet = suitable for a specific purpose; angemessen = appropriate in degree or measure.\n∴ zuverlässig",
+    "tags": [
+      "upgrade",
+      "gut",
+      "zuverlässig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "zuverlässig"
+    }
+  },
+  {
+    "id": "L-0057",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Das geht dich nichts an, das ist ganz allein meine ___.",
+    "options": [
+      "Angelegenheit",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Angelegenheit",
+    "case": "Wortwahl",
+    "focus": "Sache → Angelegenheit",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: It is a private matter that concerns only the speaker.\n3. Ladder: Angelegenheit = matter or affair to be dealt with\n4. The others: Tatsache = verifiable fact; Maßnahme = measure or action taken against something; Lage = situation, state of affairs.\n∴ Angelegenheit",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Angelegenheit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Angelegenheit"
+    }
+  },
+  {
+    "id": "L-0058",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Ich ___, dass der Streit eigentlich um Geld ging, aber bewiesen ist nichts.",
+    "options": [
+      "bedenke",
+      "erwäge",
+      "vermute",
+      "überlege"
+    ],
+    "answer": "vermute",
+    "case": "Wortwahl",
+    "focus": "denken → vermuten",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker guesses without any evidence.\n3. Ladder: vermuten = suspect or guess without evidence\n4. The others: überlegen = think over a decision, weigh what to do; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ vermute",
+    "tags": [
+      "upgrade",
+      "denken",
+      "vermuten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "vermuten"
+    }
+  },
+  {
+    "id": "L-0059",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Der Betrieb ergreift diese ___, um weitere Ansteckungen zu verhindern.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Maßnahme",
+    "case": "Wortwahl",
+    "focus": "Sache → Maßnahme",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The company takes a protective measure.\n3. Ladder: Maßnahme = measure taken to achieve or prevent something\n4. The others: Aufgabe = task or duty assigned to someone; Tatsache = verifiable fact; Angelegenheit = matter or affair to be dealt with.\n∴ Maßnahme",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Maßnahme"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Maßnahme"
+    }
+  },
+  {
+    "id": "L-0060",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Sie hat über das Netzwerk Kontakt zu ehemaligen Kollegen ___.",
+    "options": [
+      "aufgenommen",
+      "begonnen",
+      "eingeleitet",
+      "eröffnet",
+      "gestartet"
+    ],
+    "answer": "aufgenommen",
+    "case": "Wortwahl",
+    "focus": "anfangen → aufnehmen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: She established contact with former colleagues.\n3. Ladder: aufnehmen = take up (contact, relations, activity)\n4. The others: beginnen = begin, neutral for processes and activities; eröffnen = open formally (event, shop, proceedings); starten = launch or set going (engine, rocket, race).\n∴ aufgenommen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "aufnehmen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "aufnehmen"
+    }
+  },
+  {
+    "id": "L-0061",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Ich muss dich ___ sprechen: Es geht um den Unfall.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "dringend",
+    "case": "Wortwahl",
+    "focus": "wichtig → dringend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker needs to talk right away.\n3. Ladder: dringend = urgent, time-critical\n4. The others: relevant = pertinent to the topic or the group concerned; entscheidend = decisive for the outcome; unverzichtbar = indispensable, cannot be done without.\n∴ dringend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "dringend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "dringend"
+    }
+  },
+  {
+    "id": "L-0062",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Die Lieferung war ___: Drei der zehn Geräte hatten Risse im Gehäuse.",
+    "options": [
+      "mangelhaft",
+      "schädlich",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "mangelhaft",
+    "case": "Wortwahl",
+    "focus": "schlecht → mangelhaft",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The delivery was defective because some items had faults.\n3. Ladder: mangelhaft = defective or below standard (also grade 5)\n4. The others: ungünstig = unfavourable for timing or conditions; schädlich = harmful to health or environment; verheerend = devastating, with disastrous consequences.\n∴ mangelhaft",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "mangelhaft"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "mangelhaft"
+    }
+  },
+  {
+    "id": "L-0063",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Die ständigen Zwischenrufe waren eine erhebliche ___ des Unterrichts.",
+    "options": [
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Störung",
+    "case": "Wortwahl",
+    "focus": "Problem → Störung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The interruptions disrupted the lesson.\n3. Ladder: Störung = disruption or malfunction of a process or function\n4. The others: Panne = one-off mishap or breakdown; Hürde = obstacle on the way to a goal; Herausforderung = demanding task one can rise to.\n∴ Störung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Störung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Störung"
+    }
+  },
+  {
+    "id": "L-0064",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Die Reparatur ist ___, denn das Dach leckt bei jedem Regen.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant",
+      "unverzichtbar"
+    ],
+    "answer": "dringend",
+    "case": "Wortwahl",
+    "focus": "wichtig → dringend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The repair cannot wait.\n3. Ladder: dringend = urgent, time-critical\n4. The others: relevant = pertinent to the topic or the group concerned; entscheidend = decisive for the outcome; unverzichtbar = indispensable, cannot be done without.\n∴ dringend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "dringend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "dringend"
+    }
+  },
+  {
+    "id": "L-0065",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Er wollte der Welt ___, dass er den Marathon auch mit 70 noch laufen kann.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "darlegen",
+      "offenbaren"
+    ],
+    "answer": "beweisen",
+    "case": "Wortwahl",
+    "focus": "zeigen → beweisen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He wants to prove something to everyone through an achievement.\n3. Ladder: beweisen = prove conclusively\n4. The others: belegen = support with evidence or sources; offenbaren = reveal something hidden; darlegen = set out reasons or arguments in detail.\n∴ beweisen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "beweisen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "beweisen"
+    }
+  },
+  {
+    "id": "L-0066",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Das Team hat unter enormem Druck ___ gearbeitet und das Projekt zwei Wochen früher abgeschlossen.",
+    "options": [
+      "empfehlenswert",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft"
+    ],
+    "answer": "hervorragend",
+    "case": "Wortwahl",
+    "focus": "gut → hervorragend",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The team performed outstandingly and finished early.\n3. Ladder: hervorragend = excellent in quality or performance\n4. The others: vorteilhaft = advantageous, brings a benefit; geeignet = suitable for a specific purpose; empfehlenswert = worth recommending to others.\n∴ hervorragend",
+    "tags": [
+      "upgrade",
+      "gut",
+      "hervorragend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "hervorragend"
+    }
+  },
+  {
+    "id": "L-0067",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Der Lehrer ___ den Schülern im Labor, wie man ein Mikroskop richtig einstellt.",
+    "options": [
+      "belegt",
+      "beweist",
+      "demonstriert",
+      "offenbart"
+    ],
+    "answer": "demonstriert",
+    "case": "Wortwahl",
+    "focus": "zeigen → demonstrieren",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The teacher shows hands-on how an instrument works.\n3. Ladder: demonstrieren = show practically how it works, or protest\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ demonstriert",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "demonstrieren"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "demonstrieren"
+    }
+  },
+  {
+    "id": "L-0068",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Die Wetterbedingungen waren für den Gipfelaufstieg denkbar ___.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "verheerend"
+    ],
+    "answer": "ungünstig",
+    "case": "Wortwahl",
+    "focus": "schlecht → ungünstig",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The conditions were as unfavourable as they could be.\n3. Ladder: ungünstig = unfavourable for timing or conditions\n4. The others: minderwertig = of inferior quality compared with others; schädlich = harmful to health or environment; mangelhaft = defective or below standard (also grade 5).\n∴ ungünstig",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "ungünstig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "ungünstig"
+    }
+  },
+  {
+    "id": "L-0069",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Für Start-ups ist das Eigenkapital oft die höchste ___, die sie überwinden müssen.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Störung"
+    ],
+    "answer": "Hürde",
+    "case": "Wortwahl",
+    "focus": "Problem → Hürde",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The biggest obstacle has to be overcome.\n3. Ladder: Hürde = obstacle on the way to a goal\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Belastung = burden or strain on a person or system.\n∴ Hürde",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Hürde"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Hürde"
+    }
+  },
+  {
+    "id": "L-0070",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Ein früher Vertragsabschluss wäre für beide Seiten ___, weil die Preise bald steigen.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "vorteilhaft",
+    "case": "Wortwahl",
+    "focus": "gut → vorteilhaft",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: An early signing would bring a financial benefit to both sides.\n3. Ladder: vorteilhaft = advantageous, brings a benefit\n4. The others: zuverlässig = reliable, can be depended on; angemessen = appropriate in degree or measure; geeignet = suitable for a specific purpose.\n∴ vorteilhaft",
+    "tags": [
+      "upgrade",
+      "gut",
+      "vorteilhaft"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "vorteilhaft"
+    }
+  },
+  {
+    "id": "L-0071",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Der Patient braucht ___ eine neue Niere, sonst überlebt er nicht.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "erheblich",
+      "ziemlich",
+      "äußerst"
+    ],
+    "answer": "dringend",
+    "case": "Wortwahl",
+    "focus": "sehr → dringend",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The need is urgent and cannot wait.\n3. Ladder: dringend = urgently, with need or necessity\n4. The others: äußerst = extremely, at the upper limit of a scale; erheblich = considerably, for degree of change or difference; ziemlich = fairly, only a moderate degree.\n∴ dringend",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "dringend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "dringend"
+    }
+  },
+  {
+    "id": "L-0072",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Für das kleine Unternehmen wäre ein Ausfall des Hauptkunden ___, es müsste sofort Insolvenz anmelden.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "ungünstig",
+      "verheerend"
+    ],
+    "answer": "verheerend",
+    "case": "Wortwahl",
+    "focus": "schlecht → verheerend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Losing the main client would be catastrophic.\n3. Ladder: verheerend = devastating, with disastrous consequences\n4. The others: ungünstig = unfavourable for timing or conditions; minderwertig = of inferior quality compared with others; mangelhaft = defective or below standard (also grade 5).\n∴ verheerend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "verheerend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "verheerend"
+    }
+  },
+  {
+    "id": "L-0073",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Bei dem Kind wurde eine ___ der Sprachentwicklung festgestellt.",
+    "options": [
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Störung"
+    ],
+    "answer": "Störung",
+    "case": "Wortwahl",
+    "focus": "Problem → Störung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A medical disorder of the development was diagnosed.\n3. Ladder: Störung = disruption or malfunction of a process or function\n4. The others: Panne = one-off mishap or breakdown; Hürde = obstacle on the way to a goal; Herausforderung = demanding task one can rise to.\n∴ Störung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Störung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Störung"
+    }
+  },
+  {
+    "id": "L-0074",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Die Handwerker haben die Reparatur in nur zwei Stunden ___.",
+    "options": [
+      "angefertigt",
+      "bewirkt",
+      "erledigt",
+      "hergestellt",
+      "verursacht"
+    ],
+    "answer": "erledigt",
+    "case": "Wortwahl",
+    "focus": "machen → erledigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The craftsmen got a job finished quickly.\n3. Ladder: erledigen = get a task or chore done\n4. The others: anfertigen = produce a custom item or document; verursachen = cause something, usually negative; bewirken = bring about an effect or change.\n∴ erledigt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "erledigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "erledigen"
+    }
+  },
+  {
+    "id": "L-0075",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Dem Jungen bereitet die Aussprache schwieriger Laute keine ___.",
+    "options": [
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Schwierigkeit",
+    "case": "Wortwahl",
+    "focus": "Problem → Schwierigkeit",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Pronouncing hard sounds is not hard for the boy.\n3. Ladder: Schwierigkeit = difficulty in doing or achieving something\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Hürde = obstacle on the way to a goal.\n∴ Schwierigkeit",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Schwierigkeit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Schwierigkeit"
+    }
+  },
+  {
+    "id": "L-0076",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Man kann nicht einfach ___, Windkraft sei nutzlos, ohne die Zahlen zu kennen.",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "mitteilen"
+    ],
+    "answer": "behaupten",
+    "case": "Wortwahl",
+    "focus": "sagen → behaupten",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: One cannot simply claim something without knowing the facts.\n3. Ladder: behaupten = claim something without proof\n4. The others: betonen = stress or emphasise something one holds true; erwähnen = mention in passing; mitteilen = inform someone of a fact or decision.\n∴ behaupten",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "behaupten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "behaupten"
+    }
+  },
+  {
+    "id": "L-0077",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Die Pflege der kranken Mutter wurde für ihn zunehmend zur ___.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Belastung",
+    "case": "Wortwahl",
+    "focus": "Problem → Belastung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Caring for his mother became more and more of a burden.\n3. Ladder: Belastung = burden or strain on a person or system\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Hürde = obstacle on the way to a goal.\n∴ Belastung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Belastung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Belastung"
+    }
+  },
+  {
+    "id": "L-0078",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Im Katastrophengebiet bleibt die ___ auch Tage nach dem Beben unübersichtlich.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Lage",
+    "case": "Wortwahl",
+    "focus": "Sache → Lage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The overall situation remains confusing.\n3. Ladder: Lage = situation, state of affairs\n4. The others: Tatsache = verifiable fact; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Lage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Lage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Lage"
+    }
+  },
+  {
+    "id": "L-0079",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Bei einem Gehalt von 2.000 Euro ist eine Miete von 1.500 Euro nicht mehr ___.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "angemessen",
+    "case": "Wortwahl",
+    "focus": "gut → angemessen",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The rent is out of proportion to the income.\n3. Ladder: angemessen = appropriate in degree or measure\n4. The others: hervorragend = excellent in quality or performance; zuverlässig = reliable, can be depended on; geeignet = suitable for a specific purpose.\n∴ angemessen",
+    "tags": [
+      "upgrade",
+      "gut",
+      "angemessen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "angemessen"
+    }
+  },
+  {
+    "id": "L-0080",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Aus recycelten Plastikflaschen lässt sich Sportkleidung ___.",
+    "options": [
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "herstellen",
+    "case": "Wortwahl",
+    "focus": "machen → herstellen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A product can be manufactured from a raw material.\n3. Ladder: herstellen = manufacture goods\n4. The others: erledigen = get a task or chore done; bewirken = bring about an effect or change; verursachen = cause something, usually negative.\n∴ herstellen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "herstellen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "herstellen"
+    }
+  },
+  {
+    "id": "L-0081",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Wie wichtig Sonnenschutz im Hochgebirge ist, kann man gar nicht oft genug ___.",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "mitteilen"
+    ],
+    "answer": "betonen",
+    "case": "Wortwahl",
+    "focus": "sagen → betonen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: There is a fixed idiom for stressing something as much as possible.\n3. Ladder: betonen = stress or emphasise something one holds true\n4. The others: behaupten = claim something without proof; erwähnen = mention in passing; mitteilen = inform someone of a fact or decision.\n∴ betonen",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "betonen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "betonen"
+    }
+  },
+  {
+    "id": "L-0082",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Die Informationen der Behörde zum Hochwasserschutz sind ___, viele Anwohner wissen nicht, was zu tun ist.",
+    "options": [
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "unzureichend",
+    "case": "Wortwahl",
+    "focus": "schlecht → unzureichend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The information provided is not enough.\n3. Ladder: unzureichend = not enough, inadequate in amount or extent\n4. The others: minderwertig = of inferior quality compared with others; schädlich = harmful to health or environment; verheerend = devastating, with disastrous consequences.\n∴ unzureichend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "unzureichend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "unzureichend"
+    }
+  },
+  {
+    "id": "L-0083",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Man kann das Projekt kritisieren, aber es hat ___ auch positive Seiten.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "durchaus",
+    "case": "Wortwahl",
+    "focus": "sehr → durchaus",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker concedes that there are indeed positive sides too.\n3. Ladder: durchaus = quite, certainly, often conceding a point\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ durchaus",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "durchaus"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "durchaus"
+    }
+  },
+  {
+    "id": "L-0084",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Eine geeignete ___ zur Senkung der Energiekosten wäre die Dämmung der Fassade.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Maßnahme",
+    "case": "Wortwahl",
+    "focus": "Sache → Maßnahme",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Insulating the facade is a concrete step to cut costs.\n3. Ladder: Maßnahme = measure taken to achieve or prevent something\n4. The others: Aufgabe = task or duty assigned to someone; Tatsache = verifiable fact; Angelegenheit = matter or affair to be dealt with.\n∴ Maßnahme",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Maßnahme"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Maßnahme"
+    }
+  },
+  {
+    "id": "L-0085",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Der Patient ___ steif und fest, er sei Napoleon, obwohl ihm niemand glaubt.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erwähnt",
+      "äußert"
+    ],
+    "answer": "behauptet",
+    "case": "Wortwahl",
+    "focus": "sagen → behaupten",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The man insists on an obviously unfounded claim that nobody believes.\n3. Ladder: behaupten = claim something without proof\n4. The others: betonen = stress or emphasise something one holds true; erwähnen = mention in passing; äußern = express an opinion, feeling or concern.\n∴ behauptet",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "behaupten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "behaupten"
+    }
+  },
+  {
+    "id": "L-0086",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Der Präsident hat sein Amt vor drei Monaten ___.",
+    "options": [
+      "angetreten",
+      "aufgenommen",
+      "begonnen",
+      "eingeleitet",
+      "eröffnet"
+    ],
+    "answer": "angetreten",
+    "case": "Wortwahl",
+    "focus": "anfangen → antreten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The president took up office.\n3. Ladder: antreten = take up (job, office, journey, sentence)\n4. The others: beginnen = begin, neutral for processes and activities; aufnehmen = take up (contact, relations, activity); eröffnen = open formally (event, shop, proceedings).\n∴ angetreten",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "antreten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "antreten"
+    }
+  },
+  {
+    "id": "L-0087",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Die Regierung hat für die Küstenregion offiziell den Notstand ___.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erklärt",
+      "erwähnt",
+      "geäußert"
+    ],
+    "answer": "erklärt",
+    "case": "Wortwahl",
+    "focus": "sagen → erklären",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The government officially declares a state of emergency.\n3. Ladder: erklären = make understandable, or declare officially\n4. The others: behaupten = claim something without proof; äußern = express an opinion, feeling or concern; erwähnen = mention in passing.\n∴ erklärt",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "erklären"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "erklären"
+    }
+  },
+  {
+    "id": "L-0088",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Steuerlich ist es ___, die Fortbildung noch vor Jahresende zu bezahlen.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "vorteilhaft",
+    "case": "Wortwahl",
+    "focus": "gut → vorteilhaft",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Paying earlier brings a tax advantage.\n3. Ladder: vorteilhaft = advantageous, brings a benefit\n4. The others: zuverlässig = reliable, can be depended on; geeignet = suitable for a specific purpose; angemessen = appropriate in degree or measure.\n∴ vorteilhaft",
+    "tags": [
+      "upgrade",
+      "gut",
+      "vorteilhaft"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "vorteilhaft"
+    }
+  },
+  {
+    "id": "L-0089",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Tausende Menschen ___ heute vor dem Parlament gegen die Rentenreform.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "darlegen",
+      "demonstrieren",
+      "offenbaren"
+    ],
+    "answer": "demonstrieren",
+    "case": "Wortwahl",
+    "focus": "zeigen → demonstrieren",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: People take part in a protest march.\n3. Ladder: demonstrieren = show practically how it works, or protest\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ demonstrieren",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "demonstrieren"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "demonstrieren"
+    }
+  },
+  {
+    "id": "L-0090",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Nach all den Jahren ist sie noch immer ___ davon überzeugt, dass ihr Bruder unschuldig ist, und wird nie daran zweifeln.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "ziemlich",
+      "zutiefst"
+    ],
+    "answer": "zutiefst",
+    "case": "Wortwahl",
+    "focus": "sehr → zutiefst",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Her conviction is deep and unshakeable.\n3. Ladder: zutiefst = deeply, for emotions and convictions\n4. The others: ziemlich = fairly, only a moderate degree; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ zutiefst",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "zutiefst"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "zutiefst"
+    }
+  },
+  {
+    "id": "L-0091",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Der Dokumentarfilm regt dazu an, über den eigenen Konsum ___.",
+    "options": [
+      "bedenken",
+      "erwägen",
+      "nachdenken",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "nachdenken",
+    "case": "Wortwahl",
+    "focus": "denken → nachdenken",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Viewers are encouraged to reflect on their own consumption, with über.\n3. Ladder: nachdenken = reflect deeply about something (über + Akk.)\n4. The others: überlegen = think over a decision, weigh what to do; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ nachdenken",
+    "tags": [
+      "upgrade",
+      "denken",
+      "nachdenken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "nachdenken"
+    }
+  },
+  {
+    "id": "L-0092",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Der Termin ist für mich leider ___, da ich am Mittwoch auswärts arbeite.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "verheerend"
+    ],
+    "answer": "ungünstig",
+    "case": "Wortwahl",
+    "focus": "schlecht → ungünstig",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The date does not suit the speaker's circumstances.\n3. Ladder: ungünstig = unfavourable for timing or conditions\n4. The others: mangelhaft = defective or below standard (also grade 5); minderwertig = of inferior quality compared with others; schädlich = harmful to health or environment.\n∴ ungünstig",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "ungünstig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "ungünstig"
+    }
+  },
+  {
+    "id": "L-0093",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Die Leitung eines Teams im Ausland ist eine spannende berufliche ___.",
+    "options": [
+      "Belastung",
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Störung"
+    ],
+    "answer": "Herausforderung",
+    "case": "Wortwahl",
+    "focus": "Problem → Herausforderung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Leading a team abroad is an exciting demanding task.\n3. Ladder: Herausforderung = demanding task one can rise to\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Hürde = obstacle on the way to a goal.\n∴ Herausforderung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Herausforderung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Herausforderung"
+    }
+  },
+  {
+    "id": "L-0094",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Der Anwalt hielt dem Zeugen die ___ vor, dass er am Tatort gesehen worden war.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Tatsache",
+    "case": "Wortwahl",
+    "focus": "Sache → Tatsache",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The lawyer confronts the witness with an established fact.\n3. Ladder: Tatsache = verifiable fact\n4. The others: Angelegenheit = matter or affair to be dealt with; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Tatsache",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Tatsache"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Tatsache"
+    }
+  },
+  {
+    "id": "L-0095",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Er ruft seine Eltern nicht ___ an, vielleicht einmal im Monat.",
+    "options": [
+      "beträchtlich",
+      "häufig",
+      "reichlich",
+      "umfangreich",
+      "zahlreich"
+    ],
+    "answer": "häufig",
+    "case": "Wortwahl",
+    "focus": "viel → häufig",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He does not call his parents often.\n3. Ladder: häufig = often, frequent\n4. The others: reichlich = ample, more than enough; zahlreich = numerous, for countable things or people; umfangreich = extensive, large in scope or volume.\n∴ häufig",
+    "tags": [
+      "upgrade",
+      "viel",
+      "häufig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "häufig"
+    }
+  },
+  {
+    "id": "L-0096",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Wir sollten alle Optionen sorgfältig ___, bevor wir entscheiden.",
+    "options": [
+      "annehmen",
+      "erwägen",
+      "vermuten"
+    ],
+    "answer": "erwägen",
+    "case": "Wortwahl",
+    "focus": "denken → erwägen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: All options must be weighed with a direct object.\n3. Ladder: erwägen = seriously consider as an option (formal)\n4. The others: vermuten = suspect or guess without evidence; überlegen = think over a decision, weigh what to do; annehmen = assume as a premise or as probable.\n∴ erwägen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "erwägen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "erwägen"
+    }
+  },
+  {
+    "id": "L-0097",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Im Vorratsraum lagern ___ Konserven, der Winter kann kommen.",
+    "options": [
+      "häufig",
+      "reichlich",
+      "umfangreich",
+      "zahlreich"
+    ],
+    "answer": "reichlich",
+    "case": "Wortwahl",
+    "focus": "viel → reichlich",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: There are ample supplies, more than enough.\n3. Ladder: reichlich = ample, more than enough\n4. The others: zahlreich = numerous, for countable things or people; umfangreich = extensive, large in scope or volume; häufig = often, frequent.\n∴ reichlich",
+    "tags": [
+      "upgrade",
+      "viel",
+      "reichlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "reichlich"
+    }
+  },
+  {
+    "id": "L-0098",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Die geleakten Dokumente ___ ein Netz aus Briefkastenfirmen, von dem bisher niemand wusste.",
+    "options": [
+      "darlegen",
+      "demonstrieren",
+      "offenbaren",
+      "verdeutlichen"
+    ],
+    "answer": "offenbaren",
+    "case": "Wortwahl",
+    "focus": "zeigen → offenbaren",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The documents expose something that was hidden until now.\n3. Ladder: offenbaren = reveal something hidden\n4. The others: verdeutlichen = make a point clearer; demonstrieren = show practically how it works, or protest; darlegen = set out reasons or arguments in detail.\n∴ offenbaren",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "offenbaren"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "offenbaren"
+    }
+  },
+  {
+    "id": "L-0099",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Das Gericht ließ ein medizinisches Gutachten über den Angeklagten ___.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "anfertigen",
+    "case": "Wortwahl",
+    "focus": "machen → anfertigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: An official document has to be drawn up on request.\n3. Ladder: anfertigen = produce a custom item or document\n4. The others: erledigen = get a task or chore done; herstellen = manufacture goods; verursachen = cause something, usually negative.\n∴ anfertigen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "anfertigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "anfertigen"
+    }
+  },
+  {
+    "id": "L-0100",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Der Verlust seiner Frau hat ihn ___ erschüttert.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "ziemlich",
+      "zutiefst"
+    ],
+    "answer": "zutiefst",
+    "case": "Wortwahl",
+    "focus": "sehr → zutiefst",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The loss shook him emotionally to the core.\n3. Ladder: zutiefst = deeply, for emotions and convictions\n4. The others: ziemlich = fairly, only a moderate degree; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ zutiefst",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "zutiefst"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "zutiefst"
+    }
+  },
+  {
+    "id": "L-0101",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Dein Hinweis zur Fußnote ist nett, aber für das Argument nicht ___.",
+    "options": [
+      "dringend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "relevant",
+    "case": "Wortwahl",
+    "focus": "wichtig → relevant",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The remark has no bearing on the argument.\n3. Ladder: relevant = pertinent to the topic or the group concerned\n4. The others: unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ relevant",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "relevant"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "relevant"
+    }
+  },
+  {
+    "id": "L-0102",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Eine einzelne Tasse Kaffee ist für gesunde Erwachsene kaum ___.",
+    "options": [
+      "mangelhaft",
+      "schädlich",
+      "ungünstig",
+      "unzureichend"
+    ],
+    "answer": "schädlich",
+    "case": "Wortwahl",
+    "focus": "schlecht → schädlich",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: One coffee hardly does any harm to healthy adults.\n3. Ladder: schädlich = harmful to health or environment\n4. The others: mangelhaft = defective or below standard (also grade 5); ungünstig = unfavourable for timing or conditions; unzureichend = not enough, inadequate in amount or extent.\n∴ schädlich",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "schädlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "schädlich"
+    }
+  },
+  {
+    "id": "L-0103",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Das Ergebnis weicht ___ von der ursprünglichen Prognose ab.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "erheblich",
+    "case": "Wortwahl",
+    "focus": "sehr → erheblich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The result deviates considerably from the forecast.\n3. Ladder: erheblich = considerably, for degree of change or difference\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; äußerst = extremely, at the upper limit of a scale.\n∴ erheblich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "erheblich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "erheblich"
+    }
+  },
+  {
+    "id": "L-0104",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Bestimmte Weichmacher in Kinderspielzeug gelten als ___ für die Gesundheit.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend"
+    ],
+    "answer": "schädlich",
+    "case": "Wortwahl",
+    "focus": "schlecht → schädlich",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Certain chemicals are considered harmful to health.\n3. Ladder: schädlich = harmful to health or environment\n4. The others: mangelhaft = defective or below standard (also grade 5); unzureichend = not enough, inadequate in amount or extent; minderwertig = of inferior quality compared with others.\n∴ schädlich",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "schädlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "schädlich"
+    }
+  },
+  {
+    "id": "L-0105",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Gestatten Sie mir noch eine kurze ___ zum Ablauf der Veranstaltung.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Frage",
+    "case": "Wortwahl",
+    "focus": "Sache → Frage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker wants to ask a short question.\n3. Ladder: Frage = question or issue open to debate\n4. The others: Tatsache = verifiable fact; Maßnahme = measure or action taken against something; Lage = situation, state of affairs.\n∴ Frage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Frage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Frage"
+    }
+  },
+  {
+    "id": "L-0106",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Für die Prüfung ist nur ___, was in den Vorlesungen behandelt wurde.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "relevant",
+    "case": "Wortwahl",
+    "focus": "wichtig → relevant",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Only what belongs to the exam topic is pertinent.\n3. Ladder: relevant = pertinent to the topic or the group concerned\n4. The others: entscheidend = decisive for the outcome; unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical.\n∴ relevant",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "relevant"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "relevant"
+    }
+  },
+  {
+    "id": "L-0107",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Ihr Englisch ist nach dem Jahr in Dublin ___, kaum jemand merkt, dass sie Deutsche ist.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "hervorragend",
+    "case": "Wortwahl",
+    "focus": "gut → hervorragend",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Her English is of excellent, near-native quality.\n3. Ladder: hervorragend = excellent in quality or performance\n4. The others: vorteilhaft = advantageous, brings a benefit; angemessen = appropriate in degree or measure; geeignet = suitable for a specific purpose.\n∴ hervorragend",
+    "tags": [
+      "upgrade",
+      "gut",
+      "hervorragend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "hervorragend"
+    }
+  },
+  {
+    "id": "L-0108",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Die Diskussion ist so hitzig, dass niemand mehr weiß, wer eigentlich damit ___ hat.",
+    "options": [
+      "angetreten",
+      "begonnen",
+      "eingeleitet",
+      "eröffnet"
+    ],
+    "answer": "begonnen",
+    "case": "Wortwahl",
+    "focus": "anfangen → beginnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Nobody remembers who began the argument.\n3. Ladder: beginnen = begin, neutral for processes and activities\n4. The others: eröffnen = open formally (event, shop, proceedings); einleiten = set a process or measure in motion; antreten = take up (job, office, journey, sentence).\n∴ begonnen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "beginnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "beginnen"
+    }
+  },
+  {
+    "id": "L-0109",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Im Vergleich zu den Originalen hielt er die Billigkopien für ___.",
+    "options": [
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "minderwertig",
+    "case": "Wortwahl",
+    "focus": "schlecht → minderwertig",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He considered the cheap copies to be of inferior quality.\n3. Ladder: minderwertig = of inferior quality compared with others\n4. The others: ungünstig = unfavourable for timing or conditions; verheerend = devastating, with disastrous consequences; schädlich = harmful to health or environment.\n∴ minderwertig",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "minderwertig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "minderwertig"
+    }
+  },
+  {
+    "id": "L-0110",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  In der Krise hat die Bürgermeisterin großen Mut ___.",
+    "options": [
+      "belegt",
+      "bewiesen",
+      "dargelegt",
+      "offenbart",
+      "verdeutlicht"
+    ],
+    "answer": "bewiesen",
+    "case": "Wortwahl",
+    "focus": "zeigen → beweisen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The mayor proved a quality, namely courage, through her actions.\n3. Ladder: beweisen = prove conclusively\n4. The others: belegen = support with evidence or sources; verdeutlichen = make a point clearer; offenbaren = reveal something hidden.\n∴ bewiesen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "beweisen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "beweisen"
+    }
+  },
+  {
+    "id": "L-0111",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Mit dem neuen Verfahren ließen sich deutlich bessere Ergebnisse ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "erzielen",
+    "case": "Wortwahl",
+    "focus": "bekommen → erzielen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Better results can be achieved with the new method.\n3. Ladder: erzielen = achieve a result, profit or agreement\n4. The others: erlangen = attain with effort (access, fame, certainty); erwerben = acquire by purchase or by effort (skills, property); empfangen = receive guests or signals.\n∴ erzielen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erzielen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erzielen"
+    }
+  },
+  {
+    "id": "L-0112",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Die Mieten in der Innenstadt sind in den letzten fünf Jahren ___ gestiegen.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "erheblich",
+    "case": "Wortwahl",
+    "focus": "sehr → erheblich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Rents rose by a considerable amount.\n3. Ladder: erheblich = considerably, for degree of change or difference\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; äußerst = extremely, at the upper limit of a scale.\n∴ erheblich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "erheblich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "erheblich"
+    }
+  },
+  {
+    "id": "L-0113",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Die Stadt wird im Frühjahr eine Verkehrszählung ___.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "herstellen"
+    ],
+    "answer": "durchführen",
+    "case": "Wortwahl",
+    "focus": "machen → durchführen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The city will conduct an organised, planned count.\n3. Ladder: durchführen = carry out something planned (study, test, survey)\n4. The others: erledigen = get a task or chore done; bewirken = bring about an effect or change; anfertigen = produce a custom item or document.\n∴ durchführen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "durchführen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "durchführen"
+    }
+  },
+  {
+    "id": "L-0114",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Erst im Gespräch ___ er mir seine wahren Absichten.",
+    "options": [
+      "belegte",
+      "bewies",
+      "demonstrierte",
+      "offenbarte"
+    ],
+    "answer": "offenbarte",
+    "case": "Wortwahl",
+    "focus": "zeigen → offenbaren",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He revealed intentions that had been hidden before.\n3. Ladder: offenbaren = reveal something hidden\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; demonstrieren = show practically how it works, or protest.\n∴ offenbarte",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "offenbaren"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "offenbaren"
+    }
+  },
+  {
+    "id": "L-0115",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Wer immer nur das billigste Material kauft, bekommt am Ende oft Möbel, die ___ wirken und schnell auseinanderfallen.",
+    "options": [
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "verheerend"
+    ],
+    "answer": "minderwertig",
+    "case": "Wortwahl",
+    "focus": "schlecht → minderwertig",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The furniture looks cheap and of inferior quality.\n3. Ladder: minderwertig = of inferior quality compared with others\n4. The others: schädlich = harmful to health or environment; verheerend = devastating, with disastrous consequences; ungünstig = unfavourable for timing or conditions.\n∴ minderwertig",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "minderwertig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "minderwertig"
+    }
+  },
+  {
+    "id": "L-0116",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Die Einnahmen der Stadt haben sich seit der Reform ___ erhöht.",
+    "options": [
+      "beträchtlich",
+      "häufig",
+      "umfangreich",
+      "unzählig",
+      "zahlreich"
+    ],
+    "answer": "beträchtlich",
+    "case": "Wortwahl",
+    "focus": "viel → beträchtlich",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Revenue increased by a considerable amount.\n3. Ladder: beträchtlich = considerable in size or amount\n4. The others: zahlreich = numerous, for countable things or people; unzählig = countless, too many to count; umfangreich = extensive, large in scope or volume.\n∴ beträchtlich",
+    "tags": [
+      "upgrade",
+      "viel",
+      "beträchtlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "beträchtlich"
+    }
+  },
+  {
+    "id": "L-0117",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Ohne stabile Internetverbindung ist Homeoffice kaum möglich, sie ist ___.",
+    "options": [
+      "dringend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "unverzichtbar",
+    "case": "Wortwahl",
+    "focus": "wichtig → unverzichtbar",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A stable connection is indispensable for working from home.\n3. Ladder: unverzichtbar = indispensable, cannot be done without\n4. The others: relevant = pertinent to the topic or the group concerned; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ unverzichtbar",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "unverzichtbar"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "unverzichtbar"
+    }
+  },
+  {
+    "id": "L-0118",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Die Hebamme musste die Geburt künstlich ___.",
+    "options": [
+      "antreten",
+      "aufnehmen",
+      "beginnen",
+      "einleiten",
+      "eröffnen"
+    ],
+    "answer": "einleiten",
+    "case": "Wortwahl",
+    "focus": "anfangen → einleiten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Labour had to be induced to set it in motion.\n3. Ladder: einleiten = set a process or measure in motion\n4. The others: beginnen = begin, neutral for processes and activities; eröffnen = open formally (event, shop, proceedings); antreten = take up (job, office, journey, sentence).\n∴ einleiten",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "einleiten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "einleiten"
+    }
+  },
+  {
+    "id": "L-0119",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Durch geschicktes Verhandeln konnte die Gewerkschaft Einfluss auf die Personalplanung ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erzielen"
+    ],
+    "answer": "erlangen",
+    "case": "Wortwahl",
+    "focus": "bekommen → erlangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The union gained influence through effort.\n3. Ladder: erlangen = attain with effort (access, fame, certainty)\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erzielen = achieve a result, profit or agreement; empfangen = receive guests or signals.\n∴ erlangen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erlangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erlangen"
+    }
+  },
+  {
+    "id": "L-0120",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Zu diesem Zeitpunkt zu investieren wäre ___, da die Zinsen gerade steigen.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "ungünstig",
+      "unzureichend"
+    ],
+    "answer": "ungünstig",
+    "case": "Wortwahl",
+    "focus": "schlecht → ungünstig",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The timing for investing is unfavourable.\n3. Ladder: ungünstig = unfavourable for timing or conditions\n4. The others: mangelhaft = defective or below standard (also grade 5); minderwertig = of inferior quality compared with others; unzureichend = not enough, inadequate in amount or extent.\n∴ ungünstig",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "ungünstig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "ungünstig"
+    }
+  },
+  {
+    "id": "L-0121",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Bei der knappen Abstimmung war die letzte Stimme ___, sie gab den Ausschlag.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "entscheidend",
+    "case": "Wortwahl",
+    "focus": "wichtig → entscheidend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The last vote decided the outcome.\n3. Ladder: entscheidend = decisive for the outcome\n4. The others: unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ entscheidend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "entscheidend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "entscheidend"
+    }
+  },
+  {
+    "id": "L-0122",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Bei minus 40 Grad ist ein Einsatz im Freien ___ gefährlich, schon nach Minuten drohen Erfrierungen.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "äußerst",
+    "case": "Wortwahl",
+    "focus": "sehr → äußerst",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The danger is extreme.\n3. Ladder: äußerst = extremely, at the upper limit of a scale\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ äußerst",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "äußerst"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "äußerst"
+    }
+  },
+  {
+    "id": "L-0123",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Für den Klimaschutz sind die kommenden Jahre ___, danach lassen sich viele Folgen nicht mehr umkehren.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "entscheidend",
+    "case": "Wortwahl",
+    "focus": "wichtig → entscheidend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The coming years decide how things will turn out.\n3. Ladder: entscheidend = decisive for the outcome\n4. The others: unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ entscheidend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "entscheidend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "entscheidend"
+    }
+  },
+  {
+    "id": "L-0124",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Für ein so kleines Vergehen ist eine Geldstrafe in dieser Höhe nicht ___.",
+    "options": [
+      "angemessen",
+      "empfehlenswert",
+      "geeignet",
+      "hervorragend",
+      "zuverlässig"
+    ],
+    "answer": "angemessen",
+    "case": "Wortwahl",
+    "focus": "gut → angemessen",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The penalty is out of proportion to the offence.\n3. Ladder: angemessen = appropriate in degree or measure\n4. The others: hervorragend = excellent in quality or performance; zuverlässig = reliable, can be depended on; geeignet = suitable for a specific purpose.\n∴ angemessen",
+    "tags": [
+      "upgrade",
+      "gut",
+      "angemessen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "angemessen"
+    }
+  },
+  {
+    "id": "L-0125",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Wer ein Grundstück in diesem Gebiet ___ möchte, braucht eine Genehmigung.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "erwerben",
+    "case": "Wortwahl",
+    "focus": "bekommen → erwerben",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Whoever wants to acquire property by purchase needs a permit.\n3. Ladder: erwerben = acquire by purchase or by effort (skills, property)\n4. The others: erlangen = attain with effort (access, fame, certainty); beziehen = receive regularly (salary, pension) or get supplies; erzielen = achieve a result, profit or agreement.\n∴ erwerben",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erwerben"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erwerben"
+    }
+  },
+  {
+    "id": "L-0126",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Der Winter hat in diesem Jahr ungewöhnlich früh ___.",
+    "options": [
+      "angetreten",
+      "begonnen",
+      "eingeleitet",
+      "eröffnet",
+      "gestartet"
+    ],
+    "answer": "begonnen",
+    "case": "Wortwahl",
+    "focus": "anfangen → beginnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The season has begun earlier than usual.\n3. Ladder: beginnen = begin, neutral for processes and activities\n4. The others: starten = launch or set going (engine, rocket, race); eröffnen = open formally (event, shop, proceedings); einleiten = set a process or measure in motion.\n∴ begonnen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "beginnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "beginnen"
+    }
+  },
+  {
+    "id": "L-0127",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Die Wahrscheinlichkeit, zweimal vom Blitz getroffen zu werden, ist ___ gering, praktisch null.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "ziemlich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "äußerst",
+    "case": "Wortwahl",
+    "focus": "sehr → äußerst",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The probability is extremely low, at the very limit.\n3. Ladder: äußerst = extremely, at the upper limit of a scale\n4. The others: zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity; erheblich = considerably, for degree of change or difference.\n∴ äußerst",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "äußerst"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "äußerst"
+    }
+  },
+  {
+    "id": "L-0128",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Viele Mitarbeiter trauen sich nicht, offen Kritik an der Geschäftsführung zu ___.",
+    "options": [
+      "behaupten",
+      "erklären",
+      "erwähnen",
+      "mitteilen",
+      "äußern"
+    ],
+    "answer": "äußern",
+    "case": "Wortwahl",
+    "focus": "sagen → äußern",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Criticism is something one voices or expresses openly.\n3. Ladder: äußern = express an opinion, feeling or concern\n4. The others: behaupten = claim something without proof; erwähnen = mention in passing; erklären = make understandable, or declare officially.\n∴ äußern",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "äußern"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "äußern"
+    }
+  },
+  {
+    "id": "L-0129",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Bevor du kündigst, solltest du dir gut ___, ob du eine Alternative hast.",
+    "options": [
+      "annehmen",
+      "bedenken",
+      "erwägen",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "überlegen",
+    "case": "Wortwahl",
+    "focus": "denken → überlegen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The listener should think a decision through, with a reflexive verb.\n3. Ladder: überlegen = think over a decision, weigh what to do\n4. The others: vermuten = suspect or guess without evidence; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ überlegen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "überlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "überlegen"
+    }
+  },
+  {
+    "id": "L-0130",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Vor dem Einsatz muss das Krankenhaus mehrere Sicherheitstests ___.",
+    "options": [
+      "anfertigen",
+      "durchführen",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "durchführen",
+    "case": "Wortwahl",
+    "focus": "machen → durchführen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A series of planned tests has to be conducted.\n3. Ladder: durchführen = carry out something planned (study, test, survey)\n4. The others: erledigen = get a task or chore done; anfertigen = produce a custom item or document; verursachen = cause something, usually negative.\n∴ durchführen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "durchführen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "durchführen"
+    }
+  },
+  {
+    "id": "L-0131",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Das Tor kurz vor der Pause war ___ für den Spielverlauf.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "entscheidend",
+    "case": "Wortwahl",
+    "focus": "wichtig → entscheidend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The goal determined how the match went.\n3. Ladder: entscheidend = decisive for the outcome\n4. The others: unverzichtbar = indispensable, cannot be done without; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ entscheidend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "entscheidend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "entscheidend"
+    }
+  },
+  {
+    "id": "L-0132",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Der Schneider hat den Anzug nach Maß ___.",
+    "options": [
+      "angefertigt",
+      "bewirkt",
+      "durchgeführt",
+      "erledigt",
+      "verursacht"
+    ],
+    "answer": "angefertigt",
+    "case": "Wortwahl",
+    "focus": "machen → anfertigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A tailor produces a custom-made garment.\n3. Ladder: anfertigen = produce a custom item or document\n4. The others: erledigen = get a task or chore done; bewirken = bring about an effect or change; verursachen = cause something, usually negative.\n∴ angefertigt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "anfertigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "anfertigen"
+    }
+  },
+  {
+    "id": "L-0133",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Die Anmeldung ist ___: Die Frist läuft morgen um zwölf Uhr ab.",
+    "options": [
+      "dringend",
+      "entscheidend",
+      "relevant"
+    ],
+    "answer": "dringend",
+    "case": "Wortwahl",
+    "focus": "wichtig → dringend",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Registration is time-critical because of a deadline.\n3. Ladder: dringend = urgent, time-critical\n4. The others: relevant = pertinent to the topic or the group concerned; unverzichtbar = indispensable, cannot be done without; entscheidend = decisive for the outcome.\n∴ dringend",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "dringend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "dringend"
+    }
+  },
+  {
+    "id": "L-0134",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Im Prozess konnte der Staatsanwalt die Schuld des Angeklagten nicht ___.",
+    "options": [
+      "beweisen",
+      "demonstrieren",
+      "offenbaren",
+      "verdeutlichen"
+    ],
+    "answer": "beweisen",
+    "case": "Wortwahl",
+    "focus": "zeigen → beweisen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The prosecutor could not establish guilt conclusively.\n3. Ladder: beweisen = prove conclusively\n4. The others: verdeutlichen = make a point clearer; demonstrieren = show practically how it works, or protest; offenbaren = reveal something hidden.\n∴ beweisen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "beweisen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "beweisen"
+    }
+  },
+  {
+    "id": "L-0135",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Die Universität wird den Bewerbern bis Ende Mai ihre Entscheidung ___.",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "mitteilen",
+      "äußern"
+    ],
+    "answer": "mitteilen",
+    "case": "Wortwahl",
+    "focus": "sagen → mitteilen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The university will formally inform applicants of its decision.\n3. Ladder: mitteilen = inform someone of a fact or decision\n4. The others: behaupten = claim something without proof; betonen = stress or emphasise something one holds true; äußern = express an opinion, feeling or concern.\n∴ mitteilen",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "mitteilen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "mitteilen"
+    }
+  },
+  {
+    "id": "L-0136",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Ich werde in Ruhe über deinen Vorschlag ___.",
+    "options": [
+      "bedenken",
+      "erwägen",
+      "nachdenken",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "nachdenken",
+    "case": "Wortwahl",
+    "focus": "denken → nachdenken",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker will reflect on a proposal, with the preposition über.\n3. Ladder: nachdenken = reflect deeply about something (über + Akk.)\n4. The others: überlegen = think over a decision, weigh what to do; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ nachdenken",
+    "tags": [
+      "upgrade",
+      "denken",
+      "nachdenken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "nachdenken"
+    }
+  },
+  {
+    "id": "L-0137",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Der Kunde ___ innerhalb von zwei Tagen eine Bestätigung per E-Mail.",
+    "options": [
+      "bezieht",
+      "erhält",
+      "erlangt",
+      "erwirbt",
+      "erzielt"
+    ],
+    "answer": "erhält",
+    "case": "Wortwahl",
+    "focus": "bekommen → erhalten",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The customer receives a confirmation.\n3. Ladder: erhalten = receive, neutral or formal\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erzielen = achieve a result, profit or agreement; erlangen = attain with effort (access, fame, certainty).\n∴ erhält",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erhalten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erhalten"
+    }
+  },
+  {
+    "id": "L-0138",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Ob wir das Projekt verschieben, ist vor allem eine ___ des Budgets.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Frage",
+    "case": "Wortwahl",
+    "focus": "Sache → Frage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: It is an open issue that depends on the budget.\n3. Ladder: Frage = question or issue open to debate\n4. The others: Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something; Tatsache = verifiable fact.\n∴ Frage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Frage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Frage"
+    }
+  },
+  {
+    "id": "L-0139",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Mitten im Urlaub hatten wir eine ___ mit dem Auto und mussten abgeschleppt werden.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Störung"
+    ],
+    "answer": "Panne",
+    "case": "Wortwahl",
+    "focus": "Problem → Panne",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The car broke down unexpectedly.\n3. Ladder: Panne = one-off mishap or breakdown\n4. The others: Störung = disruption or malfunction of a process or function; Belastung = burden or strain on a person or system; Hürde = obstacle on the way to a goal.\n∴ Panne",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Panne"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Panne"
+    }
+  },
+  {
+    "id": "L-0140",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Man muss ___, dass die Studie nur an 30 Probanden durchgeführt wurde.",
+    "options": [
+      "bedenken",
+      "erwägen",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "bedenken",
+    "case": "Wortwahl",
+    "focus": "denken → bedenken",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: One must take a known fact into account.\n3. Ladder: bedenken = take into account\n4. The others: vermuten = suspect or guess without evidence; erwägen = seriously consider as an option (formal); überlegen = think over a decision, weigh what to do.\n∴ bedenken",
+    "tags": [
+      "upgrade",
+      "denken",
+      "bedenken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "bedenken"
+    }
+  },
+  {
+    "id": "L-0141",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Die Fluggesellschaft hat den Passagieren per E-Mail die neue Abflugzeit ___.",
+    "options": [
+      "behauptet",
+      "betont",
+      "erwähnt",
+      "geäußert",
+      "mitgeteilt"
+    ],
+    "answer": "mitgeteilt",
+    "case": "Wortwahl",
+    "focus": "sagen → mitteilen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The airline formally informed the passengers of a fact.\n3. Ladder: mitteilen = inform someone of a fact or decision\n4. The others: behaupten = claim something without proof; betonen = stress or emphasise something one holds true; äußern = express an opinion, feeling or concern.\n∴ mitgeteilt",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "mitteilen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "mitteilen"
+    }
+  },
+  {
+    "id": "L-0142",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Den Marathon in unter vier Stunden zu laufen, war für sie eine reizvolle ___.",
+    "options": [
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Herausforderung",
+    "case": "Wortwahl",
+    "focus": "Problem → Herausforderung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The goal is an appealing, demanding task she wants to take on.\n3. Ladder: Herausforderung = demanding task one can rise to\n4. The others: Schwierigkeit = difficulty in doing or achieving something; Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function.\n∴ Herausforderung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Herausforderung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Herausforderung"
+    }
+  },
+  {
+    "id": "L-0143",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Weil die Schweißnähte ___ ausgeführt wurden, musste die Brücke gesperrt werden.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "verheerend"
+    ],
+    "answer": "mangelhaft",
+    "case": "Wortwahl",
+    "focus": "schlecht → mangelhaft",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The welds were faulty and defective.\n3. Ladder: mangelhaft = defective or below standard (also grade 5)\n4. The others: schädlich = harmful to health or environment; verheerend = devastating, with disastrous consequences; minderwertig = of inferior quality compared with others.\n∴ mangelhaft",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "mangelhaft"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "mangelhaft"
+    }
+  },
+  {
+    "id": "L-0144",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Nach langem Rechtsstreit konnte die Familie endlich Gewissheit über das Schicksal des Vermissten ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "erlangen",
+    "case": "Wortwahl",
+    "focus": "bekommen → erlangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The family finally attained certainty after a long struggle.\n3. Ladder: erlangen = attain with effort (access, fame, certainty)\n4. The others: erwerben = acquire by purchase or by effort (skills, property); erzielen = achieve a result, profit or agreement; beziehen = receive regularly (salary, pension) or get supplies.\n∴ erlangen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erlangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erlangen"
+    }
+  },
+  {
+    "id": "L-0145",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Der Bürgermeister wird die Delegation morgen im Rathaus feierlich ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "empfangen",
+    "case": "Wortwahl",
+    "focus": "bekommen → empfangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The mayor welcomes visitors in a formal ceremony.\n3. Ladder: empfangen = receive guests or signals\n4. The others: erwerben = acquire by purchase or by effort (skills, property); beziehen = receive regularly (salary, pension) or get supplies; erlangen = attain with effort (access, fame, certainty).\n∴ empfangen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "empfangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "empfangen"
+    }
+  },
+  {
+    "id": "L-0146",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Die neue Therapie hat bei vielen Patienten eine spürbare Besserung ___.",
+    "options": [
+      "angefertigt",
+      "bewirkt",
+      "erledigt",
+      "hergestellt"
+    ],
+    "answer": "bewirkt",
+    "case": "Wortwahl",
+    "focus": "machen → bewirken",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The therapy brings about a noticeable positive effect.\n3. Ladder: bewirken = bring about an effect or change\n4. The others: anfertigen = produce a custom item or document; erledigen = get a task or chore done; herstellen = manufacture goods.\n∴ bewirkt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "bewirken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "bewirken"
+    }
+  },
+  {
+    "id": "L-0147",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Zum 1. Oktober wird sie ihre neue Stelle in Hamburg ___.",
+    "options": [
+      "antreten",
+      "beginnen",
+      "einleiten",
+      "eröffnen",
+      "starten"
+    ],
+    "answer": "antreten",
+    "case": "Wortwahl",
+    "focus": "anfangen → antreten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: She takes up a new job.\n3. Ladder: antreten = take up (job, office, journey, sentence)\n4. The others: beginnen = begin, neutral for processes and activities; eröffnen = open formally (event, shop, proceedings); einleiten = set a process or measure in motion.\n∴ antreten",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "antreten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "antreten"
+    }
+  },
+  {
+    "id": "L-0148",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Die beiden Länder wollen nach Jahren wieder diplomatische Beziehungen ___.",
+    "options": [
+      "aufnehmen",
+      "beginnen",
+      "einleiten",
+      "eröffnen",
+      "starten"
+    ],
+    "answer": "aufnehmen",
+    "case": "Wortwahl",
+    "focus": "anfangen → aufnehmen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Two countries take up relations again.\n3. Ladder: aufnehmen = take up (contact, relations, activity)\n4. The others: beginnen = begin, neutral for processes and activities; starten = launch or set going (engine, rocket, race); eröffnen = open formally (event, shop, proceedings).\n∴ aufnehmen",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "aufnehmen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "aufnehmen"
+    }
+  },
+  {
+    "id": "L-0149",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Der steinige Boden ist für den Anbau von Wein nicht ___.",
+    "options": [
+      "angemessen",
+      "geeignet",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "geeignet",
+    "case": "Wortwahl",
+    "focus": "gut → geeignet",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The soil does not suit the purpose of growing wine.\n3. Ladder: geeignet = suitable for a specific purpose\n4. The others: zuverlässig = reliable, can be depended on; vorteilhaft = advantageous, brings a benefit; angemessen = appropriate in degree or measure.\n∴ geeignet",
+    "tags": [
+      "upgrade",
+      "gut",
+      "geeignet"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "geeignet"
+    }
+  },
+  {
+    "id": "L-0150",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Das Gericht hat gegen den Konzern ein Insolvenzverfahren ___.",
+    "options": [
+      "angetreten",
+      "aufgenommen",
+      "begonnen",
+      "eröffnet",
+      "gestartet"
+    ],
+    "answer": "eröffnet",
+    "case": "Wortwahl",
+    "focus": "anfangen → eröffnen",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The court formally opened legal proceedings.\n3. Ladder: eröffnen = open formally (event, shop, proceedings)\n4. The others: beginnen = begin, neutral for processes and activities; starten = launch or set going (engine, rocket, race); antreten = take up (job, office, journey, sentence).\n∴ eröffnet",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "eröffnen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "eröffnen"
+    }
+  },
+  {
+    "id": "L-0151",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Darf ich dazu kurz meine Meinung ___?",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "äußern"
+    ],
+    "answer": "äußern",
+    "case": "Wortwahl",
+    "focus": "sagen → äußern",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker asks permission to express a personal opinion.\n3. Ladder: äußern = express an opinion, feeling or concern\n4. The others: behaupten = claim something without proof; erwähnen = mention in passing; betonen = stress or emphasise something one holds true.\n∴ äußern",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "äußern"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "äußern"
+    }
+  },
+  {
+    "id": "L-0152",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Ich möchte die Büroarbeit lieber morgens ___, wenn ich noch frisch bin.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "erledigen",
+    "case": "Wortwahl",
+    "focus": "machen → erledigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker wants to get routine tasks done in the morning.\n3. Ladder: erledigen = get a task or chore done\n4. The others: verursachen = cause something, usually negative; herstellen = manufacture goods; bewirken = bring about an effect or change.\n∴ erledigen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "erledigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "erledigen"
+    }
+  },
+  {
+    "id": "L-0153",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Die Baustelle hat im ganzen Viertel erheblichen Lärm ___.",
+    "options": [
+      "angefertigt",
+      "durchgeführt",
+      "erledigt",
+      "hergestellt",
+      "verursacht"
+    ],
+    "answer": "verursacht",
+    "case": "Wortwahl",
+    "focus": "machen → verursachen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The building site causes a negative side effect, noise.\n3. Ladder: verursachen = cause something, usually negative\n4. The others: durchführen = carry out something planned (study, test, survey); erledigen = get a task or chore done; anfertigen = produce a custom item or document.\n∴ verursacht",
+    "tags": [
+      "upgrade",
+      "machen",
+      "verursachen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "verursachen"
+    }
+  },
+  {
+    "id": "L-0154",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Wir ___ schon seit Tagen hin und her, ob wir das Angebot annehmen sollen.",
+    "options": [
+      "bedenken",
+      "erwägen",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "überlegen",
+    "case": "Wortwahl",
+    "focus": "denken → überlegen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: They have been weighing a decision back and forth.\n3. Ladder: überlegen = think over a decision, weigh what to do\n4. The others: vermuten = suspect or guess without evidence; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ überlegen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "überlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "überlegen"
+    }
+  },
+  {
+    "id": "L-0155",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Für Kinder unter drei Jahren ist das Spielzeug wegen der Kleinteile nicht ___.",
+    "options": [
+      "geeignet",
+      "hervorragend",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "geeignet",
+    "case": "Wortwahl",
+    "focus": "gut → geeignet",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The toy is not suited to a certain age group.\n3. Ladder: geeignet = suitable for a specific purpose\n4. The others: vorteilhaft = advantageous, brings a benefit; hervorragend = excellent in quality or performance; zuverlässig = reliable, can be depended on.\n∴ geeignet",
+    "tags": [
+      "upgrade",
+      "gut",
+      "geeignet"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "geeignet"
+    }
+  },
+  {
+    "id": "L-0156",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  In den Bergen kann man mit dem Handy oft kein Signal ___.",
+    "options": [
+      "beziehen",
+      "empfangen",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "empfangen",
+    "case": "Wortwahl",
+    "focus": "bekommen → empfangen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A phone often cannot pick up a signal in the mountains.\n3. Ladder: empfangen = receive guests or signals\n4. The others: erwerben = acquire by purchase or by effort (skills, property); erlangen = attain with effort (access, fame, certainty); erzielen = achieve a result, profit or agreement.\n∴ empfangen",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "empfangen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "empfangen"
+    }
+  },
+  {
+    "id": "L-0157",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Der Schichtdienst ist für viele Pflegekräfte eine enorme körperliche ___.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Belastung",
+    "case": "Wortwahl",
+    "focus": "Problem → Belastung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Shift work puts a heavy physical strain on nurses.\n3. Ladder: Belastung = burden or strain on a person or system\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Hürde = obstacle on the way to a goal.\n∴ Belastung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Belastung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Belastung"
+    }
+  },
+  {
+    "id": "L-0158",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Zur Beerdigung war er nicht ___ gekleidet, sondern erschien in Badeshorts.",
+    "options": [
+      "angemessen",
+      "hervorragend",
+      "zuverlässig"
+    ],
+    "answer": "angemessen",
+    "case": "Wortwahl",
+    "focus": "gut → angemessen",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: His clothing did not fit the occasion.\n3. Ladder: angemessen = appropriate in degree or measure\n4. The others: hervorragend = excellent in quality or performance; zuverlässig = reliable, can be depended on; vorteilhaft = advantageous, brings a benefit.\n∴ angemessen",
+    "tags": [
+      "upgrade",
+      "gut",
+      "angemessen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "angemessen"
+    }
+  },
+  {
+    "id": "L-0159",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Ich habe zum Geburtstag ein Fahrrad ___.",
+    "options": [
+      "bezogen",
+      "empfangen",
+      "erhalten",
+      "erlangt",
+      "erzielt"
+    ],
+    "answer": "erhalten",
+    "case": "Wortwahl",
+    "focus": "bekommen → erhalten",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker simply received a birthday present.\n3. Ladder: erhalten = receive, neutral or formal\n4. The others: erzielen = achieve a result, profit or agreement; erlangen = attain with effort (access, fame, certainty); beziehen = receive regularly (salary, pension) or get supplies.\n∴ erhalten",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erhalten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erhalten"
+    }
+  },
+  {
+    "id": "L-0160",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Nach dem Jobverlust befand sich die Familie in einer finanziell schwierigen ___.",
+    "options": [
+      "Aufgabe",
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Lage",
+    "case": "Wortwahl",
+    "focus": "Sache → Lage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The family was in a difficult situation.\n3. Ladder: Lage = situation, state of affairs\n4. The others: Tatsache = verifiable fact; Aufgabe = task or duty assigned to someone; Maßnahme = measure or action taken against something.\n∴ Lage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Lage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Lage"
+    }
+  },
+  {
+    "id": "L-0161",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Die Prüfung war nicht leicht, aber auch nicht unmöglich, eben ___ anspruchsvoll.",
+    "options": [
+      "dringend",
+      "erheblich",
+      "ziemlich",
+      "zutiefst",
+      "äußerst"
+    ],
+    "answer": "ziemlich",
+    "case": "Wortwahl",
+    "focus": "sehr → ziemlich",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The exam was demanding only to a moderate degree.\n3. Ladder: ziemlich = fairly, only a moderate degree\n4. The others: äußerst = extremely, at the upper limit of a scale; zutiefst = deeply, for emotions and convictions; dringend = urgently, with need or necessity.\n∴ ziemlich",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "ziemlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "ziemlich"
+    }
+  },
+  {
+    "id": "L-0162",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Die Übersetzung dieses Wortspiels bereitet selbst erfahrenen Dolmetschern eine gewisse ___.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit",
+      "Störung"
+    ],
+    "answer": "Schwierigkeit",
+    "case": "Wortwahl",
+    "focus": "Problem → Schwierigkeit",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The pun is somewhat hard to translate.\n3. Ladder: Schwierigkeit = difficulty in doing or achieving something\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Belastung = burden or strain on a person or system.\n∴ Schwierigkeit",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Schwierigkeit"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Schwierigkeit"
+    }
+  },
+  {
+    "id": "L-0163",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Die Stadt hat als ___ gegen den Verkehrslärm Tempo 30 eingeführt.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Frage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Maßnahme",
+    "case": "Wortwahl",
+    "focus": "Sache → Maßnahme",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The city took a concrete measure against noise.\n3. Ladder: Maßnahme = measure taken to achieve or prevent something\n4. The others: Angelegenheit = matter or affair to be dealt with; Tatsache = verifiable fact; Aufgabe = task or duty assigned to someone.\n∴ Maßnahme",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Maßnahme"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Maßnahme"
+    }
+  },
+  {
+    "id": "L-0164",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Das Hotel ist wirklich ___, wir würden jederzeit wieder dort übernachten.",
+    "options": [
+      "angemessen",
+      "empfehlenswert",
+      "geeignet",
+      "vorteilhaft",
+      "zuverlässig"
+    ],
+    "answer": "empfehlenswert",
+    "case": "Wortwahl",
+    "focus": "gut → empfehlenswert",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The hotel is worth recommending to other people.\n3. Ladder: empfehlenswert = worth recommending to others\n4. The others: angemessen = appropriate in degree or measure; geeignet = suitable for a specific purpose; vorteilhaft = advantageous, brings a benefit.\n∴ empfehlenswert",
+    "tags": [
+      "upgrade",
+      "gut",
+      "empfehlenswert"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "empfehlenswert"
+    }
+  },
+  {
+    "id": "L-0165",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Lass mich kurz ___, welche Termine mir passen.",
+    "options": [
+      "bedenken",
+      "erwägen",
+      "vermuten",
+      "überlegen"
+    ],
+    "answer": "überlegen",
+    "case": "Wortwahl",
+    "focus": "denken → überlegen",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speaker needs a moment to think over what suits.\n3. Ladder: überlegen = think over a decision, weigh what to do\n4. The others: vermuten = suspect or guess without evidence; erwägen = seriously consider as an option (formal); bedenken = take into account.\n∴ überlegen",
+    "tags": [
+      "upgrade",
+      "denken",
+      "überlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "überlegen"
+    }
+  },
+  {
+    "id": "L-0166",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Der Streik hat immerhin ___, dass die Löhne um fünf Prozent angehoben wurden.",
+    "options": [
+      "angefertigt",
+      "bewirkt",
+      "durchgeführt",
+      "erledigt",
+      "hergestellt"
+    ],
+    "answer": "bewirkt",
+    "case": "Wortwahl",
+    "focus": "machen → bewirken",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The strike brought about a concrete positive result.\n3. Ladder: bewirken = bring about an effect or change\n4. The others: erledigen = get a task or chore done; durchführen = carry out something planned (study, test, survey); anfertigen = produce a custom item or document.\n∴ bewirkt",
+    "tags": [
+      "upgrade",
+      "machen",
+      "bewirken"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "bewirken"
+    }
+  },
+  {
+    "id": "L-0167",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  In Deutsch hatte er eine Fünf, also die Note ___.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend"
+    ],
+    "answer": "mangelhaft",
+    "case": "Wortwahl",
+    "focus": "schlecht → mangelhaft",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The word for the school grade 5 is needed.\n3. Ladder: mangelhaft = defective or below standard (also grade 5)\n4. The others: unzureichend = not enough, inadequate in amount or extent; minderwertig = of inferior quality compared with others; ungünstig = unfavourable for timing or conditions.\n∴ mangelhaft",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "mangelhaft"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "mangelhaft"
+    }
+  },
+  {
+    "id": "L-0168",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Auf der Messe wird der Hersteller seinen neuen Roboter live ___, damit die Besucher die Funktionen sehen.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "darlegen",
+      "demonstrieren",
+      "offenbaren"
+    ],
+    "answer": "demonstrieren",
+    "case": "Wortwahl",
+    "focus": "zeigen → demonstrieren",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The manufacturer will show practically how the robot works.\n3. Ladder: demonstrieren = show practically how it works, or protest\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ demonstrieren",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "demonstrieren"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "demonstrieren"
+    }
+  },
+  {
+    "id": "L-0169",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Ein einziger Fehler im Code kann enorme Schäden ___.",
+    "options": [
+      "anfertigen",
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "verursachen"
+    ],
+    "answer": "verursachen",
+    "case": "Wortwahl",
+    "focus": "machen → verursachen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A single mistake can cause huge damage.\n3. Ladder: verursachen = cause something, usually negative\n4. The others: bewirken = bring about an effect or change; erledigen = get a task or chore done; anfertigen = produce a custom item or document.\n∴ verursachen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "verursachen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "verursachen"
+    }
+  },
+  {
+    "id": "L-0170",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sagen“:  Sie müssen uns jede Änderung Ihrer Anschrift umgehend ___.",
+    "options": [
+      "behaupten",
+      "betonen",
+      "erwähnen",
+      "mitteilen",
+      "äußern"
+    ],
+    "answer": "mitteilen",
+    "case": "Wortwahl",
+    "focus": "sagen → mitteilen",
+    "explanation": "1. Lazy word: “sagen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Customers have to notify the company of a change of address.\n3. Ladder: mitteilen = inform someone of a fact or decision\n4. The others: erwähnen = mention in passing; betonen = stress or emphasise something one holds true; behaupten = claim something without proof.\n∴ mitteilen",
+    "tags": [
+      "upgrade",
+      "sagen",
+      "mitteilen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sagen",
+      "col": "mitteilen"
+    }
+  },
+  {
+    "id": "L-0171",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „machen“:  Bis Freitag muss ich noch ein paar Behördengänge und Einkäufe ___.",
+    "options": [
+      "bewirken",
+      "durchführen",
+      "erledigen",
+      "herstellen",
+      "verursachen"
+    ],
+    "answer": "erledigen",
+    "case": "Wortwahl",
+    "focus": "machen → erledigen",
+    "explanation": "1. Lazy word: “machen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Several small errands simply have to be gotten out of the way.\n3. Ladder: erledigen = get a task or chore done\n4. The others: durchführen = carry out something planned (study, test, survey); bewirken = bring about an effect or change; verursachen = cause something, usually negative.\n∴ erledigen",
+    "tags": [
+      "upgrade",
+      "machen",
+      "erledigen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "machen",
+      "col": "erledigen"
+    }
+  },
+  {
+    "id": "L-0172",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Das Unternehmen hat letztes Jahr zwei kleinere Konkurrenten ___.",
+    "options": [
+      "bezogen",
+      "empfangen",
+      "erlangt",
+      "erworben",
+      "erzielt"
+    ],
+    "answer": "erworben",
+    "case": "Wortwahl",
+    "focus": "bekommen → erwerben",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The company acquired other firms, presumably by purchase.\n3. Ladder: erwerben = acquire by purchase or by effort (skills, property)\n4. The others: erlangen = attain with effort (access, fame, certainty); beziehen = receive regularly (salary, pension) or get supplies; erzielen = achieve a result, profit or agreement.\n∴ erworben",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erwerben"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erwerben"
+    }
+  },
+  {
+    "id": "L-0173",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „sehr“:  Der Anblick der zerstörten Altstadt hat die Besucher ___ bewegt.",
+    "options": [
+      "dringend",
+      "durchaus",
+      "erheblich",
+      "ziemlich",
+      "zutiefst"
+    ],
+    "answer": "zutiefst",
+    "case": "Wortwahl",
+    "focus": "sehr → zutiefst",
+    "explanation": "1. Lazy word: “sehr” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The visitors were moved deeply, on an emotional level.\n3. Ladder: zutiefst = deeply, for emotions and convictions\n4. The others: ziemlich = fairly, only a moderate degree; durchaus = quite, certainly, often conceding a point; erheblich = considerably, for degree of change or difference.\n∴ zutiefst",
+    "tags": [
+      "upgrade",
+      "sehr",
+      "zutiefst"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "sehr",
+      "col": "zutiefst"
+    }
+  },
+  {
+    "id": "L-0174",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Alle Bewerber werden bis Ende des Monats eine schriftliche Rückmeldung ___.",
+    "options": [
+      "beziehen",
+      "erhalten",
+      "erlangen",
+      "erwerben",
+      "erzielen"
+    ],
+    "answer": "erhalten",
+    "case": "Wortwahl",
+    "focus": "bekommen → erhalten",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Applicants will receive a written reply.\n3. Ladder: erhalten = receive, neutral or formal\n4. The others: beziehen = receive regularly (salary, pension) or get supplies; erwerben = acquire by purchase or by effort (skills, property); erlangen = attain with effort (access, fame, certainty).\n∴ erhalten",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "erhalten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "erhalten"
+    }
+  },
+  {
+    "id": "L-0175",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Wie wir künftig mit künstlicher Intelligenz umgehen, ist eine ethische ___, die die ganze Gesellschaft betrifft.",
+    "options": [
+      "Frage",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Frage",
+    "case": "Wortwahl",
+    "focus": "Sache → Frage",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: It is an open issue for debate that concerns society.\n3. Ladder: Frage = question or issue open to debate\n4. The others: Tatsache = verifiable fact; Maßnahme = measure or action taken against something; Lage = situation, state of affairs.\n∴ Frage",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Frage"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Frage"
+    }
+  },
+  {
+    "id": "L-0176",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Lärm ist für die Anwohner eine große seelische ___.",
+    "options": [
+      "Belastung",
+      "Hürde",
+      "Panne",
+      "Schwierigkeit"
+    ],
+    "answer": "Belastung",
+    "case": "Wortwahl",
+    "focus": "Problem → Belastung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Noise puts a heavy mental burden on residents.\n3. Ladder: Belastung = burden or strain on a person or system\n4. The others: Panne = one-off mishap or breakdown; Hürde = obstacle on the way to a goal; Schwierigkeit = difficulty in doing or achieving something.\n∴ Belastung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Belastung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Belastung"
+    }
+  },
+  {
+    "id": "L-0177",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „wichtig“:  Für Bergwanderungen ist festes Schuhwerk ___, ohne geht es nicht.",
+    "options": [
+      "dringend",
+      "relevant",
+      "unverzichtbar",
+      "vorrangig"
+    ],
+    "answer": "unverzichtbar",
+    "case": "Wortwahl",
+    "focus": "wichtig → unverzichtbar",
+    "explanation": "1. Lazy word: “wichtig” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Sturdy shoes are something one cannot do without.\n3. Ladder: unverzichtbar = indispensable, cannot be done without\n4. The others: relevant = pertinent to the topic or the group concerned; dringend = urgent, time-critical; vorrangig = of top priority, to be done first.\n∴ unverzichtbar",
+    "tags": [
+      "upgrade",
+      "wichtig",
+      "unverzichtbar"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "wichtig",
+      "col": "unverzichtbar"
+    }
+  },
+  {
+    "id": "L-0178",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Sache“:  Die Lehrerin stellte den Schülern eine knifflige ___, die in zehn Minuten zu lösen war.",
+    "options": [
+      "Angelegenheit",
+      "Aufgabe",
+      "Lage",
+      "Maßnahme",
+      "Tatsache"
+    ],
+    "answer": "Aufgabe",
+    "case": "Wortwahl",
+    "focus": "Sache → Aufgabe",
+    "explanation": "1. Lazy word: “Sache” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The teacher sets a tricky exercise to be solved.\n3. Ladder: Aufgabe = task or duty assigned to someone\n4. The others: Angelegenheit = matter or affair to be dealt with; Tatsache = verifiable fact; Maßnahme = measure or action taken against something.\n∴ Aufgabe",
+    "tags": [
+      "upgrade",
+      "sache",
+      "Aufgabe"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Sache",
+      "col": "Aufgabe"
+    }
+  },
+  {
+    "id": "L-0179",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „Problem“:  Der demografische Wandel stellt die Rentenkassen vor eine gewaltige ___.",
+    "options": [
+      "Belastung",
+      "Herausforderung",
+      "Hürde",
+      "Panne",
+      "Störung"
+    ],
+    "answer": "Herausforderung",
+    "case": "Wortwahl",
+    "focus": "Problem → Herausforderung",
+    "explanation": "1. Lazy word: “Problem” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Demographic change confronts the pension funds with a big task.\n3. Ladder: Herausforderung = demanding task one can rise to\n4. The others: Panne = one-off mishap or breakdown; Störung = disruption or malfunction of a process or function; Hürde = obstacle on the way to a goal.\n∴ Herausforderung",
+    "tags": [
+      "upgrade",
+      "problem",
+      "Herausforderung"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "Problem",
+      "col": "Herausforderung"
+    }
+  },
+  {
+    "id": "L-0180",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Mit einer Skizze versuchte sie, ihrem Kollegen die Idee besser zu ___.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "offenbaren",
+      "verdeutlichen"
+    ],
+    "answer": "verdeutlichen",
+    "case": "Wortwahl",
+    "focus": "zeigen → verdeutlichen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: A sketch is used to make an idea clearer.\n3. Ladder: verdeutlichen = make a point clearer\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ verdeutlichen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "verdeutlichen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "verdeutlichen"
+    }
+  },
+  {
+    "id": "L-0181",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Der Verurteilte muss seine Haftstrafe am Montag ___.",
+    "options": [
+      "antreten",
+      "aufnehmen",
+      "beginnen",
+      "einleiten",
+      "eröffnen"
+    ],
+    "answer": "antreten",
+    "case": "Wortwahl",
+    "focus": "anfangen → antreten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The convict has to start serving the sentence.\n3. Ladder: antreten = take up (job, office, journey, sentence)\n4. The others: beginnen = begin, neutral for processes and activities; aufnehmen = take up (contact, relations, activity); eröffnen = open formally (event, shop, proceedings).\n∴ antreten",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "antreten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "antreten"
+    }
+  },
+  {
+    "id": "L-0182",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „anfangen“:  Mit dieser Rede wurde der Kurswechsel der Partei ___.",
+    "options": [
+      "angetreten",
+      "aufgenommen",
+      "eingeleitet",
+      "eröffnet"
+    ],
+    "answer": "eingeleitet",
+    "case": "Wortwahl",
+    "focus": "anfangen → einleiten",
+    "explanation": "1. Lazy word: “anfangen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The speech set a change of course in motion.\n3. Ladder: einleiten = set a process or measure in motion\n4. The others: eröffnen = open formally (event, shop, proceedings); antreten = take up (job, office, journey, sentence); aufnehmen = take up (contact, relations, activity).\n∴ eingeleitet",
+    "tags": [
+      "upgrade",
+      "anfangen",
+      "einleiten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "anfangen",
+      "col": "einleiten"
+    }
+  },
+  {
+    "id": "L-0183",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „denken“:  Die Techniker haben einen Softwarefehler als Ursache ___, prüfen aber noch.",
+    "options": [
+      "bedacht",
+      "nachgedacht",
+      "vermutet",
+      "überlegt"
+    ],
+    "answer": "vermutet",
+    "case": "Wortwahl",
+    "focus": "denken → vermuten",
+    "explanation": "1. Lazy word: “denken” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The technicians suspect a cause without having proof.\n3. Ladder: vermuten = suspect or guess without evidence\n4. The others: überlegen = think over a decision, weigh what to do; bedenken = take into account; nachdenken = reflect deeply about something (über + Akk.).\n∴ vermutet",
+    "tags": [
+      "upgrade",
+      "denken",
+      "vermuten"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "denken",
+      "col": "vermuten"
+    }
+  },
+  {
+    "id": "L-0184",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Der Anwalt hat ausführlich seine Argumentation ___.",
+    "options": [
+      "bewiesen",
+      "dargelegt",
+      "demonstriert",
+      "offenbart"
+    ],
+    "answer": "dargelegt",
+    "case": "Wortwahl",
+    "focus": "zeigen → darlegen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The lawyer set out his line of argument in detail.\n3. Ladder: darlegen = set out reasons or arguments in detail\n4. The others: beweisen = prove conclusively; show a quality; demonstrieren = show practically how it works, or protest; offenbaren = reveal something hidden.\n∴ dargelegt",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "darlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "darlegen"
+    }
+  },
+  {
+    "id": "L-0185",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „bekommen“:  Seit seiner Pensionierung ___ er eine monatliche Rente von 2.400 Euro.",
+    "options": [
+      "bezieht",
+      "erlangt",
+      "erwirbt",
+      "erzielt"
+    ],
+    "answer": "bezieht",
+    "case": "Wortwahl",
+    "focus": "bekommen → beziehen",
+    "explanation": "1. Lazy word: “bekommen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: He draws a regular pension payment.\n3. Ladder: beziehen = receive regularly (salary, pension) or get supplies\n4. The others: erwerben = acquire by purchase or by effort (skills, property); erlangen = attain with effort (access, fame, certainty); erzielen = achieve a result, profit or agreement.\n∴ bezieht",
+    "tags": [
+      "upgrade",
+      "bekommen",
+      "beziehen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "bekommen",
+      "col": "beziehen"
+    }
+  },
+  {
+    "id": "L-0186",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Die Sprachkenntnisse der Bewerberin sind für die Stelle ___, sie versteht kaum Fachtexte.",
+    "options": [
+      "minderwertig",
+      "schädlich",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "unzureichend",
+    "case": "Wortwahl",
+    "focus": "schlecht → unzureichend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Her language skills are not sufficient for the job.\n3. Ladder: unzureichend = not enough, inadequate in amount or extent\n4. The others: schädlich = harmful to health or environment; verheerend = devastating, with disastrous consequences; minderwertig = of inferior quality compared with others.\n∴ unzureichend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "unzureichend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "unzureichend"
+    }
+  },
+  {
+    "id": "L-0187",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Bei starkem Wind kommt es auf der Brücke ___ zu Sperrungen.",
+    "options": [
+      "beträchtlich",
+      "häufig",
+      "umfangreich",
+      "unzählig",
+      "zahlreich"
+    ],
+    "answer": "häufig",
+    "case": "Wortwahl",
+    "focus": "viel → häufig",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Closures happen often, with high frequency.\n3. Ladder: häufig = often, frequent\n4. The others: zahlreich = numerous, for countable things or people; unzählig = countless, too many to count; umfangreich = extensive, large in scope or volume.\n∴ häufig",
+    "tags": [
+      "upgrade",
+      "viel",
+      "häufig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "häufig"
+    }
+  },
+  {
+    "id": "L-0188",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Dass Rauchen ___ für die Lunge ist, weiß heute jedes Kind.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "schädlich",
+      "unzureichend"
+    ],
+    "answer": "schädlich",
+    "case": "Wortwahl",
+    "focus": "schlecht → schädlich",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Smoking damages the lungs.\n3. Ladder: schädlich = harmful to health or environment\n4. The others: mangelhaft = defective or below standard (also grade 5); minderwertig = of inferior quality compared with others; unzureichend = not enough, inadequate in amount or extent.\n∴ schädlich",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "schädlich"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "schädlich"
+    }
+  },
+  {
+    "id": "L-0189",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „viel“:  Gerade bei Jugendlichen tritt diese Erkrankung ___ auf.",
+    "options": [
+      "beträchtlich",
+      "häufig",
+      "reichlich",
+      "umfangreich",
+      "zahlreich"
+    ],
+    "answer": "häufig",
+    "case": "Wortwahl",
+    "focus": "viel → häufig",
+    "explanation": "1. Lazy word: “viel” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The illness occurs frequently in teenagers.\n3. Ladder: häufig = often, frequent\n4. The others: zahlreich = numerous, for countable things or people; beträchtlich = considerable in size or amount; reichlich = ample, more than enough.\n∴ häufig",
+    "tags": [
+      "upgrade",
+      "viel",
+      "häufig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "viel",
+      "col": "häufig"
+    }
+  },
+  {
+    "id": "L-0190",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „gut“:  Die Wettervorhersage der letzten Tage war nicht ___: Trotz Sonnenprognose regnete es dreimal.",
+    "options": [
+      "angemessen",
+      "empfehlenswert",
+      "geeignet",
+      "hervorragend",
+      "zuverlässig"
+    ],
+    "answer": "zuverlässig",
+    "case": "Wortwahl",
+    "focus": "gut → zuverlässig",
+    "explanation": "1. Lazy word: “gut” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The forecast could not be depended on.\n3. Ladder: zuverlässig = reliable, can be depended on\n4. The others: hervorragend = excellent in quality or performance; geeignet = suitable for a specific purpose; angemessen = appropriate in degree or measure.\n∴ zuverlässig",
+    "tags": [
+      "upgrade",
+      "gut",
+      "zuverlässig"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "gut",
+      "col": "zuverlässig"
+    }
+  },
+  {
+    "id": "L-0191",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Die Geschäftsführung muss ihre Pläne gegenüber den Aktionären schlüssig ___.",
+    "options": [
+      "belegen",
+      "beweisen",
+      "darlegen",
+      "offenbaren"
+    ],
+    "answer": "darlegen",
+    "case": "Wortwahl",
+    "focus": "zeigen → darlegen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: Management has to explain its plans in a coherent, detailed way.\n3. Ladder: darlegen = set out reasons or arguments in detail\n4. The others: belegen = support with evidence or sources; beweisen = prove conclusively; show a quality; offenbaren = reveal something hidden.\n∴ darlegen",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "darlegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "darlegen"
+    }
+  },
+  {
+    "id": "L-0192",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „zeigen“:  Die Autorin ___ jede Behauptung in ihrem Buch mit Quellenangaben.",
+    "options": [
+      "belegt",
+      "beweist",
+      "demonstriert",
+      "offenbart",
+      "verdeutlicht"
+    ],
+    "answer": "belegt",
+    "case": "Wortwahl",
+    "focus": "zeigen → belegen",
+    "explanation": "1. Lazy word: “zeigen” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The author supports each claim with sources.\n3. Ladder: belegen = support with evidence or sources\n4. The others: beweisen = prove conclusively; show a quality; verdeutlichen = make a point clearer; demonstrieren = show practically how it works, or protest.\n∴ belegt",
+    "tags": [
+      "upgrade",
+      "zeigen",
+      "belegen"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "zeigen",
+      "col": "belegen"
+    }
+  },
+  {
+    "id": "L-0193",
+    "level": "B",
+    "type": "lazy_upgrade",
+    "sentence": "Instead of „schlecht“:  Die Folgen des Erdbebens waren ___: Tausende Häuser stürzten ein, ganze Dörfer verschwanden.",
+    "options": [
+      "mangelhaft",
+      "minderwertig",
+      "ungünstig",
+      "unzureichend",
+      "verheerend"
+    ],
+    "answer": "verheerend",
+    "case": "Wortwahl",
+    "focus": "schlecht → verheerend",
+    "explanation": "1. Lazy word: “schlecht” is correct but says nothing about HOW / WHAT KIND\n2. The sentence needs: The consequences were disastrous and devastating.\n3. Ladder: verheerend = devastating, with disastrous consequences\n4. The others: ungünstig = unfavourable for timing or conditions; mangelhaft = defective or below standard (also grade 5); minderwertig = of inferior quality compared with others.\n∴ verheerend",
+    "tags": [
+      "upgrade",
+      "schlecht",
+      "verheerend"
+    ],
+    "ref": {
+      "table": "ladder",
+      "row": "schlecht",
+      "col": "verheerend"
+    }
+  }
+]

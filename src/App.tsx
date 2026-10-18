@@ -1,9 +1,11 @@
 import { useState, useEffect, useCallback } from 'react';
-import type { ChunkGroup, Exercise } from './types';
+import type { ChunkGroup, ConnectorTableData, Exercise, PanelGroup } from './types';
 import ReferenceTables from './components/ReferenceTables';
 import ChunkList from './components/ChunkList';
 import AdjectiveTables from './components/AdjectiveTables';
 import PossessiveTables from './components/PossessiveTables';
+import ChipPanel from './components/ChipPanel';
+import ConnectorTable from './components/ConnectorTable';
 import QuestionCard from './components/QuestionCard';
 import aDataRaw from './data/a.json';
 import bDataRaw from './data/b.json';
@@ -11,6 +13,14 @@ import cDataRaw from './data/c.json';
 import vpDataRaw from './data/vp.json';
 import adjDataRaw from './data/adj.json';
 import possDataRaw from './data/poss.json';
+import decDataRaw from './data/dec.json';
+import decRulesRaw from './data/dec_rules.json';
+import fuzDataRaw from './data/fuz.json';
+import fuzGroupsRaw from './data/fuz_groups.json';
+import lazyDataRaw from './data/lazy.json';
+import lazyLaddersRaw from './data/lazy_ladders.json';
+import konDataRaw from './data/kon.json';
+import konTableRaw from './data/kon_table.json';
 import vpChunksRaw from './data/vp_chunks.json';
 
 const DATA: Record<string, Exercise[]> = {
@@ -20,7 +30,16 @@ const DATA: Record<string, Exercise[]> = {
   VP: vpDataRaw as Exercise[],
   ADJ: adjDataRaw as Exercise[],
   EIN: possDataRaw as Exercise[],
+  DEC: decDataRaw as Exercise[],
+  FUZ: fuzDataRaw as Exercise[],
+  LAZY: lazyDataRaw as Exercise[],
+  KON: konDataRaw as Exercise[],
 };
+
+const DEC_RULES = decRulesRaw as PanelGroup[];
+const FUZ_GROUPS = fuzGroupsRaw as PanelGroup[];
+const LAZY_LADDERS = lazyLaddersRaw as PanelGroup[];
+const KON_TABLE = konTableRaw as ConnectorTableData;
 
 const CHUNK_GROUPS = vpChunksRaw as ChunkGroup[];
 
@@ -33,9 +52,20 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-type Level = 'A' | 'B' | 'C' | 'VP' | 'ADJ' | 'EIN';
-const LEVELS: Level[] = ['A', 'B', 'C', 'VP', 'ADJ', 'EIN'];
-const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P', ADJ: 'ADJ', EIN: 'EIN' };
+type Level = 'A' | 'B' | 'C' | 'VP' | 'ADJ' | 'EIN' | 'DEC' | 'FUZ' | 'LAZY' | 'KON';
+const GROUPS: { title: string; hint: string; levels: Level[] }[] = [
+  {
+    title: 'Case',
+    hint: 'A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks · ADJ = adjective endings · EIN = ein / kein / mein endings',
+    levels: ['A', 'B', 'C', 'VP', 'ADJ', 'EIN'],
+  },
+  {
+    title: 'B2 Wortschatz',
+    hint: 'Decoder = English → German by rules · Bug hunt = wrong collocation · Upgrade = replace lazy words · Logik = connectors',
+    levels: ['DEC', 'FUZ', 'LAZY', 'KON'],
+  },
+];
+const LEVEL_LABEL: Record<Level, string> = { A: 'A', B: 'B', C: 'C', VP: 'V+P', ADJ: 'ADJ', EIN: 'EIN', DEC: 'Decoder', FUZ: 'Bug hunt', LAZY: 'Upgrade', KON: 'Logik' };
 
 export default function App() {
   const [level, setLevel] = useState<Level | null>(null);
@@ -119,38 +149,41 @@ export default function App() {
       <div className="home">
         <h1>German Case Practice</h1>
         <p className="tagline">Repetitive practice. No lessons. Just do.</p>
-        <div className="level-buttons">
-          {LEVELS.map((l) => (
-            <button key={l} className="level-btn" onClick={() => setLevel(l)}>
-              {LEVEL_LABEL[l]}
-            </button>
-          ))}
-        </div>
-        <p className="level-hint">
-          A = everyday · B = workplace / travel · C = abstract / academic · V+P = verb + preposition chunks · ADJ = adjective endings · EIN = ein / kein / mein endings
-        </p>
+        {GROUPS.map((g) => (
+          <div key={g.title} className="home-group">
+            <div className="home-group-title">{g.title}</div>
+            <div className="level-buttons">
+              {g.levels.map((l) => (
+                <button key={l} className={`level-btn${LEVEL_LABEL[l].length > 4 ? ' wide' : ''}`} onClick={() => setLevel(l)}>
+                  {LEVEL_LABEL[l]}
+                </button>
+              ))}
+            </div>
+            <p className="level-hint">{g.hint}</p>
+          </div>
+        ))}
       </div>
     );
   }
 
   // --- Practice screen ---
   return (
-    <div className="practice">
+    <div className={`practice${level === 'KON' ? ' wide-side' : ''}`}>
       {/* Top bar */}
       <div className="top-bar">
         <div className="top-bar-left">
           <span className="top-bar-title">Case Practice</span>
-          <div className="level-switch">
-            {LEVELS.map((l) => (
-              <button
-                key={l}
-                className={`mini-level-btn ${level === l ? 'active' : ''}`}
-                onClick={() => setLevel(l)}
-              >
-                {LEVEL_LABEL[l]}
-              </button>
+          <select className="level-select" value={level} onChange={(e) => setLevel(e.target.value as Level)}>
+            {GROUPS.map((g) => (
+              <optgroup key={g.title} label={g.title}>
+                {g.levels.map((l) => (
+                  <option key={l} value={l}>
+                    {LEVEL_LABEL[l]}
+                  </option>
+                ))}
+              </optgroup>
             ))}
-          </div>
+          </select>
         </div>
         <div className="top-bar-right">
           <div className="counter">
@@ -170,7 +203,33 @@ export default function App() {
 
       {/* Sidebar — reference tables */}
       <aside className="sidebar">
-        {level === 'VP' ? (
+        {level === 'DEC' ? (
+          <ChipPanel
+            table="rules"
+            title="Sound-shift rules"
+            hint="Predict the German form. The rule you needed shows up here after you answer."
+            groups={DEC_RULES}
+            highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+          />
+        ) : level === 'FUZ' ? (
+          <ChipPanel
+            table="ladder"
+            title="Natural partners"
+            hint="Tap the word that does not belong. The natural partners show up here after you answer."
+            groups={FUZ_GROUPS}
+            highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+          />
+        ) : level === 'LAZY' ? (
+          <ChipPanel
+            table="ladder"
+            title="Upgrade ladders"
+            hint="Pick the precise word. The ladder of the lazy word shows up here after you answer."
+            groups={LAZY_LADDERS}
+            highlight={selectedAnswer !== null ? current?.ref ?? null : null}
+          />
+        ) : level === 'KON' ? (
+          <ConnectorTable data={KON_TABLE} highlight={selectedAnswer !== null ? current?.ref ?? null : null} answer={current?.answer ?? null} />
+        ) : level === 'VP' ? (
           <ChunkList groups={CHUNK_GROUPS} highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
         ) : level === 'EIN' ? (
           <PossessiveTables highlight={selectedAnswer !== null ? current?.ref ?? null : null} />
